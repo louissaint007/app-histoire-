@@ -1,0 +1,810 @@
+[
+  {
+    "id": "citadelle-henry",
+    "title": "Citadelle Henry",
+    "location": "Milot, Nord, Haïti",
+    "region": "Caraïbes",
+    "period": "Haïti indépendante, début du XIXe siècle",
+    "dateLabel": "Construite après 1804, inaugurée en 1813",
+    "siteType": "Forteresse",
+    "function": "Défendre le jeune État haïtien contre une nouvelle invasion et abriter une garnison.",
+    "history": "Après l’indépendance, Henri Christophe fait bâtir cette forteresse au sommet du pic Laferrière. Ses remparts, ses batteries et ses citernes en font un ouvrage militaire majeur.",
+    "importance": "Elle témoigne de la défense de l’indépendance d’Haïti et du savoir-faire des bâtisseurs haïtiens libres.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Composante du Parc national historique, inscrit au patrimoine mondial de l’UNESCO en 1982."
+    },
+    "visual": {
+      "credit": "© Rémi Kaupp, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadelle%20Laferri%C3%A8re.jpg?width=1200",
+      "caption": "La Citadelle Laferrière, près de Milot en Haïti, vue depuis le chemin d’accès.",
+      "alt": "La Citadelle Laferrière, près de Milot en Haïti, vue depuis le chemin d’accès.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Citadelle%20Laferri%C3%A8re.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 3.0"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadelle_Laferri%C3%A8re_from_above.jpg?width=1400",
+        "alt": "Vue de la Citadelle Laferrière depuis sa plateforme supérieure.",
+        "caption": "Vue depuis la plateforme supérieure; photographie de 2006.",
+        "context": "Cette vue montre l’implantation de la forteresse sur le relief autour de Milot. C’est une photographie contemporaine du site; elle ne permet pas à elle seule de reconstituer son aspect d’origine.",
+        "credit": "© Rémi Kaupp (Korrigan), Wikimedia Commons",
+        "license": "CC BY-SA 3.0 (licences multiples indiquées sur la page de fichier)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": {
+          "title": "Citadelle Laferrière from above.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re_from_above.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Citadelle_Laferri%C3%A8re_back_wall.jpg?width=1400",
+        "alt": "Mur arrière de la Citadelle Laferrière et réserve de boulets.",
+        "caption": "Mur arrière et réserve de boulets; photographie de 2006.",
+        "context": "Le cadrage documente un élément matériel du système défensif. Il montre l’état photographié en 2006 et ne représente pas une scène de combat historique.",
+        "credit": "© Rémi Kaupp (Korrigan), Wikimedia Commons",
+        "license": "CC BY-SA 3.0 (licences multiples indiquées sur la page de fichier)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": {
+          "title": "Citadelle Laferrière back wall.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Citadelle_Laferri%C3%A8re_back_wall.jpg"
+        }
+      }
+    ],
+    "source": {
+      "title": "Parc national historique – Citadelle, Sans Souci, Ramiers",
+      "url": "https://whc.unesco.org/fr/list/180/"
+    }
+  },
+  {
+    "id": "palais-sans-souci",
+    "title": "Palais Sans-Souci",
+    "location": "Milot, Nord, Haïti",
+    "region": "Caraïbes",
+    "period": "Royaume du Nord d’Haïti, début du XIXe siècle",
+    "dateLabel": "Inauguré en 1813",
+    "siteType": "Palais et ensemble royal",
+    "function": "Résidence du roi Henri Christophe et centre administratif de son royaume.",
+    "history": "Henri Christophe fit construire le palais près de Milot. Le vaste ensemble comprenait des bâtiments officiels, des jardins et des dépendances. Abandonné après 1820, il fut endommagé par le séisme de 1842.",
+    "importance": "Ses ruines montrent les ambitions politiques et architecturales du royaume haïtien après l’indépendance.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Composante du Parc national historique, inscrit au patrimoine mondial de l’UNESCO en 1982."
+    },
+    "visual": {
+      "credit": "Photo de Didier Moïse, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sans-Souci%20Palace%2C%20National%20History%20Park%2C%20Haiti.jpg?width=1200",
+      "caption": "Vue du palais Sans-Souci dans le Parc national historique d’Haïti.",
+      "alt": "Vue du palais Sans-Souci dans le Parc national historique d’Haïti.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Sans-Souci%20Palace%2C%20National%20History%20Park%2C%20Haiti.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sans-Souci_Palace_Haiti_%288070547389%29.jpg?width=1400",
+        "alt": "Vue du palais Sans-Souci dans le nord d’Haïti.",
+        "caption": "Photographie contemporaine du palais Sans-Souci; elle documente les ruines visibles, non l’édifice intact de 1813.",
+        "context": "Cette autre vue du palais aide à observer son état actuel. Prise au XXIe siècle, elle ne représente pas la vie de cour sous Henri Christophe.",
+        "credit": "© rapidtravelchai, Wikimedia Commons (photo publiée à l’origine sur Flickr)",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": {
+          "title": "Sans-Souci Palace Haiti (8070547389).jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Sans-Souci_Palace_Haiti_(8070547389).jpg"
+        }
+      }
+    ],
+    "source": {
+      "title": "Parc national historique – Citadelle, Sans Souci, Ramiers",
+      "url": "https://whc.unesco.org/fr/list/180/"
+    }
+  },
+  {
+    "id": "ramiers",
+    "title": "Site des Ramiers",
+    "location": "Milot, Nord, Haïti",
+    "region": "Caraïbes",
+    "period": "Haïti indépendante, début du XIXe siècle",
+    "dateLabel": "Début du XIXe siècle",
+    "siteType": "Ensemble résidentiel et fortifié",
+    "function": "Protéger un ensemble résidentiel et participer à la défense du territoire.",
+    "history": "Sur un plateau proche de la Citadelle se trouvent des fondations et des murs associés à un ensemble résidentiel protégé par des redoutes fortifiées.",
+    "importance": "Le site complète la lecture du système de défense et d’organisation établi dans le nord d’Haïti après 1804.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Composante du Parc national historique, inscrit au patrimoine mondial de l’UNESCO en 1982."
+    },
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Les_Ramier,_citadelle_du_roi_Henri_Christophe.JPG?width=1200",
+      "alt": "Une tour défensive du site des Ramiers, près de la Citadelle Henry dans le nord d’Haïti.",
+      "caption": "Une redoute des Ramiers, ensemble défensif proche de la Citadelle Henry.",
+      "credit": "© Iconem, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Les Ramier, citadelle du roi Henri Christophe",
+        "publisher": "Iconem / Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Les_Ramier,_citadelle_du_roi_Henri_Christophe.JPG"
+      }
+    },
+    "source": {
+      "title": "Parc national historique – Citadelle, Sans Souci, Ramiers",
+      "url": "https://whc.unesco.org/fr/list/180/"
+    }
+  },
+  {
+    "id": "centre-historique-jacmel",
+    "title": "Centre historique de Jacmel",
+    "location": "Jacmel, Sud-Est, Haïti",
+    "region": "Caraïbes",
+    "period": "Ville portuaire haïtienne, XVIIIe–XXe siècles",
+    "dateLabel": "Développement à partir du XVIIIe siècle",
+    "siteType": "Centre urbain historique",
+    "function": "Port, commerce et vie urbaine régionale.",
+    "history": "Jacmel s’est développée comme ville portuaire. Son centre conserve un ensemble urbain dont l’architecture et l’histoire sont liées à plusieurs périodes de la vie de la ville.",
+    "importance": "Ce lieu permet d’étudier l’histoire urbaine, les échanges et le patrimoine bâti d’Haïti au-delà des monuments du Nord.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Bien proposé par Haïti sur la Liste indicative de l’UNESCO depuis 2004; il n’est pas inscrit au patrimoine mondial."
+    },
+    "visual": {
+      "credit": "© Lëa-Kim Châteauneuf, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hotel%20communal%20de%20Jacmel.jpeg?width=1200",
+      "caption": "L’hôtel communal de Jacmel, photographié en 2018.",
+      "alt": "L’hôtel communal de Jacmel, photographié en 2018.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Hotel%20communal%20de%20Jacmel.jpeg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 2.0"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacmel-haiti.jpg?width=1400",
+        "alt": "Maison ancienne de la rue de Conti à Jacmel.",
+        "caption": "Maison de la rue de Conti, photographiée le 26 avril 2017.",
+        "context": "Cette photographie montre un bâtiment de la rue de Conti et complète la vue de l’hôtel communal. Elle illustre le tissu bâti de Jacmel, sans dater à elle seule la construction de cette maison.",
+        "credit": "© Borrione, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "Jacmel-haiti.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Jacmel-haiti.jpg"
+        }
+      }
+    ],
+    "source": {
+      "title": "Centre historique de Jacmel – Liste indicative de l’UNESCO",
+      "url": "https://whc.unesco.org/en/tentativelists/1947/"
+    }
+  },
+  {
+    "id": "machu-picchu",
+    "title": "Sanctuaire historique de Machu Picchu",
+    "location": "Région de Cusco, Pérou",
+    "region": "Amérique du Sud",
+    "period": "Empire inca, XVe–XVIe siècles",
+    "dateLabel": "Construit au XVe siècle",
+    "siteType": "Ville et sanctuaire de montagne",
+    "function": "Centre résidentiel, cérémoniel, agricole et probablement administratif.",
+    "history": "Établi dans les Andes sous l’Empire inca, Machu Picchu rassemble des bâtiments de pierre, des terrasses agricoles et des canaux. Le site fut abandonné au XVIe siècle, après la conquête espagnole.",
+    "importance": "Son urbanisme et ses terrasses montrent comment les Incas ont aménagé un relief montagneux.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Inscrit au patrimoine mondial de l’UNESCO en 1983 comme bien culturel et naturel."
+    },
+    "visual": {
+      "credit": "© Pedro Szekely, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Machu%20Picchu%2C%20Peru.jpg?width=1200",
+      "caption": "Machu Picchu et les montagnes des Andes, au Pérou.",
+      "alt": "Machu Picchu et les montagnes des Andes, au Pérou.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Machu%20Picchu%2C%20Peru.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 2.0"
+    },
+    "source": {
+      "title": "Historic Sanctuary of Machu Picchu – UNESCO",
+      "url": "https://whc.unesco.org/en/list/274/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Foto_Panoramica_de_Machu_Picchu.jpg?width=1400",
+        "alt": "Vue panoramique du sanctuaire de Machu Picchu dans les Andes.",
+        "caption": "Vue panoramique contemporaine du site et de son relief montagneux.",
+        "context": "La photographie montre l’organisation du sanctuaire dans le paysage andin. Elle documente l’état actuel du site et ne représente pas son apparence au XVe siècle.",
+        "credit": "© Diquispe, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "Foto Panoramica de Machu Picchu.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Foto_Panoramica_de_Machu_Picchu.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "chichen-itza",
+    "model3d": "chichen-itza",
+    "title": "Ville préhispanique de Chichén-Itzá",
+    "location": "Yucatán, Mexique",
+    "region": "Amérique du Nord et Amérique centrale",
+    "period": "Civilisations maya et maya-toltèque, VIe–XVe siècles",
+    "dateLabel": "Principaux monuments construits du VIe au XIIIe siècle",
+    "siteType": "Ville et centre cérémoniel",
+    "function": "Centre politique, religieux et cérémoniel; ses bâtiments comprenaient aussi un observatoire.",
+    "history": "Plusieurs peuples ont marqué cette ville sacrée du Yucatán. Ses monuments associent des traditions mayas à des éléments venus du centre du Mexique.",
+    "importance": "Le site révèle les échanges culturels et les savoirs architecturaux de sociétés mésoaméricaines.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Inscrit au patrimoine mondial de l’UNESCO en 1988."
+    },
+    "visual": {
+      "credit": "© Daniel Schwen, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen%20Itza%201.jpg?width=1200",
+      "caption": "Le temple des Guerriers à Chichén-Itzá, au Mexique.",
+      "alt": "Le temple des Guerriers à Chichén-Itzá, au Mexique.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Chichen%20Itza%201.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "source": {
+      "title": "Pre-Hispanic City of Chichen-Itza – UNESCO",
+      "url": "https://whc.unesco.org/en/list/483/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chichen_itza_ruins.jpg?width=1400",
+        "alt": "Ruines de la cité préhispanique de Chichén-Itzá.",
+        "caption": "Vue contemporaine de vestiges de Chichén-Itzá.",
+        "context": "Cette photographie montre les vestiges conservés du site. Elle n’identifie pas à elle seule la fonction ou la période de chaque bâtiment visible.",
+        "credit": "© Johnycanal (WT-shared), Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "Chichen itza ruins.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Chichen_itza_ruins.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "great-zimbabwe",
+    "title": "Grand Zimbabwe",
+    "location": "Province des Midlands, Zimbabwe",
+    "region": "Afrique australe",
+    "period": "Civilisation shona, XIe–XVe siècles",
+    "dateLabel": "Construit entre environ 1100 et 1450",
+    "siteType": "Ville fortifiée et centre politique",
+    "function": "Résidence, centre politique et important lieu d’échanges.",
+    "history": "Cette ville de pierre fut un centre majeur d’un État shona. Les ruines comprennent l’Acropole, la Grande Enceinte et des quartiers installés dans la vallée.",
+    "importance": "Les murs de pierre et les objets venus de régions lointaines témoignent d’une société organisée et reliée à de vastes réseaux commerciaux.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Inscrit au patrimoine mondial de l’UNESCO en 1986."
+    },
+    "visual": {
+      "credit": "© Todinirunganga, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Zimbabwe.jpg?width=1200",
+      "caption": "Vestiges de pierre du Grand Zimbabwe, au Zimbabwe.",
+      "alt": "Vestiges de pierre du Grand Zimbabwe, au Zimbabwe.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Great%20Zimbabwe.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "source": {
+      "title": "Great Zimbabwe National Monument – UNESCO",
+      "url": "https://whc.unesco.org/en/list/364/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Zimbabwe_%2810%29.jpg?width=1400",
+        "alt": "Vestiges du Grand Zimbabwe photographiés en 2015.",
+        "caption": "Photographie contemporaine des ruines du Grand Zimbabwe.",
+        "context": "Cette vue documente les ruines archéologiques telles qu’elles apparaissaient en 2015; elle ne constitue pas une reconstitution de la ville au Moyen Âge.",
+        "credit": "© Fanny Schertzer, Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": {
+          "title": "Great Zimbabwe (10).jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Great_Zimbabwe_%2810%29.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "timbuktu",
+    "title": "Mosquées et sites historiques de Tombouctou",
+    "location": "Tombouctou, Mali",
+    "region": "Afrique de l’Ouest",
+    "period": "Moyen Âge africain, XIVe–XVIe siècles",
+    "dateLabel": "Mosquées construites ou agrandies du XIVe au XVIe siècle",
+    "siteType": "Mosquées, mausolées et ville historique",
+    "function": "Prière, enseignement religieux, vie intellectuelle et échanges commerciaux.",
+    "history": "Tombouctou devint un grand centre intellectuel et spirituel. Ses mosquées de terre, ses écoles et ses manuscrits témoignent de son rôle dans les réseaux sahariens.",
+    "importance": "Le site rappelle l’importance des villes africaines dans la transmission du savoir et les échanges entre régions.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Inscrit au patrimoine mondial de l’UNESCO en 1988; également inscrit sur la Liste du patrimoine mondial en péril depuis 2012."
+    },
+    "visual": {
+      "credit": "© HistoriaSalutis, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Djinguereber%20Mosque%2C%20Timbuktu%2C%20Mali.jpg?width=1200",
+      "caption": "La mosquée Djinguereber à Tombouctou, construite en terre.",
+      "alt": "La mosquée Djinguereber à Tombouctou, construite en terre.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Djinguereber%20Mosque%2C%20Timbuktu%2C%20Mali.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "source": {
+      "title": "Timbuktu – UNESCO",
+      "url": "https://whc.unesco.org/en/list/119/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Timbuktu_Mosque_Sankore.jpg?width=1400",
+        "alt": "Mosquée Sankoré à Tombouctou.",
+        "caption": "Photographie de la mosquée Sankoré prise en 2006.",
+        "context": "La vue documente l’architecture en terre de la mosquée Sankoré à l’époque contemporaine. Elle n’illustre pas directement les activités d’enseignement des XIVe–XVIe siècles.",
+        "credit": "© Senani P (photo publiée à l’origine sur Wikipédia), Wikimedia Commons",
+        "license": "CC BY 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+        "source": {
+          "title": "Timbuktu Mosque Sankore.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Timbuktu_Mosque_Sankore.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "acropole-athenes",
+    "model3d": "parthenon",
+    "title": "Acropole d’Athènes",
+    "location": "Athènes, Grèce",
+    "region": "Europe",
+    "period": "Grèce antique, principalement Ve siècle av. J.-C.",
+    "dateLabel": "Parthénon construit entre 447 et 432 av. J.-C.",
+    "siteType": "Ensemble monumental et sanctuaire",
+    "function": "Lieu fortifié et sanctuaire dédié notamment à la déesse Athéna.",
+    "history": "Au Ve siècle av. J.-C., Athènes lança un grand programme de construction sur la colline. Il comprenait le Parthénon, les Propylées, l’Érechthéion et le temple d’Athéna Nikè.",
+    "importance": "Ses monuments sont des exemples majeurs de l’architecture grecque classique et sont associés à l’histoire de la cité d’Athènes.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Inscrite au patrimoine mondial de l’UNESCO en 1987."
+    },
+    "visual": {
+      "credit": "© Oleksandr Troitskyi, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Acropolis%2C%20Athens.jpg?width=1200",
+      "caption": "L’Acropole d’Athènes au coucher du soleil.",
+      "alt": "L’Acropole d’Athènes au coucher du soleil.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Acropolis%2C%20Athens.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "source": {
+      "title": "Acropolis, Athens – UNESCO",
+      "url": "https://whc.unesco.org/en/list/404/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/AcropolisAthens.jpg?width=1400",
+        "alt": "Vue de l’Acropole d’Athènes avec les Propylées et les Caryatides reconstituées de l’Érechthéion.",
+        "caption": "Vue prise en 2012; les Caryatides visibles sont des répliques.",
+        "context": "La photographie permet de repérer plusieurs monuments de l’Acropole. Les statues de Caryatides visibles sont des répliques, ce qui doit être pris en compte lors de l’observation.",
+        "credit": "© Geomel, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "AcropolisAthens.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:AcropolisAthens.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "rome-antique",
+    "model3d": "colosseum",
+    "title": "Centre historique de Rome",
+    "location": "Rome, Italie",
+    "region": "Europe",
+    "period": "Antiquité à époque moderne",
+    "dateLabel": "Ville fondée, selon la tradition, en 753 av. J.-C.",
+    "siteType": "Centre urbain historique",
+    "function": "Centre politique, administratif, religieux et culturel à différentes époques.",
+    "history": "Rome fut le centre de la République puis de l’Empire romain, avant de devenir un centre majeur du christianisme. Son paysage conserve des monuments de plusieurs périodes.",
+    "importance": "Les couches successives de la ville montrent comment un même lieu a changé de rôle au cours de près de trois millénaires.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Centre historique inscrit au patrimoine mondial de l’UNESCO en 1980; le bien a été étendu en 1990."
+    },
+    "visual": {
+      "credit": "© Gaiuss12, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Colosseo%20Roma.jpg?width=1200",
+      "caption": "Vue extérieure du Colisée à Rome.",
+      "alt": "Vue extérieure du Colisée à Rome.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Colosseo%20Roma.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "source": {
+      "title": "Historic Centre of Rome – UNESCO",
+      "url": "https://whc.unesco.org/en/list/91/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Colosseum_in_Rome,_Italy.jpg?width=1400",
+        "alt": "Vue extérieure du Colisée à Rome.",
+        "caption": "Photographie contemporaine du Colisée, prise en 2016.",
+        "context": "Cette vue montre l’état actuel de l’amphithéâtre. Elle ne renseigne pas à elle seule sur ses usages antiques ni sur les transformations du centre historique de Rome.",
+        "credit": "© Lemaneb, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "The Colosseum in Rome, Italy.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Colosseum_in_Rome,_Italy.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "taj-mahal",
+    "title": "Taj Mahal",
+    "location": "Agra, Uttar Pradesh, Inde",
+    "region": "Asie du Sud",
+    "period": "Empire moghol, XVIIe siècle",
+    "dateLabel": "Mausolée construit de 1632 à 1648; le complexe achevé en 1653",
+    "siteType": "Mausolée et ensemble de jardins",
+    "function": "Tombeau construit sur ordre de l’empereur Shah Jahan pour son épouse Mumtaz Mahal.",
+    "history": "Le complexe de marbre blanc fut bâti sous l’empire moghol. Des artisans venus de différentes régions participèrent aux travaux et aux décors de pierre.",
+    "importance": "Il témoigne de l’architecture funéraire moghole et du travail d’artisans de plusieurs traditions.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Inscrit au patrimoine mondial de l’UNESCO en 1983."
+    },
+    "visual": {
+      "credit": "© Krulock221B, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj%20Mahal%2C%20Agra%20India.jpg?width=1200",
+      "caption": "Le Taj Mahal et son bassin de réflexion à Agra, en Inde.",
+      "alt": "Le Taj Mahal et son bassin de réflexion à Agra, en Inde.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Taj%20Mahal%2C%20Agra%20India.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "source": {
+      "title": "Taj Mahal – UNESCO",
+      "url": "https://whc.unesco.org/en/list/252/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taj_Mahal_%28Edited%29.jpeg?width=1400",
+        "alt": "Vue du Taj Mahal et de son bassin à Agra.",
+        "caption": "Vue contemporaine du mausolée et de son bassin.",
+        "context": "L’image montre le Taj Mahal dans son cadre paysager actuel; elle ne représente pas l’ensemble du complexe au XVIIe siècle.",
+        "credit": "© Yann; version éditée par Jim Carter, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "Taj Mahal (Edited).jpeg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_%28Edited%29.jpeg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "angkor",
+    "title": "Parc archéologique d’Angkor",
+    "location": "Province de Siem Reap, Cambodge",
+    "region": "Asie du Sud-Est",
+    "period": "Empire khmer, IXe–XVe siècles",
+    "dateLabel": "Capitals et monuments développés du IXe au XVe siècle",
+    "siteType": "Complexe de temples et anciennes capitales",
+    "function": "Centres religieux et politiques, intégrés à des systèmes urbains et hydrauliques.",
+    "history": "Le parc conserve les vestiges de plusieurs capitales khmères, dont Angkor Vat et Angkor Thom. Temples, réservoirs, canaux et voies formaient un vaste paysage aménagé.",
+    "importance": "Angkor montre l’ampleur des villes khmères et l’importance de l’eau dans leur organisation.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Inscrit au patrimoine mondial de l’UNESCO en 1992."
+    },
+    "visual": {
+      "credit": "© Bjørn Christian Tørrissen, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Angkor%20Wat.jpg?width=1200",
+      "caption": "La façade principale du temple d’Angkor Vat, au Cambodge.",
+      "alt": "La façade principale du temple d’Angkor Vat, au Cambodge.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Angkor%20Wat.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "source": {
+      "title": "Angkor – UNESCO",
+      "url": "https://whc.unesco.org/en/list/668/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Cambodia_2638B_-_Angkor_Wat.jpg?width=1400",
+        "alt": "Vue de la structure centrale d’Angkor Vat depuis l’enceinte extérieure.",
+        "caption": "Vue du temple d’Angkor Vat prise depuis son enceinte extérieure.",
+        "context": "Cette photographie contemporaine aide à observer le temple central et son enceinte. Elle ne représente qu’une partie du parc archéologique et de ses anciennes capitales.",
+        "credit": "© Hzh (photo d’origine de Pauk sur Flickr), Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": {
+          "title": "Cambodia 2638B - Angkor Wat.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Cambodia_2638B_-_Angkor_Wat.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "grande-muraille",
+    "title": "Grande Muraille de Chine",
+    "location": "Nord de la Chine",
+    "region": "Asie de l’Est",
+    "period": "De l’Antiquité à la dynastie Ming, IIIe siècle av. J.-C.–XVIIe siècle",
+    "dateLabel": "Tronçons réunis vers 220 av. J.-C.; travaux poursuivis jusqu’en 1644",
+    "siteType": "Système de fortifications",
+    "function": "Défense et surveillance de la frontière nord de différents empires chinois.",
+    "history": "Des fortifications plus anciennes furent reliées sous Qin Shi Huang vers 220 av. J.-C. Les travaux se poursuivirent sous plusieurs dynasties, notamment les Ming.",
+    "importance": "Son étendue et ses tours illustrent les stratégies de défense et l’organisation du travail à grande échelle.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Inscrite au patrimoine mondial de l’UNESCO en 1987."
+    },
+    "visual": {
+      "credit": "© Bjoertvedt, Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great%20Wall%20of%20China%20at%20Juyongguan%20IMG%206044.jpg?width=1200",
+      "caption": "La Grande Muraille à Juyongguan, en Chine.",
+      "alt": "La Grande Muraille à Juyongguan, en Chine.",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Fiche image Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Great%20Wall%20of%20China%20at%20Juyongguan%20IMG%206044.jpg",
+        "publisher": "Wikimedia Commons"
+      },
+      "license": "CC BY-SA 4.0"
+    },
+    "source": {
+      "title": "The Great Wall – UNESCO",
+      "url": "https://whc.unesco.org/en/list/438/"
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Wall_of_China_at_Juyongguan_IMG_6096.jpg?width=1400",
+        "alt": "La Grande Muraille au col de Juyongguan, au nord de Pékin.",
+        "caption": "Vue de la Grande Muraille à Juyongguan, photographiée en 2017.",
+        "context": "Cette vue montre un tronçon de Juyongguan et son environnement. La muraille est un ensemble de fortifications construit et remanié à différentes époques; cette photographie ne représente pas tous les tronçons.",
+        "credit": "© Bjoertvedt, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "Great Wall of China at Juyongguan IMG 6096.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Great_Wall_of_China_at_Juyongguan_IMG_6096.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "crete-a-pierrot",
+    "title": "Fort de la Crête-à-Pierrot",
+    "location": "Petite-Rivière-de-l’Artibonite, Artibonite, Haïti",
+    "region": "Caraïbes",
+    "period": "Révolution haïtienne, expédition française de Saint-Domingue",
+    "dateLabel": "Siège du 4 au 24 mars 1802",
+    "siteType": "Fort et lieu de bataille",
+    "function": "Position fortifiée contrôlant les environs de la vallée de l’Artibonite.",
+    "history": "Pendant l’expédition française de 1802, les forces de Toussaint Louverture défendirent le fort contre les troupes commandées par Charles Leclerc. Le siège dura du 4 au 24 mars. Les Français finirent par prendre la position, mais les pertes et la résistance rencontrée en firent un épisode marquant de l’expédition. Le lieu permet d’étudier les fortifications, les stratégies militaires et les récits concurrents de la guerre.",
+    "importance": "La bataille relie un lieu de l’Artibonite aux débats sur la liberté, la guerre et le rétablissement de l’esclavage dans les colonies françaises.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Plan_de_la_Cr%C3%AAte_%C3%A0_Pierrot_et_de_ses_environs_-_btv1b530985678.jpg?width=1400",
+      "alt": "Plan de la Crête-à-Pierrot et de ses environs, réalisé en 1802.",
+      "caption": "Plan de la bataille et de ses environs; carte produite en 1802.",
+      "credit": "L. Delafosse, Bibliothèque nationale de France / Gallica, via Wikimedia Commons",
+      "license": "Domaine public (page de fichier : PD-France et PD-US)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Plan de la Crête à Pierrot et de ses environs — notice du fichier",
+        "publisher": "Wikimedia Commons / Gallica (BnF)",
+        "url": "https://commons.wikimedia.org/wiki/File:Plan_de_la_Cr%C3%AAte_%C3%A0_Pierrot_et_de_ses_environs_-_btv1b530985678.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Combat_et_prise_de_la_Cr%C3%AAte-%C3%A0-Pierrot_-_Auguste_Raffet.jpg?width=1400",
+        "alt": "Gravure de 1839 représentant le combat et la prise de la Crête-à-Pierrot en mars 1802.",
+        "caption": "Auguste Raffet, gravure publiée en 1839, représentant le combat et la prise du fort.",
+        "context": "Cette gravure, publiée près de quatre décennies après le siège dans une histoire de Napoléon, est une représentation rétrospective. Elle renseigne sur la mémoire visuelle française du combat, pas sur une observation directe de la scène.",
+        "credit": "Dessin d’Auguste Raffet, gravure d’Ernest Hébert, Wikimedia Commons",
+        "license": "Domaine public (Public Domain Mark)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "Combat et prise de la Crête-à-Pierrot — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Combat_et_prise_de_la_Cr%C3%AAte-%C3%A0-Pierrot_-_Auguste_Raffet.jpg"
+        }
+      }
+    ],
+    "source": [
+      {
+        "title": "Fort de la Crête à Pierrot — Bulletin de l’ISPAN no 22",
+        "url": "https://www.haiti.org/wp-content/uploads/2012/09/BULLETIN%20DE%20L%27ISPAN%20No%2022%20WEB.pdf"
+      },
+      {
+        "title": "L’expédition de Saint-Domingue de 1802 — Patrimoines partagés, BnF",
+        "url": "https://heritage.bnf.fr/france-ameriques/lexpedition-saint-domingue-1802-et-vente-louisiane"
+      }
+    ]
+  },
+  {
+    "id": "vertieres",
+    "title": "Vertières et son monument commémoratif",
+    "location": "Cap-Haïtien, Nord, Haïti",
+    "region": "Caraïbes",
+    "period": "Révolution haïtienne et mémoire de l’indépendance",
+    "dateLabel": "Bataille du 18 novembre 1803; monument inauguré sous Paul E. Magloire (1950–1956)",
+    "siteType": "Lieu de bataille et mémorial",
+    "function": "Lieu de la bataille décisive de 1803 et espace de commémoration de la lutte pour l’indépendance.",
+    "history": "Le 18 novembre 1803, l’armée dirigée par Jean-Jacques Dessalines remporta à Vertières une victoire qui mit fin à l’expédition française de Saint-Domingue. La reddition française suivit le lendemain, puis l’indépendance fut proclamée le 1er janvier 1804. Le monument aujourd’hui photographié est une construction commémorative du milieu du XXe siècle : il ne date pas de la bataille.",
+    "importance": "Vertières permet de relier l’issue militaire de la Révolution à la fondation de l’État haïtien et à la mémoire nationale construite par la suite.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Vertieres.jpg?width=1400",
+      "alt": "Monument des héros de la bataille de Vertières, érigé sous le gouvernement de Paul E. Magloire.",
+      "caption": "Monument commémoratif photographié en 2021; il fut érigé sous le gouvernement de Paul E. Magloire (1950–1956).",
+      "credit": "© Kitanago, Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Vertieres.jpg — page de fichier",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Vertieres.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Battle-of-Verti%C3%A8res-in-1803-620x458.jpg?width=1400",
+        "alt": "Image intitulée Bataille de Vertières, mise en ligne en 2018.",
+        "caption": "Représentation de la bataille de Vertières; la notice Commons ne précise pas son auteur historique d’origine.",
+        "context": "C’est une représentation visuelle de la bataille, non une photographie ni un document produit pendant les combats. La notice identifie la mise en ligne et la licence, mais ne donne pas de provenance antérieure détaillée; elle doit être présentée avec cette réserve.",
+        "credit": "Attribution de la page : Cap-Haitien; Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "Battle-of-Vertières-in-1803-620x458.jpg — page de fichier",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Battle-of-Verti%C3%A8res-in-1803-620x458.jpg"
+        }
+      }
+    ],
+    "source": [
+      {
+        "title": "Jean-Jacques Dessalines et l’Indépendance d’Haïti — Patrimoines partagés, BnF",
+        "url": "https://heritage.bnf.fr/france-ameriques/jean-jacques-dessalines-et-lindependance-dhaiti"
+      },
+      {
+        "title": "Monument aux héros de la bataille de Vertières — Fondation pour la mémoire de l’esclavage",
+        "url": "https://memoire-esclavage.org/monument-aux-heros-de-la-bataille-de-vertieres"
+      }
+    ]
+  },
+  {
+    "id": "grande-pyramide-kheops",
+    "model3d": "great-pyramid",
+    "title": "Grande Pyramide de Khéops",
+    "location": "Plateau de Gizeh, Égypte",
+    "region": "Afrique du Nord",
+    "period": "Ancien Empire égyptien, IVe dynastie",
+    "dateLabel": "Vers 2589–2566 av. J.-C. (dates approximatives)",
+    "siteType": "Tombeau royal et complexe funéraire",
+    "function": "Tombeau de Khéops (Khufu) au sein d’un complexe funéraire comprenant temples, chaussée et tombes voisines.",
+    "history": "Construite durant la IVe dynastie, la Grande Pyramide est la plus grande des pyramides de Gizeh. Son noyau est principalement fait de calcaire local; un parement de calcaire fin de Tourah, aujourd’hui largement perdu, donnait autrefois à ses faces une surface lisse. À l’intérieur se trouvent plusieurs chambres et passages, dont la Grande Galerie et la chambre dite du Roi.",
+    "importance": "Le monument permet d’étudier l’État de l’Ancien Empire, l’organisation du travail et des matériaux, les pratiques funéraires royales et les méthodes archéologiques. Les techniques exactes de construction restent débattues.",
+    "heritageStatus": {
+      "confirmed": true,
+      "label": "Le site de Memphis et sa nécropole, dont les pyramides de Gizeh, est inscrit au patrimoine mondial de l’UNESCO depuis 1979."
+    },
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Pyramid_of_Giza_2010_3.jpg?width=1400",
+      "alt": "La Grande Pyramide de Khéops photographiée sur le plateau de Gizeh en 2010.",
+      "caption": "Photographie contemporaine du monument; elle montre son état actuel, non son parement d’origine ni son apparence pendant l’Ancien Empire.",
+      "credit": "Wknight94, Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": {
+        "title": "Great Pyramid of Giza 2010 3 — page du fichier",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_2010_3.jpg"
+      }
+    },
+    "source": [
+      {
+        "title": "The Great Pyramid",
+        "publisher": "Ministry of Tourism and Antiquities, Égypte",
+        "url": "https://egymonuments.gov.eg/monuments/the-great-pyramid/"
+      },
+      {
+        "title": "Introduction to Giza",
+        "publisher": "Digital Giza, Harvard University",
+        "url": "https://giza.fas.harvard.edu/gizaintro/"
+      },
+      {
+        "title": "Pyramid Complex of Khafre (Khefren)",
+        "publisher": "Ministry of Tourism and Antiquities, Égypte",
+        "url": "https://egymonuments.gov.eg/en/monuments/pyramid-complex-of-khafre-khefren"
+      },
+      {
+        "title": "Pyramid Complex of Menkaure",
+        "publisher": "Ministry of Tourism and Antiquities, Égypte",
+        "url": "https://egymonuments.gov.eg/monuments/pyramid-complex-of-menkaure/"
+      },
+      {
+        "title": "The Giza Project — plan et documentation archéologique",
+        "publisher": "Digital Giza, Harvard University",
+        "url": "https://giza.fas.harvard.edu/giza3d/"
+      },
+      {
+        "title": "Tallest pyramid — hauteur actuelle et hauteur d’origine de Khéops",
+        "publisher": "Guinness World Records",
+        "url": "https://www.guinnessworldrecords.com/world-records/tallest-pyramid"
+      },
+      {
+        "title": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+        "publisher": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/86/"
+      }
+    ],
+    "model3dNote": "Maquette paramétrique pédagogique du groupe de Gizeh. Compare une vue schématique de l’état actuel avec une restitution d’origine; les hauteurs initiales documentées sont d’environ 146,5 m pour Khéops, 143,5 m pour Khéphren et 65 m pour Mykérinos. L’espacement du groupe est schématique, pas un relevé topographique. Les chambres et passages sont simplifiés et ne constituent pas un scan ni un plan de fouille à l’échelle."
+  }
+]

@@ -1,0 +1,1804 @@
+[
+  {
+    "id": "uruk-ecriture",
+    "date": "-3300",
+    "dateLabel": "Vers 3300 av. J.-C.",
+    "period": "Premières sociétés urbaines",
+    "region": "Asie occidentale — Mésopotamie (actuel Irak)",
+    "title": "Uruk : villes et premières écritures",
+    "summary": "À Uruk, des tablettes d’argile servent à noter biens et activités; l’écriture se développe dans une société urbaine organisée.",
+    "context": "À la fin du IVe millénaire av. J.-C., des villes se développent dans les plaines du sud mésopotamien. Irrigation et échanges contribuent à leur croissance.",
+    "actors": [
+      "Habitants et administrateurs d’Uruk",
+      "Institutions des temples",
+      "Producteurs et artisans"
+    ],
+    "causes": "La croissance des villes et le besoin de gérer des ressources créent des besoins de comptabilité.",
+    "development": "Des tablettes portent des signes comptables puis écrits. Uruk est un centre de temples, d’ateliers et d’administration.",
+    "consequences": "L’écriture permet de conserver et transmettre des informations; son apparition s’inscrit dans un processus complexe plutôt que dans un événement isolé.",
+    "concepts": [
+      "Cunéiforme : écriture gravée dans l’argile",
+      "Cité : ville organisée avec ses institutions",
+      "Administration : organisation des ressources et tâches"
+    ],
+    "sources": [
+      {
+        "title": "The Origins of Writing",
+        "institution": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/essays/the-origins-of-writing",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "La date des premières écritures est approximative. Les chercheurs soulignent que leur origine et diffusion sont complexes.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/325503/1805238/main-image",
+      "alt": "Tablette administrative sumérienne conservée au Metropolitan Museum of Art.",
+      "caption": "Tablette sumérienne postérieure aux premières formes d’écriture connues à Uruk.",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/325503",
+      "source": {
+        "title": "Tablette administrative",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/325503"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/White_Temple_ziggurat_in_Uruk.jpg?width=1200",
+        "alt": "Vue photographique contemporaine du secteur du Temple blanc à Uruk.",
+        "title": "Le Temple blanc d’Uruk",
+        "caption": "Photographie contemporaine du site archéologique. Le Temple blanc appartient au contexte d’Uruk ancien, mais le cliché montre l’état actuel du vestige et ne reconstitue pas la ville vers 3300 av. J.-C.",
+        "credit": "tobeytravels, via Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": {
+          "title": "White Temple ziggurat in Uruk",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:White_Temple_ziggurat_in_Uruk.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "egypte-ancien-empire",
+    "date": "-2600",
+    "dateLabel": "Vers 2600–2500 av. J.-C.",
+    "period": "Antiquité",
+    "region": "Afrique du Nord — vallée du Nil",
+    "title": "L’Égypte de l’Ancien Empire et les pyramides",
+    "summary": "Les pyramides de Gizeh sont construites durant l’Ancien Empire, sous un État gouverné depuis Memphis et organisé autour du Nil.",
+    "context": "La vallée du Nil relie des communautés agricoles et des centres politiques. Les monuments funéraires témoignent du pouvoir royal et des croyances de l’époque.",
+    "actors": [
+      "Rois de l’Ancien Empire, dont Khéops",
+      "Artisans, ouvriers et administrateurs égyptiens",
+      "Communautés du Nil"
+    ],
+    "causes": "Les souverains commandent des complexes funéraires liés aux croyances sur la royauté et l’au-delà.",
+    "development": "Les monuments évoluent des mastabas aux pyramides; la nécropole de Memphis comprend les pyramides de Gizeh et d’autres sites.",
+    "consequences": "Ces constructions témoignent de la puissance étatique et sont des sources archéologiques majeures, sans représenter seules toute la société.",
+    "concepts": [
+      "Ancien Empire : période pharaonique",
+      "Nécropole : espace de sépultures",
+      "État : institutions gouvernant un territoire"
+    ],
+    "sources": [
+      {
+        "title": "Memphis and its Necropolis – the Pyramid Fields from Giza to Dahshur",
+        "institution": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/86/",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "Les chronologies des premières dynasties restent discutées; la date donnée situe approximativement les constructions de l’Ancien Empire.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/263214/599976/main-image",
+      "alt": "Pyramide de Khéphren photographiée en 1849.",
+      "caption": "Maxime Du Camp, photographie de 1849, bien après la construction de la pyramide.",
+      "credit": "Maxime Du Camp, The Metropolitan Museum of Art, Open Access",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/263214",
+      "source": {
+        "title": "Pyramide de Khéphren",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/263214"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Pyramid_of_Giza_2010_3.jpg?width=1200",
+        "alt": "La Grande Pyramide de Khéops photographiée à Gizeh en 2010.",
+        "title": "La pyramide de Khéops à Gizeh",
+        "caption": "Photographie contemporaine de la pyramide de Khéops, monument de la IVe dynastie. L’image documente le site aujourd’hui; elle ne montre pas son aspect au moment de sa construction.",
+        "credit": "Wknight94, Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": {
+          "title": "Great Pyramid of Giza 2010 3",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Great_Pyramid_of_Giza_2010_3.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "indus-villes",
+    "date": "-2600",
+    "dateLabel": "Vers 2600–1900 av. J.-C.",
+    "period": "Antiquité",
+    "region": "Asie du Sud — vallée de l’Indus (Pakistan et nord-ouest de l’Inde)",
+    "title": "Les villes de la civilisation de l’Indus",
+    "summary": "Mohenjo-daro, Harappa et d’autres centres témoignent d’une civilisation urbaine étendue, avec rues organisées et constructions de briques.",
+    "context": "Des villes et établissements occupent les vallées de l’Indus et régions voisines. L’écriture trouvée sur des sceaux n’est pas déchiffrée.",
+    "actors": [
+      "Habitants des villes et villages de l’Indus",
+      "Artisans et commerçants",
+      "Communautés agricoles"
+    ],
+    "causes": "Les fleuves, terres cultivables, savoir-faire et échanges contribuent à l’essor urbain; ses causes précises restent étudiées.",
+    "development": "Mohenjo-daro comprend rues, secteurs distincts et infrastructures hydrauliques. Des biens circulent entre les établissements et au-delà.",
+    "consequences": "Ces sites montrent l’ancienneté des centres urbains d’Asie du Sud. Après la phase urbaine, les populations et habitats se transforment.",
+    "concepts": [
+      "Civilisation urbaine : société avec de grands centres habités",
+      "Archéologie : étude des sociétés par leurs vestiges",
+      "Sceau : objet marqué servant à identifier ou fermer"
+    ],
+    "sources": [
+      {
+        "title": "Archaeological Ruins at Moenjodaro",
+        "institution": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/138/",
+        "accessedAt": "2026-10-18"
+      },
+      {
+        "title": "The Indus Civilization",
+        "institution": "UNESCO Silk Roads Programme",
+        "url": "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/vol_I%20silk%20road_the%20indus%20civilization%20BIS.pdf",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "Les dates sont des fourchettes archéologiques. L’écriture reste indéchiffrée et la transformation des villes n’a pas une cause unique établie.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/324065/684327/main-image",
+      "alt": "Sceau harappéen de la civilisation de l’Indus.",
+      "caption": "Sceau de l’Indus; son inscription reste indéchiffrée.",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/324065",
+      "source": {
+        "title": "Sceau harappéen",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/324065"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Indus_Valley_Civilization_-_Archaeological_site_of_Harappa.jpg?width=1200",
+        "alt": "Photographie des vestiges archéologiques de Harappa, prise le 14 mars 2013.",
+        "title": "Le site archéologique de Harappa",
+        "caption": "Photographie contemporaine du site de Harappa au Pakistan. Elle montre des vestiges fouillés et conservés aujourd’hui, et non une vue reconstituée de la ville à l’époque de son apogée.",
+        "credit": "Sara Jilani, Wikimedia Commons",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": {
+          "title": "Indus Valley Civilization — Archaeological site of Harappa",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization_-_Archaeological_site_of_Harappa.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "qin-unification",
+    "date": "-221",
+    "dateLabel": "221 av. J.-C.",
+    "period": "Antiquité",
+    "region": "Asie de l’Est — Chine",
+    "title": "Les Qin unifient une grande partie de la Chine",
+    "summary": "Ying Zheng vainc les royaumes rivaux et devient le premier empereur Qin, établissant un pouvoir central sur un vaste territoire.",
+    "context": "À la fin de la période des Royaumes combattants, plusieurs États se disputent territoires et populations. Qin a renforcé son armée et son administration.",
+    "actors": [
+      "Ying Zheng, devenu Qin Shi Huangdi",
+      "État et armée Qin",
+      "Populations des royaumes conquis"
+    ],
+    "causes": "Rivalités militaires et réformes administratives et militaires permettent l’expansion de Qin.",
+    "development": "Après ses conquêtes, le souverain centralise le gouvernement et harmonise plusieurs systèmes. La dynastie Qin est brève, mais certaines institutions sont reprises par les Han.",
+    "consequences": "L’unification ouvre une longue tradition impériale centralisée sans effacer la diversité régionale; les politiques Qin imposent aussi des contraintes aux populations.",
+    "concepts": [
+      "Unification : réunion de territoires sous une autorité",
+      "Dynastie : succession de souverains d’une famille",
+      "Centralisation : concentration du pouvoir"
+    ],
+    "sources": [
+      {
+        "title": "Age of Empires: Chinese Art of the Qin and Han Dynasties",
+        "institution": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2017/age-of-empires/exhibition-galleries",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "Les dates sont établies, mais les conséquences sociales des réformes diffèrent selon les régions et groupes.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/51962/164984/main-image",
+      "alt": "Tuile en terre cuite de la période Qin–Han.",
+      "caption": "Témoin matériel de l’époque impériale, sans représentation directe de l’unification de 221 av. J.-C.",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/51962",
+      "source": {
+        "title": "Tuile de la période Qin–Han",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/51962"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Qin_Terracotta_Warrior_%289894557584%29.jpg?width=1200",
+        "alt": "Statue de guerrier en terre cuite de l’armée funéraire de Qin Shi Huang, photographiée en 2011.",
+        "title": "Un guerrier de terre cuite de Qin Shi Huang",
+        "caption": "Photographie contemporaine d’une statue de l’armée funéraire liée au premier empereur Qin. L’objet archéologique date de la période Qin; cette photo prise en 2011 n’est pas une scène de bataille ni une représentation de l’unification de 221 av. J.-C.",
+        "credit": "Gary Todd, Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": {
+          "title": "Qin Terracotta Warrior (9894557584)",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Warrior_(9894557584).jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "athenes-democratie",
+    "date": "-450",
+    "dateLabel": "Ve–IVe siècles av. J.-C.",
+    "period": "Antiquité",
+    "region": "Europe — Athènes, Méditerranée orientale",
+    "title": "La démocratie dans l’Athènes antique",
+    "summary": "À Athènes, des citoyens participent directement à des décisions politiques; cette démocratie exclut une grande partie des habitants.",
+    "context": "Athènes est une cité-État parmi d’autres du monde grec. Ses institutions évoluent, particulièrement aux Ve et IVe siècles av. J.-C.",
+    "actors": [
+      "Citoyens athéniens adultes de sexe masculin",
+      "Assemblée et institutions de la cité",
+      "Femmes, étrangers résidents et personnes esclavisées exclus de la citoyenneté politique"
+    ],
+    "causes": "Des réformes et conflits internes transforment le partage du pouvoir. La participation des citoyens pauvres contribue à la vie politique.",
+    "development": "Les citoyens prennent part à l’Assemblée et à des institutions publiques. Il s’agit d’une démocratie directe réservée aux citoyens, non d’un suffrage universel.",
+    "consequences": "L’expérience athénienne fournit un exemple historique de participation politique, réinterprété plus tard. Le mot démocratie recouvre des systèmes et droits différents.",
+    "concepts": [
+      "Cité-État : communauté politique organisée autour d’une ville",
+      "Citoyenneté : statut donnant droits et devoirs politiques",
+      "Démocratie directe : participation aux décisions"
+    ],
+    "sources": [
+      {
+        "title": "Athenian Democracy",
+        "institution": "Hellenic Ministry of Culture",
+        "url": "https://www.athenian-democracy.gr/en/",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "Les sources conservées ont surtout été produites par les hommes des groupes dominants; l’expérience des personnes exclues est documentée de façon incomplète.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/250546/544338/main-image",
+      "alt": "Vase grec attique peint d’un départ de guerrier.",
+      "caption": "Vase grec du VIe siècle av. J.-C., objet de contexte, pas une représentation des institutions démocratiques.",
+      "credit": "Attribué au Peintre de la Balançoire, The Metropolitan Museum of Art",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/250546",
+      "source": {
+        "title": "Vase attique",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/250546"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Pnyx_plateau_on_May_13%2C_2021.jpg?width=1200",
+        "alt": "Le plateau de la Pnyx à Athènes, photographié en 2021; il accueillait l’Assemblée populaire antique.",
+        "title": "La Pnyx, lieu de l’Assemblée d’Athènes",
+        "caption": "Photographie contemporaine du lieu où les citoyens athéniens se réunissaient en assemblée. Le paysage actuel ne reconstitue pas l’aménagement antique et la participation politique athénienne excluait la plupart des habitants.",
+        "credit": "George E. Koronaios, Wikimedia Commons",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+        "source": {
+          "title": "The Pnyx plateau on May 13, 2021",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:The_Pnyx_plateau_on_May_13,_2021.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "han-routes-echanges",
+    "date": "-130",
+    "dateLabel": "IIe siècle av. J.-C. – IIe siècle apr. J.-C.",
+    "period": "Antiquité",
+    "region": "Asie de l’Est et Asie centrale",
+    "title": "Les Han et les échanges à longue distance",
+    "summary": "Sous les Han, les échanges se développent sur des routes reliant la Chine à l’Asie centrale et à d’autres régions. Les « routes de la soie » forment un réseau, pas une route unique.",
+    "context": "La dynastie Han gouverne la Chine de 206 av. J.-C. à 220 apr. J.-C. Des voies terrestres et maritimes sont fréquentées par marchands et envoyés.",
+    "actors": [
+      "Gouvernements et envoyés Han",
+      "Marchands et communautés des régions traversées",
+      "Peuples et royaumes d’Asie centrale"
+    ],
+    "causes": "Intérêts diplomatiques, commerciaux et de transport encouragent les contacts et l’entretien de voies.",
+    "development": "La soie chinoise circule vers l’ouest; plantes, animaux, matériaux et objets d’autres régions arrivent en Chine. De nombreux intermédiaires participent aux échanges.",
+    "consequences": "Les réseaux favorisent les échanges de biens et savoir-faire entre sociétés d’Asie; cela ne signifie pas un commerce toujours direct entre Chine et Rome.",
+    "concepts": [
+      "Réseau commercial : routes et relais d’échanges",
+      "Intermédiaire : acteur facilitant un échange",
+      "Diplomatie : relations politiques entre pouvoirs"
+    ],
+    "sources": [
+      {
+        "title": "Trade Passages: The Silk Road in the Han Dynasty",
+        "institution": "Hong Kong Museum of History",
+        "url": "https://hk.history.museum/en/web/mh/about-us/lei-cheng-uk-exhibition.html",
+        "accessedAt": "2026-10-18"
+      },
+      {
+        "title": "Ancient China — Foreign Relations",
+        "institution": "National Museum of China",
+        "url": "https://www2.chnmuseum.cn/portals/0/web/zt/gudai/en/detail4.html",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "Les itinéraires, volumes et contacts directs varient; « route de la soie » est une appellation moderne de réseaux multiples.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/65598/152217/main-image",
+      "alt": "Fragment de soie chinoise de l’époque Han.",
+      "caption": "Textile Han; objet de contexte, non une carte des routes d’échange.",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/65598",
+      "source": {
+        "title": "Textile de soie",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/65598"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/0025_-_0220_Green-glazed_Pottery_Water_Pavilion_Eastern_Han_Dynasty_National_Museum_of_China_anagoria.jpg?width=1200",
+        "alt": "Pavillon miniature en poterie vernissée verte de la dynastie Han orientale (25–220 apr. J.-C.).",
+        "title": "Pavillon de poterie de la Han orientale",
+        "caption": "Photographie contemporaine d’un objet funéraire de la Han orientale conservé au Musée national de Chine. L’artefact donne un aperçu matériel de cette période, sans illustrer à lui seul les routes d’échange.",
+        "credit": "Anagoria, objet du National Museum of China, via Wikimedia Commons",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+        "source": {
+          "title": "Green-glazed Pottery Water Pavilion, Eastern Han Dynasty",
+          "publisher": "National Museum of China via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:0025_-_0220_Green-glazed_Pottery_Water_Pavilion_Eastern_Han_Dynasty_National_Museum_of_China_anagoria.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "islam-premiers-califats",
+    "date": "610",
+    "dateLabel": "À partir du début du VIIe siècle",
+    "period": "Antiquité tardive et début du Moyen Âge",
+    "region": "Asie occidentale — Arabie et régions voisines",
+    "title": "Les débuts de l’islam et les premiers califats",
+    "summary": "Au VIIe siècle, l’islam apparaît en Arabie. Après Muhammad, les pouvoirs musulmans s’étendent dans des régions aux traditions religieuses et culturelles diverses.",
+    "context": "L’Arabie et le Proche-Orient sont reliés par des routes commerciales et de pèlerinage. Les empires byzantin et sassanide dominent alors une partie de la région.",
+    "actors": [
+      "Muhammad et premières communautés musulmanes",
+      "Dynasties omeyyade et abbasside",
+      "Communautés chrétiennes, juives et autres populations"
+    ],
+    "causes": "L’émergence de la communauté religieuse se déroule dans un espace d’échanges et de rivalités politiques. L’expansion ultérieure a des facteurs militaires, politiques et administratifs multiples.",
+    "development": "Les conquêtes modifient l’équilibre politique du Proche-Orient, de l’Égypte et de l’Iran. Les pouvoirs omeyyade puis abbasside adaptent des traditions locales et développent de nouvelles institutions.",
+    "consequences": "L’islam devient une religion majeure et les sociétés musulmanes se développent sur de vastes territoires. Les conversions sont graduelles et les sociétés demeurent diverses.",
+    "concepts": [
+      "Califat : gouvernement dirigé par un calife",
+      "Empire : pouvoir étendu sur plusieurs peuples et territoires",
+      "Diversité religieuse : coexistence de communautés de croyances"
+    ],
+    "sources": [
+      {
+        "title": "Byzantium and Islam: Age of Transition",
+        "institution": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "La datation de certains épisodes des débuts de l’islam est débattue; traditions religieuses, récits postérieurs et données historiques doivent être distingués.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/323483/2195944/main-image",
+      "alt": "Monnaie omeyyade des premières décennies de l’époque islamique.",
+      "caption": "Monnaie omeyyade vers 688–689, postérieure aux débuts de l’islam.",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/323483",
+      "source": {
+        "title": "Monnaie omeyyade",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/323483"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Umayyad_Copper_alloy_fals,_Harran,_694-697_CE_Obverse_and_reverse.jpg?width=1200",
+        "alt": "Les deux faces d’une monnaie de cuivre omeyyade frappée à Harran vers 694–697.",
+        "title": "Monnaie omeyyade de Harran",
+        "caption": "Photographie d’un artefact numismatique ancien, monnayé vers 694–697 apr. J.-C. Elle témoigne de l’administration et des pratiques monétaires du califat omeyyade; elle n’est pas une image des débuts de l’islam au VIIe siècle.",
+        "credit": "American Numismatic Society, objet 1998.25.75, via Wikimedia Commons",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": {
+          "title": "Umayyad copper alloy fals, Harran, 694–697 CE",
+          "publisher": "American Numismatic Society via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Umayyad_Copper_alloy_fals,_Harran,_694-697_CE_Obverse_and_reverse.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "teotihuacan",
+    "date": "-100",
+    "dateLabel": "Vers 100 av. J.-C. – 600 apr. J.-C.",
+    "period": "Antiquité",
+    "region": "Amériques — Mésoamérique, centre du Mexique",
+    "title": "Teotihuacan, une grande ville mésoaméricaine",
+    "summary": "Teotihuacan devient l’un des plus grands centres urbains des anciennes Amériques et entretient des relations avec d’autres sociétés, dont des cités mayas.",
+    "context": "Au nord-est de l’actuelle Mexico, la ville comprend monuments, quartiers résidentiels et ateliers spécialisés. Vers 400 apr. J.-C., elle atteint son apogée.",
+    "actors": [
+      "Habitants de Teotihuacan",
+      "Artisans, commerçants et autorités locales",
+      "Sociétés voisines, dont Zapotèques et cités mayas"
+    ],
+    "causes": "Organisation collective, artisanat et échanges régionaux contribuent à l’essor; ses raisons précises restent étudiées.",
+    "development": "La ville s’étend avec avenues, complexes résidentiels et monuments. Vers le milieu du premier millénaire, des incendies touchent le centre et la population baisse.",
+    "consequences": "Après le déclin, l’influence de la ville perdure dans la mémoire et l’art mésoaméricains. Son abandon partiel n’a pas d’explication unique établie.",
+    "concepts": [
+      "Mésoamérique : région culturelle des Amériques précoloniales",
+      "Centre urbain : ville importante pour une région",
+      "Archéologie : étude des traces matérielles du passé"
+    ],
+    "sources": [
+      {
+        "title": "Teotihuacan",
+        "institution": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/TOAH/hd/teot/hd_teot.htm",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "La langue et l’organisation politique restent mal connues; la population est estimée à partir des vestiges.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Teotihuacan_Pyramid_of_the_sun_8.jpg?width=1200",
+      "alt": "Photographie actuelle de la Pyramide du Soleil à Teotihuacan.",
+      "caption": "Photographie prise en 2015; le site antique dans son état actuel.",
+      "credit": "Polimerek, Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": {
+        "title": "Pyramid of the Sun",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Teotihuacan_Pyramid_of_the_sun_8.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Teotihuacan-Piramide-Luna.jpg?width=1200",
+        "alt": "La pyramide de la Lune à Teotihuacan, photographiée par Jortegacillero.",
+        "title": "La pyramide de la Lune",
+        "caption": "Photographie contemporaine d’un monument du centre urbain de Teotihuacan. Elle montre l’état actuel du site archéologique, et non la ville telle qu’elle apparaissait dans l’Antiquité.",
+        "credit": "Jortegacillero, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "Teotihuacan-Piramide-Luna",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Teotihuacan-Piramide-Luna.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "timbuktu",
+    "date": "1450",
+    "dateLabel": "XVe–XVIe siècles",
+    "period": "Moyen Âge et début de l’époque moderne",
+    "region": "Afrique de l’Ouest — Sahel",
+    "title": "Tombouctou, carrefour de commerce et de savoir",
+    "summary": "Tombouctou est un centre d’échanges transsahariens et de diffusion de la culture islamique, particulièrement aux XVe et XVIe siècles.",
+    "context": "Près du Niger et du Sahara, la ville relie les régions sahéliennes aux marchés du nord du désert. Le pouvoir régional évolue au fil du temps.",
+    "actors": [
+      "Habitants et lettrés de Tombouctou",
+      "Marchands et caravanes",
+      "Institutions religieuses et pouvoirs régionaux"
+    ],
+    "causes": "Sa position favorise les échanges de sel, d’or, de céréales, de bétail et de manuscrits.",
+    "development": "La ville accueille des écoles coraniques, dont le centre de Sankoré. Des manuscrits y sont étudiés et négociés au sein d’un vaste réseau.",
+    "consequences": "Tombouctou devient un centre majeur de la vie intellectuelle et commerciale ouest-africaine, relié à des réseaux africains et internationaux.",
+    "concepts": [
+      "Sahel : zone de transition au sud du Sahara",
+      "Commerce transsaharien : échanges traversant le Sahara",
+      "Manuscrit : texte écrit à la main"
+    ],
+    "sources": [
+      {
+        "title": "Timbuktu",
+        "institution": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/119/",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "UNESCO place l’apogée aux XVe–XVIe siècles; les bornes précises et l’évolution du pouvoir régional varient selon les sources.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Djinguereber_Mosque%2C_Timbuktu%2C_Mali.jpg?width=1200",
+      "alt": "La mosquée Djinguereber à Tombouctou, construite en terre.",
+      "caption": "Vue contemporaine de la mosquée Djinguereber, l’un des centres historiques de Tombouctou; ce n’est pas une scène médiévale.",
+      "credit": "Dr. Ondřej Havelka (HistoriaSalutis), Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Djinguereber Mosque, Timbuktu, Mali",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Djinguereber_Mosque,_Timbuktu,_Mali.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Timbuktu-139084.jpg?width=1200",
+        "alt": "Des manuscrits conservés au Centre Ahmed Baba de Tombouctou, photographiés en 2013.",
+        "title": "Manuscrits du Centre Ahmed Baba",
+        "caption": "Photographie contemporaine fournie par l’UNESCO. Elle montre des manuscrits conservés à Tombouctou; les pièces visibles ne sont pas toutes datées ici et l’image ne doit pas être prise pour une page précise du XVe ou du XVIe siècle.",
+        "credit": "UNESCO Bureau du Mali",
+        "license": "CC BY-SA 3.0 IGO",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/",
+        "source": {
+          "title": "Timbuktu-139084 — Manuscrits du Centre Ahmed Baba",
+          "publisher": "UNESCO / Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Timbuktu-139084.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "kilwa",
+    "date": "1200",
+    "dateLabel": "XIIIe–XVIe siècles",
+    "period": "Moyen Âge",
+    "region": "Afrique de l’Est — côte swahilie et océan Indien",
+    "title": "Kilwa et les réseaux marchands de l’océan Indien",
+    "summary": "Les cités swahilies de Kilwa et Songo Mnara prospèrent grâce aux échanges avec l’Arabie, l’Inde et la Chine.",
+    "context": "Les ports de la côte swahilie relient les communautés littorales aux régions intérieures et aux routes maritimes. Kilwa est occupée du IXe au XIXe siècle et prospère surtout aux XIIIe–XIVe siècles.",
+    "actors": [
+      "Habitants et autorités des cités swahilies",
+      "Marchands d’Afrique, d’Arabie, d’Inde et d’Asie",
+      "Producteurs des régions intérieures"
+    ],
+    "causes": "Les vents de mousson rendent possibles des traversées saisonnières; les demandes d’or et d’ivoire relient ports et arrière-pays.",
+    "development": "Les ports commercent à longue distance; Kilwa frappe sa monnaie. La Grande Mosquée et d’autres constructions en pierre de corail témoignent d’une société urbaine.",
+    "consequences": "Les réseaux consolident la culture swahilie, avec ses racines africaines et ses contacts maritimes. Le contrôle portugais au XVIe siècle contribue au déclin de Kilwa.",
+    "concepts": [
+      "Mousson : vent saisonnier influençant la navigation",
+      "Côte swahilie : littoral est-africain de culture swahilie",
+      "Monnaie : moyen d’échange reconnu"
+    ],
+    "sources": [
+      {
+        "title": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+        "institution": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/144/",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "Les vestiges documentent le commerce, mais les volumes et les acteurs précis restent partiellement connus.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Mosque_Kilwa_Kisiwani.jpg?width=1200",
+      "alt": "Les ruines de la Grande Mosquée de Kilwa Kisiwani, en Tanzanie.",
+      "caption": "Vue contemporaine de la Grande Mosquée de Kilwa Kisiwani, site des échanges swahilis de l’océan Indien.",
+      "credit": "Halidtz, Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Great Mosque Kilwa Kisiwani",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Great_Mosque_Kilwa_Kisiwani.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Husuni_Kubwa,_ruins_of_early_14th_cent._sultan%27s_palace_on_Kilwa_Kisiwani_%286%29_%2828785244100%29.jpg?width=1200",
+        "alt": "Ruines du palais de Husuni Kubwa à Kilwa Kisiwani, photographiées en 2016.",
+        "title": "Le palais de Husuni Kubwa à Kilwa",
+        "caption": "Photographie contemporaine des ruines d’un palais du début du XIVe siècle sur l’île de Kilwa Kisiwani. Ce monument illustre l’architecture et le pouvoir d’un port swahili, sans résumer l’ensemble de ses réseaux marchands.",
+        "credit": "Richard Mortel, Wikimedia Commons",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+        "source": {
+          "title": "Husuni Kubwa, ruins of early 14th cent. sultan’s palace on Kilwa Kisiwani",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Husuni_Kubwa,_ruins_of_early_14th_cent._sultan%27s_palace_on_Kilwa_Kisiwani_(6)_(28785244100).jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "grand-zimbabwe",
+    "date": "1100",
+    "dateLabel": "Vers 1100–1450 apr. J.-C.",
+    "period": "Moyen Âge",
+    "region": "Afrique australe — plateau du Zimbabwe",
+    "title": "Le Grand Zimbabwe, centre d’un pouvoir shona",
+    "summary": "Le Grand Zimbabwe est une grande ville de pierre et un centre politique et commercial, occupé par des populations shona entre les XIe et XVe siècles.",
+    "context": "Le site se trouve sur un plateau relié aux routes de l’Afrique australe et de l’océan Indien. Il comprend quartiers résidentiels et enceintes monumentales en pierre sèche.",
+    "actors": [
+      "Communautés shona",
+      "Dirigeants et artisans du Grand Zimbabwe",
+      "Marchands des réseaux de l’océan Indien"
+    ],
+    "causes": "Agriculture, élevage, ressources régionales et échanges côtiers contribuent à la puissance du centre.",
+    "development": "Des enceintes de granite sont édifiées; au XIVe siècle la ville est un centre majeur. Des objets chinois, persans et swahilis témoignent de liens commerciaux.",
+    "consequences": "Après le déclin du centre au XVe siècle, d’autres pouvoirs régionaux se développent. Le site demeure un symbole de l’histoire du Zimbabwe.",
+    "concepts": [
+      "Pierre sèche : construction sans mortier",
+      "État : organisation politique sur un territoire",
+      "Commerce à longue distance : échange entre régions éloignées"
+    ],
+    "sources": [
+      {
+        "title": "Great Zimbabwe National Monument",
+        "institution": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/364/",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "La période est approximative; les fonctions de certains espaces et les causes du déplacement du pouvoir restent interprétées à partir de l’archéologie.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great_Zimbabwe_%2817%29.jpg?width=1200",
+      "alt": "Photographie moderne des constructions en pierre sèche du Grand Zimbabwe.",
+      "caption": "État actuel des constructions du Grand Zimbabwe.",
+      "credit": "Fanny Schertzer, Wikimedia Commons",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "source": {
+        "title": "Grand Zimbabwe",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Great_Zimbabwe_(17).jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Great-zim-aerial-looking-West.JPG?width=1200",
+        "alt": "Vue aérienne du complexe de Grand Zimbabwe et de ses enceintes de pierre.",
+        "title": "Grand Zimbabwe vu du ciel",
+        "caption": "Photographie aérienne contemporaine du site archéologique; elle permet de voir l’organisation spatiale des enceintes, mais ne reconstitue ni les bâtiments disparus ni leur usage ancien.",
+        "credit": "Jncbll, Wikimedia Commons",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "title": "Great-zim-aerial-looking-West",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG"
+        }
+      }
+    ]
+  },
+  {
+    "id": "mongols-eurasie",
+    "date": "1200",
+    "dateLabel": "XIIIe siècle",
+    "period": "Moyen Âge",
+    "region": "Asie centrale et Eurasie",
+    "title": "L’expansion mongole relie de vastes régions d’Eurasie",
+    "summary": "Sous Gengis Khan et ses successeurs, les Mongols bâtissent le plus vaste empire terrestre contigu de l’histoire. Conquêtes et domination transforment les échanges eurasiens.",
+    "context": "Au XIIIe siècle, des conquêtes placent sous une autorité ou des pouvoirs apparentés de vastes territoires d’Eurasie.",
+    "actors": [
+      "Gengis Khan et dirigeants mongols",
+      "Armées et administrations impériales",
+      "Peuples des territoires conquis ou intégrés"
+    ],
+    "causes": "L’unification de groupes mongols, le leadership et la puissance militaire favorisent l’expansion.",
+    "development": "Après les conquêtes, différentes branches de la famille dirigeante gouvernent des khanats. Personnes, marchandises et techniques circulent dans certaines parties de l’empire, au prix de guerres et destructions.",
+    "consequences": "Les contacts entre régions s’intensifient et influencent notamment les arts d’Iran et d’Asie orientale. L’empire se fragmente ensuite en pouvoirs distincts.",
+    "concepts": [
+      "Steppe : vaste prairie plutôt sèche",
+      "Khanat : territoire gouverné par un khan",
+      "Empire contigu : ensemble de territoires connectés"
+    ],
+    "sources": [
+      {
+        "title": "The Legacy of Genghis Khan: Courtly Art and Culture in Western Asia",
+        "institution": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/exhibitions/listings/2002/genghis-khan",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "La naissance de Gengis Khan est incertaine; les frontières de l’empire ont changé rapidement. Le récit des échanges ne doit pas masquer les violences des conquêtes.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/453683/906096/main-image",
+      "alt": "Peinture persane réalisée vers 1400 dans une tradition de manuscrit historique.",
+      "caption": "Peinture postérieure aux conquêtes de Gengis Khan; elle témoigne d’une production artistique, pas d’une scène de bataille.",
+      "credit": "Artiste non identifié, The Metropolitan Museum of Art, Open Access",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/453683",
+      "source": {
+        "title": "Peinture persane",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/453683"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mongol_army._Miniature_from_Rashid_al-Din%E2%80%99s_chronicles.jpg?width=1200",
+        "alt": "Miniature persane montrant une armée mongole, tirée du Compendium des chroniques de Rashid al-Din (1301–1314).",
+        "title": "Une armée mongole dans le Compendium des chroniques",
+        "caption": "Manuscrit illustré du début du XIVe siècle, réalisé après la première phase des conquêtes mongoles. C’est une représentation historique ultérieure de l’armée, pas une image contemporaine des campagnes du XIIIe siècle.",
+        "credit": "Miniature du Compendium des chroniques de Rashid al-Din, via Wikimedia Commons",
+        "license": "Domaine public (notice Commons : domaine public dans le pays d’origine et aux États-Unis)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "Mongol army. Miniature from Rashid al-Din’s chronicles",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Mongol_army._Miniature_from_Rashid_al-Din%E2%80%99s_chronicles.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "inca-machu-picchu",
+    "date": "1450",
+    "dateLabel": "XVe siècle – début du XVIe siècle",
+    "period": "Moyen Âge et début de l’époque moderne",
+    "region": "Amériques — Andes centrales (actuel Pérou)",
+    "title": "Les Incas et l’aménagement des Andes",
+    "summary": "Au XVe siècle, les Incas construisent un vaste État andin. Machu Picchu témoigne d’une architecture intégrée au paysage montagneux.",
+    "context": "L’empire relie des populations vivant dans des milieux variés grâce à des routes, terrasses agricoles et centres administratifs.",
+    "actors": [
+      "Dirigeants et communautés incas",
+      "Agriculteurs, bâtisseurs et administrateurs",
+      "Espagnols lors de la conquête du XVIe siècle"
+    ],
+    "causes": "L’expansion s’appuie sur l’organisation politique, les routes et la mobilisation des ressources et du travail.",
+    "development": "Machu Picchu est construit au XVe siècle avec murs, terrasses et rampes de pierre. La conquête espagnole du XVIe siècle renverse le pouvoir impérial.",
+    "consequences": "Le site témoigne des réalisations incas; les populations andines, leurs langues et traditions perdurent après la conquête.",
+    "concepts": [
+      "Terrasse agricole : surface aménagée sur une pente",
+      "Andes : chaîne montagneuse d’Amérique du Sud",
+      "Conquête : prise de contrôle par la force"
+    ],
+    "sources": [
+      {
+        "title": "Historic Sanctuary of Machu Picchu",
+        "institution": "UNESCO World Heritage Centre",
+        "url": "https://whc.unesco.org/en/list/274/",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "UNESCO précise que le rôle exact de certains espaces et les liens avec les connaissances astronomiques incas ne sont pas entièrement résolus.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Machu_Picchu%2C_Peru.jpg?width=1200",
+      "alt": "Machu Picchu et les montagnes des Andes, au Pérou.",
+      "caption": "Vue contemporaine du site inca de Machu Picchu; l’image montre le lieu, pas une scène du XVe siècle.",
+      "credit": "Pedro Szekely, Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": {
+        "title": "Machu Picchu, Peru",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Peru.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Inca_Quipu.jpg?width=1200",
+        "alt": "Quipu inca, ensemble de cordelettes nouées utilisé comme système d’information.",
+        "title": "Quipu inca conservé au Museo Larco",
+        "caption": "Photographie d’un artefact de la collection du Museo Larco, daté vers 1400 selon la notice. Les quipus servaient à conserver des informations; les chercheurs n’en comprennent pas encore complètement tous les usages et contenus.",
+        "credit": "Claus Ableiter (téléversement); objet de la collection du Museo Larco",
+        "license": "CC BY-SA 3.0 (notice Commons; la notice mentionne également GFDL)",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": {
+          "title": "Inca Quipu",
+          "publisher": "Museo Larco via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Inca_Quipu.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "traite-atlantique",
+    "date": "1500",
+    "dateLabel": "XVIe–XIXe siècles",
+    "period": "Époque moderne",
+    "region": "Afrique, Europe et Amériques — Atlantique",
+    "title": "La traite transatlantique et l’esclavage de plantation",
+    "summary": "Pendant plusieurs siècles, des puissances et marchands européens déportent de force des millions d’Africains vers les Amériques. Les captifs et leurs descendants résistent de multiples façons.",
+    "context": "La colonisation des Amériques accroît la demande de travail forcé dans les plantations et les mines. Des réseaux relient côtes africaines, ports européens et colonies américaines.",
+    "actors": [
+      "Africains capturés et déportés et leurs descendants",
+      "Marchands et armateurs européens",
+      "États et autorités coloniaux",
+      "Acteurs africains dans des rapports de force variés"
+    ],
+    "causes": "La recherche de profits coloniaux et la demande de main-d’œuvre alimentent le système. Les personnes capturées ne consentent pas à leur asservissement.",
+    "development": "Des captifs sont vendus, transportés de force lors du passage du milieu, puis contraints au travail. Ils résistent par révoltes, fuites et maintien de liens culturels et familiaux.",
+    "consequences": "La traite cause pertes humaines et bouleversements durables en Afrique et dans les Amériques. Les économies coloniales s’appuient en partie sur l’esclavage; révoltes et mouvements abolitionnistes contribuent à sa remise en cause.",
+    "concepts": [
+      "Déportation : déplacement forcé",
+      "Passage du milieu : traversée atlantique des captifs",
+      "Abolition : suppression légale d’une institution"
+    ],
+    "sources": [
+      {
+        "title": "The Middle Passage",
+        "institution": "Smithsonian National Museum of American History",
+        "url": "https://www.americanhistory.si.edu/explore/exhibitions/on-the-water/online/living-atlantic-world/forced-crossings/middle-passage",
+        "accessedAt": "2026-10-18"
+      },
+      {
+        "title": "Transatlantic slavery: an introduction",
+        "institution": "Smithsonian Libraries and Archives",
+        "url": "https://www.si.edu/object/siris_sil_1036052",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "Les estimations varient selon routes et registres conservés; les archives des négriers représentent mal les expériences des personnes réduites en esclavage.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Slaveshipposter.jpg?width=1200",
+      "alt": "Plan publié en 1788 montrant la manière dont des personnes africaines étaient entassées sur le navire négrier britannique Brookes.",
+      "caption": "Affiche abolitionniste de 1788 : plan du Brookes sous les règles imposées au commerce des esclaves. Document de propagande qui dénonce le système, mais ne représente pas chaque navire.",
+      "credit": "Plymouth Chapter of the Society for Effecting the Abolition of the Slave Trade; numérisation de la Library of Congress via Wikimedia Commons",
+      "license": "Domaine public",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Stowage of the British slave ship Brookes, 1788",
+        "publisher": "Library of Congress via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Slaveshipposter.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Slaves_working_on_a_plantation_-_Ten_Views_in_the_Island_of_Antigua_%281823%29,_plate_III_-_BL.jpg?width=1200",
+        "alt": "Gravure de 1823 montrant des personnes réduites en esclavage en train de planter la canne à sucre dans une plantation d’Antigua.",
+        "title": "Slaves working on a plantation, Antigua",
+        "caption": "Gravure publiée par William Clark en 1823, numérisée par la British Library. C’est une représentation imprimée contemporaine de la période, non une photographie; son cadrage colonial doit être lu de façon critique et ne montre pas toute l’expérience du travail forcé.",
+        "credit": "William Clark, Ten Views in the Island of Antigua (1823), British Library",
+        "license": "CC0 1.0 — domaine public dédié",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": {
+          "title": "Slaves working on a plantation — Ten Views in the Island of Antigua (1823), plate III",
+          "publisher": "British Library via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Slaves_working_on_a_plantation_-_Ten_Views_in_the_Island_of_Antigua_(1823),_plate_III_-_BL.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "decolonisation",
+    "date": "1945",
+    "dateLabel": "À partir de 1945; accélération après 1960",
+    "period": "Époque contemporaine",
+    "region": "Afrique, Asie, Pacifique et Caraïbes",
+    "title": "La décolonisation transforme la carte politique",
+    "summary": "Après 1945, plus de 80 anciennes colonies accèdent à l’indépendance ou à une autre forme d’autodétermination. Les trajectoires diffèrent selon les territoires.",
+    "context": "À la création de l’ONU, des centaines de millions de personnes vivent dans des territoires dépendant de puissances coloniales. Des mouvements réclament autonomie, égalité et indépendance.",
+    "actors": [
+      "Mouvements et populations des territoires colonisés",
+      "Puissances coloniales",
+      "ONU et États membres"
+    ],
+    "causes": "Les revendications d’autodétermination, les luttes contre le colonialisme et les transformations de l’après-guerre contribuent aux indépendances.",
+    "development": "Certains territoires accèdent à l’indépendance par négociation, d’autres après des conflits. En 1960, l’Assemblée générale adopte la Déclaration sur l’indépendance des pays et peuples coloniaux.",
+    "consequences": "De nouveaux États rejoignent l’ONU. Frontières héritées, inégalités économiques et effets du colonialisme continuent d’influencer les sociétés après l’indépendance.",
+    "concepts": [
+      "Décolonisation : fin d’un régime colonial",
+      "Autodétermination : droit de choisir son statut politique",
+      "Souveraineté : autorité indépendante sur un territoire"
+    ],
+    "sources": [
+      {
+        "title": "Decolonization",
+        "institution": "United Nations",
+        "url": "https://www.un.org/en/global-issues/decolonization/",
+        "accessedAt": "2026-10-18"
+      },
+      {
+        "title": "The United Nations and Decolonization — About",
+        "institution": "United Nations Department of Political and Peacebuilding Affairs",
+        "url": "https://www.un.org/dppa/decolonization/about",
+        "accessedAt": "2026-10-18"
+      }
+    ],
+    "uncertainty": "La décolonisation n’est pas uniforme ni achevée. Ces repères mondiaux ne remplacent pas l’histoire détaillée de chaque territoire.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ghana_Independence_overprint_on_Gold_Coast_1s_stamp_1957.jpg?width=1200",
+      "alt": "Timbre de 1957 surchargé pour marquer l’indépendance du Ghana.",
+      "caption": "Exemple de trajectoire de décolonisation; le timbre ne résume pas celle d’autres territoires.",
+      "credit": "Gouvernement britannique, Wikimedia Commons",
+      "license": "Domaine public",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Timbre d’indépendance du Ghana",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Ghana_Independence_overprint_on_Gold_Coast_1s_stamp_1957.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/K._Nkrumah_w_Polsce.jpg?width=1200",
+        "alt": "Kwame Nkrumah photographié en Pologne en 1961, quatre ans après l’indépendance du Ghana.",
+        "title": "Kwame Nkrumah en Pologne",
+        "caption": "Photographie d’actualité prise en 1961 par la Centralna Agencja Fotograficzna. Elle documente la diplomatie du Ghana indépendant après 1957; elle ne montre pas la cérémonie d’indépendance ni les trajectoires des autres décolonisations.",
+        "credit": "Centralna Agencja Fotograficzna, Polska 1956–1965",
+        "license": "Domaine public selon le statut indiqué pour la Pologne et les États-Unis sur la notice",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:K._Nkrumah_w_Polsce.jpg",
+        "source": {
+          "title": "K. Nkrumah w Polsce",
+          "publisher": "Wikimedia Commons (source photographique : Centralna Agencja Fotograficzna)",
+          "url": "https://commons.wikimedia.org/wiki/File:K._Nkrumah_w_Polsce.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "contact-hispaniola-1492",
+    "date": "1492",
+    "dateLabel": "À partir de 1492",
+    "period": "Époque moderne — monde et Caraïbe",
+    "region": "Caraïbe — Guanahani et Hispaniola",
+    "title": "Les premiers contacts européens dans la Caraïbe",
+    "summary": "Le voyage de Christophe Colomb en 1492 ouvre une période de contacts, de conquêtes et de colonisation qui bouleverse les sociétés autochtones des Caraïbes.",
+    "context": "Les Taïnos habitent plusieurs îles des Grandes Antilles et des Bahamas. Les expéditions castillanes, les revendications impériales et la colonisation transforment durablement les territoires et les populations.",
+    "actors": [
+      "Sociétés taïnos et autres peuples autochtones des Caraïbes",
+      "Expéditions de la monarchie castillane",
+      "Interprètes et intermédiaires des premiers contacts"
+    ],
+    "causes": [
+      "Recherche de routes maritimes vers l’Asie",
+      "Expansion politique et commerciale des monarchies européennes",
+      "Rivalités impériales"
+    ],
+    "development": "Les premières expéditions établissent des contacts dans les Bahamas puis à Hispaniola. La colonisation, les violences, les maladies et le travail forcé entraînent de profonds bouleversements démographiques et sociaux.",
+    "consequences": "La colonisation espagnole inaugure une transformation majeure des sociétés de la Caraïbe et des Amériques. Les récits européens conservés doivent être confrontés aux traces archéologiques, aux traditions autochtones et aux recherches actuelles.",
+    "concepts": [
+      "Taïno",
+      "Conquête",
+      "Colonisation",
+      "Source historique"
+    ],
+    "sources": [
+      {
+        "title": "Columbus and the Taíno",
+        "publisher": "Library of Congress",
+        "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino.html"
+      },
+      {
+        "title": "Taíno society and Columbus’s account of the 1492 voyage",
+        "publisher": "Library of Congress",
+        "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino.html"
+      }
+    ],
+    "uncertainty": "Le nom Guanahani et le lieu exact du premier débarquement font encore l’objet de débats. Les récits européens, notamment ceux de Colomb, sont des témoignages situés qui ne remplacent pas les voix autochtones.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Christopher_Colombus_first_voyage_1492-1493_map-fr.svg?width=1200",
+      "alt": "Carte moderne en français du premier voyage de Christophe Colomb dans la Caraïbe en 1492–1493.",
+      "title": "Carte du premier voyage de Christophe Colomb",
+      "caption": "Carte contemporaine de Sémhur retraçant le premier voyage d’après des sources cartographiques modernes; ce n’est pas une carte produite en 1492.",
+      "credit": "Sémhur / Wikimedia Commons",
+      "license": "Creative Commons Attribution – Partage dans les mêmes conditions 2.0 (CC BY-SA 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": {
+        "title": "Christopher Colombus first voyage 1492–1493 map-fr",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Christopher_Colombus_first_voyage_1492-1493_map-fr.svg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbus_landing_on_Hispaniola%2C_Dec._6%2C_1492%3B_greeted_by_Arawak_Indians_LCCN2003680406.jpg?width=1200",
+        "alt": "Gravure de Théodore de Bry représentant rétrospectivement le débarquement de Colomb à Hispaniola et une rencontre avec des Autochtones.",
+        "title": "Columbus landing on Hispaniola, Dec. 6, 1492",
+        "caption": "Gravure publiée par Théodore de Bry en 1594, plus d’un siècle après l’événement. Elle renseigne surtout sur la représentation européenne tardive des premiers contacts; elle ne constitue pas un témoignage visuel direct de 1492.",
+        "credit": "Théodore de Bry, Library of Congress, LCCN 2003680406",
+        "license": "Domaine public; la Library of Congress signale aucune restriction connue à la publication",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "Columbus landing on Hispaniola, Dec. 6, 1492; greeted by Arawak Indians",
+          "publisher": "Library of Congress via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Columbus_landing_on_Hispaniola,_Dec._6,_1492;_greeted_by_Arawak_Indians_LCCN2003680406.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Taino_ritual_seat_at_the_British_Museum.jpg?width=1200",
+        "alt": "Siège rituel duho taïno conservé au British Museum, provenant de la région de Saint-Domingue et daté des XIIIe–XVe siècles.",
+        "title": "Duho taïno du British Museum",
+        "caption": "Photographie contemporaine de BabelStone montrant un artefact taïno en bois, antérieur au voyage de 1492. Il donne un aperçu matériel des sociétés caribéennes avant la colonisation; ce n’est pas un objet représentatif de tous les Taïnos ni une preuve directe d’un épisode de 1492.",
+        "credit": "BabelStone, photographie d’un objet du British Museum (Am1949,22.118)",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "source": {
+          "title": "Taíno ritual seat at the British Museum",
+          "publisher": "British Museum object Am1949,22.118 via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Taino_ritual_seat_at_the_British_Museum.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "industrialisation-xixe",
+    "date": "1760",
+    "dateLabel": "À partir du XVIIIe siècle; transformations accélérées au XIXe siècle",
+    "period": "Époque contemporaine — sociétés industrielles",
+    "region": "Europe puis autres régions du monde",
+    "title": "La première industrialisation transforme le travail et les transports",
+    "summary": "La mécanisation, l’usage accru de la vapeur et le développement des chemins de fer transforment la production, les villes et les échanges, à des rythmes différents selon les régions.",
+    "context": "La première industrialisation débute en Grande-Bretagne au XVIIIe siècle et se diffuse progressivement. Les machines reposent sur des réseaux de capitaux, de matières premières, d’énergie et de main-d’œuvre.",
+    "actors": [
+      "Artisans, ouvriers et ouvrières",
+      "Entrepreneurs et ingénieurs",
+      "Communautés rurales et urbaines"
+    ],
+    "causes": [
+      "Mécanisation de certaines productions",
+      "Développement de la machine à vapeur",
+      "Capitaux, charbon et nouveaux marchés"
+    ],
+    "development": "Les manufactures mécanisées et les chemins de fer accélèrent la production et les déplacements. L’urbanisation progresse, tandis que les conditions de travail et les rapports sociaux se transforment.",
+    "consequences": "L’industrialisation modifie les économies et les sociétés, mais ses bénéfices et ses coûts sont inégalement répartis. Les empires coloniaux fournissent matières premières et marchés à plusieurs puissances industrielles.",
+    "concepts": [
+      "Industrialisation",
+      "Manufacture",
+      "Machine à vapeur",
+      "Urbanisation"
+    ],
+    "sources": [
+      {
+        "title": "Stephenson’s Rocket",
+        "publisher": "Science Museum Group",
+        "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8084947/stephensons-rocket-steam-locomotive"
+      },
+      {
+        "title": "The Industrial Revolution",
+        "publisher": "The National Archives (UK), education resources",
+        "url": "https://www.nationalarchives.gov.uk/education/resources/industrial-revolution/"
+      }
+    ],
+    "uncertainty": "La périodisation et les moteurs de l’industrialisation varient selon les pays; une locomotive célèbre ne résume ni les nombreuses technologies ni les expériences des travailleurs.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Replica_of_Stephenson%E2%80%99s_1829_Rocket.jpg?width=1200",
+      "alt": "Réplique partiellement ouverte de la locomotive Rocket de Stephenson, exposée au National Railway Museum en 2016.",
+      "title": "Replica of Stephenson’s 1829 Rocket",
+      "caption": "Photographie de 2016 d’une réplique construite en 1935, montrant l’intérieur de la Rocket de 1829. Elle permet d’observer une technologie historique, mais ce n’est pas une photographie de l’époque industrielle.",
+      "credit": "HawkeyeUK, via Wikimedia Commons",
+      "license": "Licence Creative Commons Attribution 2.0 (CC BY 2.0)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": {
+        "title": "Replica of Stephenson’s 1829 Rocket",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Replica_of_Stephenson%E2%80%99s_1829_Rocket.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Machinery_Hall_S._Ave_%2818677488953%29.jpg?width=1200",
+        "alt": "La grande salle des machines de l’Exposition universelle de Philadelphie en 1876, avec la machine à vapeur Corliss au centre.",
+        "title": "Machinery Hall, Centennial Exhibition",
+        "caption": "Philadelphie, 1876 : la salle présente des machines, de l’énergie hydraulique et à vapeur ainsi que des technologies alors récentes. Cette photographie documente une exposition industrielle américaine, non les conditions ordinaires de travail en usine.",
+        "credit": "Library Company of Philadelphia, P.2011.47.288",
+        "license": "Aucune restriction connue selon l’institution détentrice; attribution de la Library Company of Philadelphia",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Machinery_Hall_S._Ave_(18677488953).jpg",
+        "source": {
+          "title": "Machinery Hall S. Ave, 1876",
+          "publisher": "Library Company of Philadelphia via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Machinery_Hall_S._Ave_(18677488953).jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "imperialismes-afrique-1884",
+    "date": "1884",
+    "dateLabel": "1884–1914 — partage colonial accéléré de l’Afrique",
+    "period": "Époque contemporaine — impérialismes et colonisations",
+    "region": "Afrique et puissances européennes",
+    "title": "Les empires européens imposent leur domination en Afrique",
+    "summary": "À la fin du XIXe siècle, les puissances européennes intensifient conquêtes et revendications territoriales en Afrique, malgré les résistances et les pouvoirs politiques africains.",
+    "context": "La Conférence de Berlin de 1884–1885 fixe des règles entre puissances européennes sur leurs revendications et le commerce dans le bassin du Congo; les sociétés africaines ne sont pas représentées à la conférence.",
+    "actors": [
+      "Sociétés et États africains",
+      "Puissances européennes",
+      "Populations confrontées aux conquêtes, administrations et économies coloniales"
+    ],
+    "causes": [
+      "Rivalités impériales",
+      "Recherche de matières premières et de marchés",
+      "Stratégies politiques et militaires"
+    ],
+    "development": "Des conquêtes, traités imposés, compagnies et administrations coloniales étendent la domination européenne. Les réponses africaines comprennent résistances armées, négociations et adaptations.",
+    "consequences": "Les dominations coloniales remodèlent frontières, économies et sociétés. Les cartes et images produites par les puissances doivent être lues comme des sources situées qui rendent souvent invisibles les souverainetés et résistances africaines.",
+    "concepts": [
+      "Impérialisme",
+      "Colonisation",
+      "Souveraineté",
+      "Résistance"
+    ],
+    "sources": [
+      {
+        "title": "Berlin Conference of 1884–1885",
+        "publisher": "Office of the Historian, U.S. Department of State",
+        "url": "https://history.state.gov/milestones/1866-1898/berlin-conference"
+      },
+      {
+        "title": "Africa and the Berlin Conference",
+        "publisher": "The National Archives (UK), education resources",
+        "url": "https://www.nationalarchives.gov.uk/education/resources/africa-and-the-berlin-conference/"
+      }
+    ],
+    "uncertainty": "La conférence n’a pas littéralement tracé toutes les frontières africaines à elle seule; la conquête et le partage territorial se sont poursuivis sur plusieurs décennies, face à des sociétés et pouvoirs africains divers.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_Frondeur_%C2%AB_Le_reveillon_des_souverains_%21_%C2%BB_par_Fran%C3%A7ois_Mar%C3%A9chal_1884_%28recadr%C3%A9e%29.jpg?width=1200",
+      "alt": "Caricature de 1884 représentant des souverains européens festoyant avec le Congo comme plat principal.",
+      "title": "Le réveillon des souverains !",
+      "caption": "Caricature satirique de François Maréchal publiée dans Le Frondeur en 1884. Elle critique les ambitions européennes autour du Congo; comme toute caricature, elle exprime un point de vue et ne constitue pas un compte rendu neutre de la conférence.",
+      "credit": "François Maréchal, Le Frondeur, collection numérique DONum / Université de Liège",
+      "license": "Domaine public",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Le Frondeur, « Le réveillon des souverains ! », 1884",
+        "publisher": "DONum, Université de Liège via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Le_Frondeur_%C2%AB_Le_reveillon_des_souverains_%21_%C2%BB_par_Fran%C3%A7ois_Mar%C3%A9chal_1884_(recadr%C3%A9e).jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Kongokonferenz.jpg?width=1200",
+        "alt": "Illustration de presse représentant les participants européens à la Conférence de Berlin en 1884.",
+        "title": "Die Kongokonferenz",
+        "caption": "Illustration publiée en 1884 dans Über Land und Meer par Adalbert von Roessler. Elle montre des participants européens, mais aucun représentant africain; elle révèle aussi le cadrage politique de la presse européenne de l’époque.",
+        "credit": "Adalbert von Roessler, Über Land und Meer, 1884",
+        "license": "Domaine public (auteur décédé en 1922)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg",
+        "source": {
+          "title": "Kongokonferenz, 1884",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "inde-independance-partition-1947",
+    "date": "1947",
+    "dateLabel": "15 août 1947 et partition de l’Inde britannique",
+    "period": "Époque contemporaine — décolonisations et indépendances",
+    "region": "Asie du Sud — Inde et Pakistan",
+    "title": "L’indépendance de l’Inde britannique et la partition",
+    "summary": "La fin de la domination britannique conduit à la création des dominions de l’Inde et du Pakistan; la partition provoque déplacements massifs et violences.",
+    "context": "Après plusieurs décennies de mobilisations anticoloniales et de négociations, l’indépendance est proclamée en août 1947. Le tracé de nouvelles frontières entraîne des migrations dans les deux sens et des conflits communautaires.",
+    "actors": [
+      "Mouvements anticoloniaux et populations d’Asie du Sud",
+      "Gouvernement britannique",
+      "Dirigeants de l’Inde et du Pakistan nouvellement créés"
+    ],
+    "causes": [
+      "Mobilisations et revendications d’indépendance",
+      "Négociations sur le transfert du pouvoir",
+      "Désaccords politiques sur la représentation et les frontières"
+    ],
+    "development": "L’indépendance et la partition interviennent en août 1947. La nouvelle frontière entre l’Inde et le Pakistan déclenche des déplacements de populations à grande échelle, dans un contexte de violences et d’incertitude.",
+    "consequences": "La fin de la domination britannique crée deux États indépendants, bientôt rejoints par d’autres indépendances en Asie. Les migrations, pertes humaines et tensions de la partition laissent des conséquences durables.",
+    "concepts": [
+      "Décolonisation",
+      "Indépendance",
+      "Partition",
+      "Migration forcée"
+    ],
+    "sources": [
+      {
+        "title": "Partition of British India",
+        "publisher": "The National Archives (UK)",
+        "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/partition-of-british-india/"
+      },
+      {
+        "title": "India Independence Act 1947",
+        "publisher": "UK Parliament, legislation archive",
+        "url": "https://www.legislation.gov.uk/ukpga/Geo6/10-11/30/contents/enacted"
+      }
+    ],
+    "uncertainty": "Les estimations de morts et de personnes déplacées varient. La photographie officielle des dirigeants et des assemblées ne représente pas à elle seule les expériences des millions de personnes touchées par la partition.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountbatten_addressing_the_Independence_Day_session_of_the_Constituent_Assembly_on_Aug_15%2C_1947.jpg?width=1200",
+      "alt": "Lord Mountbatten s’adresse à l’Assemblée constituante lors de la séance du jour de l’indépendance, le 15 août 1947.",
+      "title": "Independence Day session of the Constituent Assembly",
+      "caption": "New Delhi, 15 août 1947 : Lord Mountbatten s’adresse à l’Assemblée constituante; Rajendra Prasad est assis à sa droite. Cette photographie officielle documente la cérémonie politique, pas les migrations ni les violences de la partition.",
+      "credit": "Photo Division, Government of India / photodivision.gov.in",
+      "license": "Domaine public en Inde pour cette œuvre gouvernementale publiée en 1947; vérifier les règles de réutilisation du pays concerné",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mountbatten_addressing_the_Independence_Day_session_of_the_Constituent_Assembly_on_Aug_15,_1947.jpg",
+      "source": {
+        "title": "Mountbatten addressing the Independence Day session, 15 August 1947",
+        "publisher": "Photo Division, Government of India via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Mountbatten_addressing_the_Independence_Day_session_of_the_Constituent_Assembly_on_Aug_15,_1947.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Mountbatten_Jinnah.jpg?width=1200",
+        "alt": "Lord et Lady Mountbatten rencontrent Muhammad Ali Jinnah en Inde en 1947.",
+        "title": "Mountbatten and Jinnah",
+        "caption": "1947 : le vice-roi Lord Mountbatten et son épouse rencontrent Muhammad Ali Jinnah, futur dirigeant du Pakistan. Photo d’archive de l’unité photographique de l’armée britannique; elle documente des négociations au sommet et laisse de côté les expériences populaires.",
+        "credit": "No. 9 Army Film and Photographic Unit, Imperial War Museums, IND 5302",
+        "license": "Domaine public (photographie officielle du gouvernement britannique, avant 1957)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-UKGov",
+        "source": {
+          "title": "Mountbatten Jinnah, IWM IND 5302",
+          "publisher": "Imperial War Museums via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Mountbatten_Jinnah.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "chute-mur-berlin-1989",
+    "date": "1989",
+    "dateLabel": "9 novembre 1989; réunification allemande en 1990",
+    "period": "Époque contemporaine — monde bipolaire et multipolaire",
+    "region": "Europe — Berlin, Allemagne de l’Est et de l’Ouest",
+    "title": "L’ouverture du mur de Berlin accélère la fin de la division de l’Europe",
+    "summary": "Le 9 novembre 1989, les points de passage de Berlin s’ouvrent sous la pression populaire et après une annonce confuse des nouvelles règles de circulation.",
+    "context": "Depuis 1961, le mur et les fortifications frontalières séparent Berlin-Est de Berlin-Ouest. Des mouvements de contestation et des mobilisations pacifiques traversent l’Allemagne de l’Est en 1989.",
+    "actors": [
+      "Habitants de Berlin-Est et de Berlin-Ouest",
+      "Mouvements civiques est-allemands",
+      "Gouvernements de la RDA et de la RFA"
+    ],
+    "causes": [
+      "Crise politique et contestations en RDA",
+      "Mobilisations pour la liberté de circulation",
+      "Réformes et transformations dans le bloc soviétique"
+    ],
+    "development": "Après l’annonce du 9 novembre 1989, une foule se dirige vers les postes-frontières. Les gardes ouvrent les passages; des habitants franchissent le mur et commencent à le démanteler. L’Allemagne est réunifiée en octobre 1990.",
+    "consequences": "L’ouverture du mur symbolise une transformation majeure de l’Europe et accompagne la fin de la division Est-Ouest. Elle ne met pas fin instantanément aux inégalités ni aux conflits liés à la guerre froide.",
+    "concepts": [
+      "Guerre froide",
+      "Division",
+      "Révolution pacifique",
+      "Réunification"
+    ],
+    "sources": [
+      {
+        "title": "Marking the 30th Anniversary of the Berlin Wall’s Fall",
+        "publisher": "U.S. National Archives",
+        "url": "https://www.archives.gov/news/topics/berlin-wall-anniversary"
+      },
+      {
+        "title": "Topics: Peaceful Revolution and fall of the Berlin Wall",
+        "publisher": "Berlin Wall Foundation",
+        "url": "https://www.stiftung-berliner-mauer.de/en/topics"
+      }
+    ],
+    "uncertainty": "Le terme « chute » recouvre une ouverture des postes-frontières, une révolution pacifique plus large et un démantèlement progressif du mur; ces processus ne se produisent pas en un seul instant.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Aerial_view_of_the_Berlin_Wall.jpg?width=1200",
+      "alt": "Vue aérienne d’un segment du mur de Berlin et de ses fortifications en 1989.",
+      "title": "Aerial view of the Berlin Wall",
+      "caption": "Berlin, 1989 : photographie aérienne d’un tronçon du mur et de la frontière. Elle documente l’aménagement matériel de la division, avant la réunification.",
+      "credit": "CMSgt Don Sutherland, U.S. Department of Defense, DF-ST-89-04329",
+      "license": "Domaine public (œuvre officielle du gouvernement fédéral américain)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Aerial view of the Berlin Wall, 1989",
+        "publisher": "U.S. Department of Defense via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Berlin_Wall.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Berlin_Wall_%28June_1989%29.jpg?width=1200",
+        "alt": "Le côté ouest du mur de Berlin entre Tiergarten et Mitte, photographié en juin 1989.",
+        "title": "Berlin Wall, June 1989",
+        "caption": "Berlin-Ouest, juin 1989 : photographie prise quelques mois avant l’ouverture des passages. Elle montre le mur tel qu’il existait encore et ne représente pas les scènes du 9 novembre.",
+        "credit": "Angr / Wikimedia Commons",
+        "license": "Domaine public, déclaration du photographe",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Wall_(June_1989).jpg",
+        "source": {
+          "title": "Berlin Wall (June 1989)",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Berlin_Wall_(June_1989).jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/DF-ST-91-01459_East_German_policemen_look_over_into_West_Germany_as_they_stand_near_the_Brandenburg_Gate.jpeg?width=1200",
+        "alt": "Des gardes-frontières est-allemands observent Berlin-Ouest près de la porte de Brandebourg le 14 novembre 1989.",
+        "title": "East German border guards near the Brandenburg Gate",
+        "caption": "Photographie officielle du 14 novembre 1989, quelques jours après l’ouverture des postes-frontières. Elle montre les gardes et la frontière encore en place; ce n’est pas une image du moment précis où les passages ont été ouverts.",
+        "credit": "SSgt F. Lee Cockran, U.S. Department of Defense, DF-ST-91-01459 / NARA 6460194",
+        "license": "Domaine public (photographie officielle du gouvernement fédéral américain)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "East German policemen look over into West Germany near the Brandenburg Gate",
+          "publisher": "National Archives and Records Administration via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:DF-ST-91-01459_East_German_policemen_look_over_into_West_Germany_as_they_stand_near_the_Brandenburg_Gate.jpeg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "premiere-guerre-mondiale",
+    "title": "La Première Guerre mondiale",
+    "date": "1914-1918",
+    "dateLabel": "1914–1918",
+    "period": "Époque contemporaine",
+    "region": "Europe, Afrique, Moyen-Orient, Asie et océans",
+    "summary": "Une crise européenne s’étend par les alliances, les empires et les fronts coloniaux; le conflit mobilise des sociétés à l’échelle mondiale.",
+    "context": "Les rivalités impériales, nationalismes et alliances forment le contexte. L’assassinat de François-Ferdinand à Sarajevo en juin 1914 déclenche une crise diplomatique.",
+    "causes": [
+      "Crise de juillet 1914",
+      "Rivalités impériales et nationales",
+      "Systèmes d’alliances"
+    ],
+    "development": "Les combats s’étendent à l’Europe, l’Afrique et au Moyen-Orient. La guerre de tranchées et l’industrialisation des armements causent des pertes massives. L’armistice avec l’Allemagne entre en vigueur le 11 novembre 1918.",
+    "consequences": "La guerre entraîne des millions de morts et de blessés, la chute de plusieurs empires, des déplacements et un redécoupage de frontières. Les traités ne règlent pas toutes les tensions.",
+    "concepts": [
+      "Alliance",
+      "Empire",
+      "Guerre industrielle",
+      "Armistice"
+    ],
+    "sources": [
+      {
+        "title": "First World War",
+        "publisher": "National Army Museum",
+        "url": "https://www.nam.ac.uk/explore/first-world-war"
+      },
+      {
+        "title": "World War I",
+        "publisher": "United States Holocaust Memorial Museum",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-i"
+      }
+    ],
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/American_soldiers_in_trenches%2C_France%2C_1918-_USASC_-22343_%28foliage_atop_trench%29_LCCN2007683017.jpg?width=1200",
+      "alt": "Soldats américains dans une tranchée en France, photographiés en 1918.",
+      "caption": "Photographie de 1918 conservée par la Library of Congress; elle représente le front français depuis un point de vue américain.",
+      "credit": "U.S. Army Signal Corps, Library of Congress via Wikimedia Commons",
+      "license": "Domaine public; aucune restriction connue par la Library of Congress",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "American soldiers in trenches, France, 1918",
+        "publisher": "Library of Congress via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:American_soldiers_in_trenches,_France,_1918-_USASC_-22343_(foliage_atop_trench)_LCCN2007683017.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Firing_a_field_gun,_during_World_War_I._In_the_foreground_stands_a_man_leaning_against_a_bridge_which_crosses_his_trench._At_the_back_of_the_picture_is_a_large,_smoking_field_gun_which_has_just_been_(4688021831).jpg?width=1200",
+        "alt": "Un canon de campagne vient de tirer depuis une tranchée sur le front occidental pendant la Première Guerre mondiale.",
+        "caption": "Canon de campagne après un tir, front occidental, 1918.",
+        "credit": "Photographe du War Office britannique, National Library of Scotland",
+        "license": "Aucune restriction de droit d’auteur connue",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "Firing a field gun during World War I",
+          "publisher": "National Library of Scotland via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Firing_a_field_gun,_during_World_War_I._In_the_foreground_stands_a_man_leaning_against_a_bridge_which_crosses_his_trench._At_the_back_of_the_picture_is_a_large,_smoking_field_gun_which_has_just_been_(4688021831).jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/British_soldiers_in_wrecked_German_trench_at_Ginchy_1916_IWM_Q_4338.jpg?width=1200",
+        "alt": "Deux soldats britanniques se tiennent dans une tranchée allemande détruite à Ginchy, dans la Somme.",
+        "title": "British soldiers in wrecked German trench at Ginchy",
+        "caption": "Ginchy, septembre 1916 : deux soldats britanniques dans une tranchée allemande endommagée pendant les combats de la Somme. La photographie documente les vestiges du front après l’assaut.",
+        "credit": "John Warwick Brooke, Imperial War Museums, Q 4338",
+        "license": "Domaine public (photographie du gouvernement britannique, prise avant 1957)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-UKGov",
+        "source": {
+          "title": "IWM Q 4338",
+          "publisher": "Imperial War Museums via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:British_soldiers_in_wrecked_German_trench_at_Ginchy_1916_IWM_Q_4338.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Photograph_from_the_Battle_of_Verdun_on_the_road_to_the_Poste_de_Secours_in_the_Bois_d%27Esnes,_August_1917.jpg?width=1200",
+        "alt": "Route dévastée près d’un poste de secours dans le bois d’Esnes, secteur de Verdun, en août 1917.",
+        "title": "Road to the Poste de Secours, Bois d’Esnes",
+        "caption": "Verdun, août 1917 : Sidney Towner Phelan photographie les restes d’un convoi d’artillerie sur une route du front. Cette image montre les infrastructures détruites et la logistique derrière les combats.",
+        "credit": "Sidney Towner Phelan, Missouri Historical Society, D02633",
+        "license": "Domaine public aux États-Unis (publication antérieure à 1931); vérifier les règles locales pour toute réutilisation",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Photograph_from_the_Battle_of_Verdun_on_the_road_to_the_Poste_de_Secours_in_the_Bois_d%27Esnes,_August_1917.jpg",
+        "source": {
+          "title": "Photograph from the Battle of Verdun, D02633",
+          "publisher": "Missouri Historical Society via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Photograph_from_the_Battle_of_Verdun_on_the_road_to_the_Poste_de_Secours_in_the_Bois_d%27Esnes,_August_1917.jpg"
+        }
+      }
+    ],
+    "uncertainty": "Les pertes restent des estimations qui varient selon les méthodes de comptage."
+  },
+  {
+    "id": "seconde-guerre-mondiale",
+    "title": "La Seconde Guerre mondiale",
+    "date": "1939-1945",
+    "dateLabel": "1939–1945; conflits en Asie dès 1937",
+    "period": "Époque contemporaine",
+    "region": "Europe, Afrique, Asie-Pacifique et océans",
+    "summary": "Les politiques expansionnistes des puissances de l’Axe entraînent une guerre mondiale qui frappe aussi les civils par les occupations, déplacements, bombardements et génocides.",
+    "context": "La guerre en Europe commence avec l’invasion de la Pologne en 1939. En Asie, la guerre sino-japonaise à grande échelle commence en 1937; les conflits régionaux se rejoignent.",
+    "causes": [
+      "Expansionnisme et militarisme de l’Allemagne nazie, l’Italie fasciste et du Japon impérial",
+      "Crises internationales et échec des efforts de paix"
+    ],
+    "development": "Les Alliés combattent les puissances de l’Axe sur plusieurs fronts. La capitulation allemande en mai 1945 précède la fin des combats en Asie en août et septembre.",
+    "consequences": "Destructions et pertes immenses, dont le génocide des Juifs d’Europe par l’Allemagne nazie et ses collaborateurs, ainsi que d’autres massacres et persécutions. La guerre contribue à l’ONU et accélère la décolonisation.",
+    "concepts": [
+      "Axe",
+      "Alliés",
+      "Occupation",
+      "Génocide"
+    ],
+    "sources": [
+      {
+        "title": "World War II in Europe",
+        "publisher": "United States Holocaust Memorial Museum",
+        "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-ii-in-europe"
+      },
+      {
+        "title": "World War II Photos",
+        "publisher": "National Archives and Records Administration",
+        "url": "https://www.archives.gov/research/military/ww2/photos"
+      }
+    ],
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Gen._Douglas_MacArthur_wades_ashore_during_initial_landings_at_Leyte%2C_P.I._October_1944_HD-SN-99-02866.jpg?width=1200",
+      "alt": "Le général Douglas MacArthur débarque à Leyte, aux Philippines, en octobre 1944.",
+      "caption": "Débarquement à Leyte, octobre 1944; photographie d’archives du point de vue militaire américain.",
+      "credit": "Photographe non identifié, U.S. Army / NARA 111-SC-407101, via Wikimedia Commons",
+      "license": "Domaine public (œuvre fédérale américaine)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "MacArthur wades ashore at Leyte, October 1944",
+        "publisher": "U.S. Army / NARA via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Gen._Douglas_MacArthur_wades_ashore_during_initial_landings_at_Leyte,_P.I._October_1944_HD-SN-99-02866.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Marines_crawling_under_fire_on_the_beach_at_Saipan._(49480223491).jpg?width=1200",
+        "alt": "Des Marines avancent à plat ventre sur la plage de Saipan sous le feu ennemi, en juin 1944.",
+        "caption": "Débarquement de Saipan, juin 1944; image d’une opération militaire américaine dans le Pacifique.",
+        "credit": "U.S. Marine Corps, via Wikimedia Commons",
+        "license": "Domaine public (œuvre fédérale américaine)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "Marines crawling under fire on the beach at Saipan",
+          "publisher": "U.S. Marine Corps via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Marines_crawling_under_fire_on_the_beach_at_Saipan._(49480223491).jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/D-day_Normandy_Nara_26-G-2343.jpg?width=1200",
+        "alt": "Des soldats américains avancent dans l’eau vers Omaha Beach le 6 juin 1944.",
+        "title": "U.S. Army troops wade ashore on Omaha Beach",
+        "caption": "Omaha Beach, 6 juin 1944 : Robert F. Sargent photographie des soldats américains quittant un bâtiment des garde-côtes. C’est un cliché réalisé pendant le débarquement, depuis le point de vue des forces américaines.",
+        "credit": "Robert F. Sargent, U.S. Coast Guard, NARA 26-G-2343 / NAID 513173",
+        "license": "Domaine public (photographie officielle des garde-côtes des États-Unis)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "NARA 26-G-2343",
+          "publisher": "National Archives and Records Administration via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:D-day_Normandy_Nara_26-G-2343.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Auschwitz_Liberated_January_1945.jpg?width=1200",
+        "alt": "Des survivants du camp d’Auschwitz-Birkenau lors de sa libération par l’Armée rouge en janvier 1945.",
+        "title": "Auschwitz Liberated, January 1945",
+        "caption": "Janvier 1945 : photographie de prisonniers à Auschwitz pendant la libération du camp par l’Armée rouge. La notice attribue l’image au fonds du Musée d’État d’Auschwitz-Birkenau; elle documente les survivants après la persécution et l’extermination nazies.",
+        "credit": "Auteur non identifié, Auschwitz Memorial and Museum",
+        "license": "Domaine public selon la notice Wikimedia Commons (statut établi pour la Pologne et les États-Unis)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Auschwitz_Liberated_January_1945.jpg",
+        "source": {
+          "title": "Auschwitz Liberated January 1945",
+          "publisher": "Auschwitz Memorial and Museum via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Auschwitz_Liberated_January_1945.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hiroshima_aftermath.jpg?width=1200",
+        "alt": "Bâtiments détruits à Hiroshima après le bombardement atomique du 6 août 1945.",
+        "title": "Hiroshima aftermath",
+        "caption": "Hiroshima, après le 6 août 1945 : les ruines visibles témoignent de la destruction urbaine causée par la bombe atomique. La photographie appartient à une collection d’information publique de la marine américaine; elle ne montre pas le moment de l’explosion.",
+        "credit": "Photographe non identifié, U.S. Navy Public Affairs Resources",
+        "license": "Domaine public (œuvre du gouvernement fédéral américain; crédit demandé par la source)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "Hiroshima aftermath",
+          "publisher": "U.S. Navy Public Affairs Resources via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Hiroshima_aftermath.jpg"
+        }
+      }
+    ],
+    "film": {
+      "title": "With the Marines at Tarawa (1944)",
+      "embedUrl": "https://archive.org/embed/WiththeMarinesatTarawa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:WITH_THE_MARINES_AT_TARAWA.webm",
+      "credit": "U.S. Marine Corps / National Archives (NARA 127-MH-3527)",
+      "license": "Domaine public (œuvre du gouvernement fédéral américain)",
+      "warning": "Images d’époque de bombardements, de tirs, de blessés et de morts. Le film adopte le point de vue du Marine Corps américain.",
+      "context": "Film de combat tourné pendant la bataille de Tarawa en 1943, présenté en 1944; il montre des images du front, pas des interviews."
+    },
+    "uncertainty": "Les historiens retiennent parfois des dates de début différentes pour la guerre en Asie et la guerre mondiale datée de 1939–1945."
+  },
+  {
+    "id": "guerre-coree",
+    "title": "La guerre de Corée",
+    "date": "1950-1953",
+    "dateLabel": "25 juin 1950 – 27 juillet 1953",
+    "period": "Époque contemporaine — guerre froide",
+    "region": "Asie de l’Est — péninsule coréenne",
+    "summary": "La guerre oppose la Corée du Nord et la Corée du Sud; des forces de l’ONU, notamment américaines, puis la Chine interviennent. Un armistice arrête les combats en 1953.",
+    "context": "Après la fin de la domination japonaise, la péninsule est occupée au nord par l’URSS et au sud par les États-Unis. Deux gouvernements rivaux s’établissent.",
+    "causes": [
+      "Division de la péninsule",
+      "Rivalité entre gouvernements coréens",
+      "Contexte de guerre froide"
+    ],
+    "development": "Les forces sud-coréennes et onusiennes combattent l’armée nord-coréenne; l’intervention chinoise modifie le rapport de forces. L’armistice est signé le 27 juillet 1953.",
+    "consequences": "La péninsule reste divisée et une zone démilitarisée sépare les deux États. L’armistice met fin aux combats sans traité de paix général.",
+    "concepts": [
+      "Guerre froide",
+      "Armistice",
+      "38e parallèle",
+      "Zone démilitarisée"
+    ],
+    "sources": [
+      {
+        "title": "The United Nations in Korea",
+        "publisher": "Harry S. Truman Presidential Library and Museum",
+        "url": "https://www.trumanlibrary.gov/education/presidential-inquiries/united-nations-korea"
+      },
+      {
+        "title": "Korean War and Its Origins",
+        "publisher": "Harry S. Truman Presidential Library and Museum",
+        "url": "https://www.trumanlibrary.gov/library/online-collections/korean-war-and-its-origins"
+      }
+    ],
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Korean_War_Peace_talks._Kaesong%2C_Korea_-_NARA_-_292621.jpg?width=1200",
+      "alt": "Des représentants communistes quittent la salle des pourparlers d’armistice à Kaesong, en 1951.",
+      "caption": "Pourparlers d’armistice à Kaesong, 1951; la guerre se poursuit pendant les négociations.",
+      "credit": "Department of the Army, NARA 292621, via Wikimedia Commons",
+      "license": "Domaine public (œuvre fédérale américaine)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Korean War Peace talks, Kaesong, Korea",
+        "publisher": "National Archives and Records Administration via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Korean_War_Peace_talks._Kaesong,_Korea_-_NARA_-_292621.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/27th_Infantry_Regiment_soldiers_at_the_Pusan_Perimeter,_September_4,_1950.jpg?width=1200",
+        "alt": "Des soldats du 27e régiment d’infanterie tirent depuis leurs positions au périmètre de Pusan en septembre 1950.",
+        "caption": "Périmètre de Pusan, 4 septembre 1950; soldats américains en position de combat.",
+        "credit": "Pfc Thomas Nebbia, U.S. Army",
+        "license": "Domaine public (œuvre fédérale américaine)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "27th Infantry Regiment soldiers at the Pusan Perimeter",
+          "publisher": "U.S. Army via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:27th_Infantry_Regiment_soldiers_at_the_Pusan_Perimeter,_September_4,_1950.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/US_Army_artillery_in_action_in_Korea_1950-07-25.jpg?width=1200",
+        "alt": "Une pièce d’artillerie de l’armée américaine tire en Corée le 25 juillet 1950.",
+        "title": "U.S. Army artillery in action in Korea",
+        "caption": "25 juillet 1950 : une pièce d’artillerie américaine ouvre le feu sur des forces nord-coréennes. La légende d’archive situe l’action « quelque part en Corée »; elle ne permet pas d’identifier le lieu exact.",
+        "credit": "Breeding, U.S. Army Signal Corps, photo 8A/FEC-50-4712",
+        "license": "Domaine public (photographie officielle de l’armée américaine)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "U.S. Army artillery in action in Korea, 25 July 1950",
+          "publisher": "U.S. Army Center of Military History via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:US_Army_artillery_in_action_in_Korea_1950-07-25.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Private_First_Class_Roman_Prauty%2C_a_gunner_with_31st_Regimental_Combat_Team_%28crouching_foreground%29%2C_with_the_assistance_of_his_gun_crew%2C_fires_a_75mm_recoilless_rifle%2C_near_Oetlook-tong%2C_Korea%2C_in_support_of_infant%28...%29_-_NARA_-_531409.gif",
+        "alt": "Le soldat Roman Prauty et son équipe tirent un canon sans recul de 75 mm près d’Oetlook-tong en juin 1951.",
+        "title": "Pfc Roman Prauty fires a recoilless rifle",
+        "caption": "9 juin 1951, près d’Oetlook-tong : le soldat Roman Prauty et son équipe appuient des unités d’infanterie de l’autre côté de la vallée. Il s’agit d’un tir d’appui documenté dans une photographie de la série militaire américaine.",
+        "credit": "U.S. Army Signal Corps, NARA 111-SC-369801 / NAID 531409",
+        "license": "Domaine public (œuvre du gouvernement fédéral américain)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "NARA 531409 — Roman Prauty fires a 75mm recoilless rifle",
+          "publisher": "National Archives and Records Administration via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Private_First_Class_Roman_Prauty,_a_gunner_with_31st_Regimental_Combat_Team_(crouching_foreground),_with_the_assistance_of_his_gun_crew,_fires_a_75mm_recoilless_rifle,_near_Oetlook-tong,_Korea,_in_support_of_infant(...)_-_NARA_-_531409.gif"
+        }
+      }
+    ]
+  },
+  {
+    "id": "guerre-vietnam",
+    "title": "La guerre du Vietnam",
+    "date": "1954-1975",
+    "dateLabel": "1954–1975; escalade américaine dans les années 1960",
+    "period": "Époque contemporaine — guerre froide et décolonisation",
+    "region": "Asie du Sud-Est — Vietnam, Laos et Cambodge",
+    "summary": "Le conflit prolonge les luttes vietnamiennes pour l’indépendance et la division politique après 1954; plusieurs puissances étrangères interviennent.",
+    "context": "Après la défaite française à Điện Biên Phủ, les accords de Genève de 1954 organisent un regroupement militaire autour d’une ligne provisoire; deux gouvernements rivaux s’établissent.",
+    "causes": [
+      "Luttes pour l’indépendance",
+      "Désaccords sur l’avenir politique",
+      "Division du pays et guerre froide"
+    ],
+    "development": "Les forces du Nord et du Sud, les États-Unis et d’autres États combattent dans la région. Les accords de Paris de 1973 précèdent le retrait américain; les combats continuent jusqu’à la prise de Saïgon en 1975.",
+    "consequences": "La guerre provoque morts, blessés, déplacements massifs et destructions dans la région. Le Vietnam est réunifié sous le gouvernement du Nord en 1976.",
+    "concepts": [
+      "Décolonisation",
+      "Guerre froide",
+      "Ligne de démarcation",
+      "Réunification"
+    ],
+    "sources": [
+      {
+        "title": "Vietnam",
+        "publisher": "Office of the Historian, U.S. Department of State",
+        "url": "https://history.state.gov/countries/vietnam"
+      },
+      {
+        "title": "Ending the Vietnam War, 1969–1973",
+        "publisher": "Office of the Historian, U.S. Department of State",
+        "url": "https://history.state.gov/milestones/1969-1976/ending-vietnam"
+      }
+    ],
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Woundedsoldiervietnamwar1968.jpg?width=1200",
+      "alt": "Un soldat américain blessé reçoit des soins dans la banlieue de Saïgon en mai 1968.",
+      "caption": "Photo prise pendant l’offensive de mai 1968, au sud de Saïgon; elle montre une scène du point de vue militaire américain.",
+      "credit": "SP4 Bryan Grigsby, U.S. Army, via Wikimedia Commons",
+      "license": "Domaine public (œuvre fédérale américaine)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Soldat blessé à Gia Định, 6 mai 1968",
+        "publisher": "Virtual Vietnam Archive via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Woundedsoldiervietnamwar1968.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/A_machine_gunner_and_a_rifleman_from_the_5th_Marine_Regiment_fire_at_the_enemy_near_the_Demilitarized_Zone_in_Vietnam._-_NARA_-_532477.tif?width=1200",
+        "alt": "Un mitrailleur et un fusilier-marins tirent près de la zone démilitarisée au Vietnam en mai 1967.",
+        "caption": "Près de la zone démilitarisée, mai 1967; soldats américains tirant pendant une opération.",
+        "credit": "U.S. Marine Corps / NARA 532477",
+        "license": "Domaine public (œuvre fédérale américaine)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "Marines firing near the Demilitarized Zone",
+          "publisher": "National Archives and Records Administration via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:A_machine_gunner_and_a_rifleman_from_the_5th_Marine_Regiment_fire_at_the_enemy_near_the_Demilitarized_Zone_in_Vietnam._-_NARA_-_532477.tif"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NARA_111-CCV-619-CC43158_101st_Airborne_81_mm_mortar_crew_firing_a_round_Operation_Wheeler_1967.jpg?width=1200",
+        "alt": "Une équipe de mortier de la 101e division aéroportée tire pendant l’opération Wheeler au Vietnam en septembre 1967.",
+        "title": "101st Airborne mortar crew during Operation Wheeler",
+        "caption": "15 septembre 1967, région de Tam Kỳ : une équipe de mortier américaine tire en appui d’unités engagées dans l’opération Wheeler. La notice d’archive décrit une mission de recherche et de combat; le cadrage reste celui de l’armée américaine.",
+        "credit": "SP5 Robert C. Lafoon, Department of the Army Special Photo Office, NARA 111-CCV-619-CC43158 / NAID 66956851",
+        "license": "Domaine public (photographie officielle de l’armée américaine)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "NARA 66956851 — 101st Airborne mortar crew, Operation Wheeler",
+          "publisher": "National Archives and Records Administration via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:NARA_111-CCV-619-CC43158_101st_Airborne_81_mm_mortar_crew_firing_a_round_Operation_Wheeler_1967.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/NARA_111-CCV-361-CC33830_101st_Airborne_81_mm_mortar_crew_Operation_Harrison_1966.jpg?width=1200",
+        "alt": "Une équipe de mortier de la 101e division prépare son arme pendant l’opération Harrison au Vietnam en février 1966.",
+        "title": "101st Airborne mortar crew during Operation Harrison",
+        "caption": "27 février 1966, près de Tuy Hòa : des soldats mettent un mortier en position pendant l’opération Harrison. Cette image montre la préparation d’un tir et documente la logistique d’une opération, sans affirmer que l’obus est visible en vol.",
+        "credit": "SP4 Robert C. Lafoon, Department of the Army Special Photo Office, NARA 111-CCV-361-CC33830 / NAID 66956686",
+        "license": "Domaine public (photographie officielle de l’armée américaine)",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "source": {
+          "title": "NARA 66956686 — 101st Airborne mortar crew, Operation Harrison",
+          "publisher": "National Archives and Records Administration via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:NARA_111-CCV-361-CC33830_101st_Airborne_81_mm_mortar_crew_Operation_Harrison_1966.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "revolutions-independances-atlantiques",
+    "date": "1776-1804",
+    "dateLabel": "1776–1804",
+    "period": "Époque moderne — révolutions et indépendances",
+    "region": "Espace atlantique — Amérique du Nord, Europe et Caraïbe",
+    "title": "Révolutions et indépendances dans l’espace atlantique",
+    "summary": "Entre la fin du XVIIIe siècle et le début du XIXe, des révolutions et mouvements d’indépendance contestent des empires et élaborent de nouveaux régimes. Leurs objectifs, leurs droits et leurs résultats diffèrent.",
+    "context": "La révolution américaine (1776), la Révolution française (à partir de 1789) et la révolution haïtienne (1791–1804) se déroulent dans un monde atlantique marqué par l’esclavage et les hiérarchies coloniales. La révolution haïtienne conduit à l’indépendance d’Haïti en 1804.",
+    "actors": [
+      "Populations des colonies nord-américaines et autorités britanniques",
+      "Acteurs et actrices de la Révolution française",
+      "Personnes esclavisées, libres et insurgées de Saint-Domingue; dirigeants haïtiens"
+    ],
+    "causes": [
+      "Contestations de l’autorité impériale et des privilèges",
+      "Revendications de représentation et de droits, selon des projets politiques différents",
+      "Résistance à l’esclavage et lutte pour la liberté à Saint-Domingue"
+    ],
+    "development": "Les colonies britanniques d’Amérique du Nord déclarent leur indépendance en 1776. La Révolution française renverse la monarchie et proclame de nouveaux principes de droits à partir de 1789. À Saint-Domingue, une insurrection commencée en 1791 devient une révolution qui abolit l’esclavage dans la colonie en 1794; après le rétablissement de l’esclavage par la France et la guerre, Haïti proclame son indépendance en 1804.",
+    "consequences": "Ces événements transforment les idées de souveraineté et de citoyenneté, mais les droits sont longtemps limités selon le sexe, la classe et la race. La révolution haïtienne détruit l’ordre esclavagiste colonial et fonde un État indépendant; elle ne doit pas être réduite à une simple extension des révolutions américaine ou française.",
+    "concepts": [
+      "Révolution",
+      "Indépendance",
+      "Souveraineté",
+      "Abolition de l’esclavage",
+      "Citoyenneté"
+    ],
+    "sources": [
+      {
+        "title": "The Declaration of Independence: A Transcription",
+        "institution": "U.S. National Archives",
+        "url": "https://www.archives.gov/founding-docs/declaration-transcript"
+      },
+      {
+        "title": "Haitian Declaration of Independence, MFQ 1/184",
+        "institution": "The National Archives (UK)",
+        "url": "https://images.nationalarchives.gov.uk/asset/17180/"
+      },
+      {
+        "title": "Declaration des droits de l’homme et du citoyen",
+        "institution": "Paris Musées — Musée Carnavalet",
+        "url": "https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/declaration-des-droits-de-l-homme-et-du-citoyen-4#infos-principales"
+      }
+    ],
+    "uncertainty": "La comparaison met en regard des processus liés, mais distincts. Les déclarations et images institutionnelles montrent surtout des textes et des dirigeants; elles ne rendent pas à elles seules les expériences populaires, les violences ni l’ensemble des voix des personnes réduites en esclavage.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/US-original-Declaration-1776.jpg?width=1200",
+      "alt": "Fac-similé de la première page imprimée de la Déclaration d’indépendance américaine de 1776.",
+      "title": "Déclaration d’indépendance des États-Unis, 1776",
+      "caption": "Document imprimé contemporain : exemplaire de la première impression publique de la Déclaration, attribuée à John Dunlap en juillet 1776. Il témoigne d’une proclamation politique, sans représenter l’expérience de toutes les personnes vivant dans les colonies.",
+      "credit": "John Dunlap, Continental Congress, exemplaire conservé par les collections historiques américaines",
+      "license": "Domaine public",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:US-original-Declaration-1776.jpg",
+      "source": {
+        "title": "US original Declaration, 1776",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:US-original-Declaration-1776.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deklarasyon_Endepandans_Ayiti.jpg?width=1200",
+        "alt": "Numérisation d’une copie imprimée de la Déclaration d’indépendance d’Haïti du 1er janvier 1804.",
+        "title": "Déclaration d’indépendance d’Haïti, 1804",
+        "caption": "Document d’archive imprimé en 1804, conservé aux Archives nationales du Royaume-Uni sous la cote MFQ 1/184. Il s’agit d’une source primaire textuelle de l’indépendance haïtienne, non d’une photographie de la proclamation.",
+        "credit": "Auteur inconnu; The National Archives (UK), MFQ 1/184",
+        "license": "Domaine public (document historique; notice Commons)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Deklarasyon_Endepandans_Ayiti.jpg",
+        "source": {
+          "title": "Haitian Declaration of Independence, 1 January 1804",
+          "publisher": "The National Archives (UK) via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Deklarasyon_Endepandans_Ayiti.jpg"
+        }
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg?width=1200",
+        "alt": "Peinture de Jean-Jacques-François Le Barbier représentant symboliquement la Déclaration des droits de l’homme et du citoyen de 1789.",
+        "title": "La Déclaration des droits de l’homme et du citoyen",
+        "caption": "Représentation artistique postérieure à l’adoption du texte, réalisée par Le Barbier vers 1790. Elle illustre une mémoire visuelle des principes révolutionnaires; ce n’est ni le document original ni une scène observée de 1789.",
+        "credit": "Jean-Jacques-François Le Barbier, Musée Carnavalet / Paris Musées",
+        "license": "CC0 1.0 — reproduction dédiée au domaine public",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "source": {
+          "title": "Déclaration des droits de l’homme et du citoyen",
+          "publisher": "Paris Musées — Musée Carnavalet via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Declaration_of_the_Rights_of_Man_and_of_the_Citizen_in_1789.jpg"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,1328 @@
+[
+  {
+    "id": "communautes-tainos",
+    "date": "c. 1000",
+    "dateLabel": "Vers l’an 1000",
+    "period": "Sociétés précoloniales",
+    "title": "Des communautés taïnos dans les Grandes Antilles",
+    "summary": "Bien avant l’arrivée des Européens, l’île aujourd’hui partagée entre Haïti et la République dominicaine était habitée par des peuples autochtones, dont des communautés taïnos.",
+    "context": "Les sociétés des Caraïbes avaient des histoires et des langues diverses. Les Taïnos vivaient notamment dans les Grandes Antilles; leurs descendants et leurs héritages sont toujours présents dans la région.",
+    "actors": [
+      "Peuples autochtones des Caraïbes",
+      "Communautés taïnos"
+    ],
+    "causes": [
+      "Migrations et échanges anciens dans la région des Caraïbes",
+      "Développement de communautés et de traditions propres aux îles"
+    ],
+    "development": "Les communautés cultivaient notamment le manioc, fabriquaient des objets et entretenaient des liens entre les îles. Les archéologues étudient les objets et les sites pour mieux connaître ces sociétés.",
+    "consequences": "Ces sociétés forment une partie ancienne et toujours vivante de l’histoire de l’île et des identités caribéennes.",
+    "concepts": [
+      "peuples autochtones",
+      "Taïnos",
+      "archéologie",
+      "héritage culturel"
+    ],
+    "sources": [
+      {
+        "title": "Taíno: Herencia e identidad indígena en el Caribe",
+        "url": "https://americanindian.si.edu/nk360/pdf/Taino-Gallery-Guide-Spanish.pdf",
+        "publisher": "Smithsonian National Museum of the American Indian",
+        "sourceType": "guide de musée et synthèse archéologique"
+      },
+      {
+        "title": "Dominican Republic: Genealogy Resource Guide — Introduction",
+        "url": "https://guides.loc.gov/dominican-republic-local-history-genealogy",
+        "publisher": "Library of Congress",
+        "sourceType": "guide institutionnel"
+      }
+    ],
+    "uncertainty": "La date vers 1000 résume l’émergence de communautés taïnos dans les Grandes Antilles; elle ne marque ni le début du peuplement de l’île ni une date unique établie pour toutes ses communautés. Les estimations de population avant 1492 varient fortement.",
+    "visual": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/313384/1914694/main-image",
+      "alt": "Figure zemí taïno en pierre, objet rituel daté d’environ 1200–1500.",
+      "caption": "Sculpture taïno conservée au Metropolitan Museum of Art; elle ne représente pas une scène quotidienne.",
+      "credit": "Artiste taïno non nommé, The Metropolitan Museum of Art, Open Access",
+      "license": "Domaine public (Open Access)",
+      "licenseUrl": "https://www.metmuseum.org/art/collection/search/313384",
+      "source": {
+        "title": "Zemí figure",
+        "publisher": "The Metropolitan Museum of Art",
+        "url": "https://www.metmuseum.org/art/collection/search/313384"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pendant%20Figure%20MET%20DP102185.jpg?width=1200",
+        "alt": "Pendentif en pierre attribué à une tradition taïno, daté des XIIIe–XVe siècles.",
+        "caption": "Objet archéologique conservé au Metropolitan Museum of Art; il documente une culture matérielle, sans prétendre représenter une scène de vie.",
+        "credit": "The Metropolitan Museum of Art, objet 1997.35.3",
+        "license": "CC0 / domaine public (Met Open Access)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pendant_Figure_MET_DP102185.jpg",
+        "source": {
+          "title": "Pendant Figure, 13th–15th century",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Pendant_Figure_MET_DP102185.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "arrivee-europeenne-hispaniola",
+    "date": "1492",
+    "dateLabel": "À partir de 1492",
+    "period": "Colonisation espagnole",
+    "title": "Les Espagnols arrivent sur Hispaniola",
+    "summary": "Après avoir rencontré des Taïnos aux Bahamas, l’expédition de Christophe Colomb atteint Hispaniola en 1492. La colonisation espagnole transforme profondément la vie des peuples de l’île.",
+    "context": "L’île est déjà habitée par des sociétés autochtones. Les voyages européens ouvrent une période de conquête, d’exploitation et de bouleversements démographiques dans les Caraïbes.",
+    "actors": [
+      "Peuples taïnos et autres peuples autochtones",
+      "Christophe Colomb",
+      "Couronne espagnole",
+      "Colonisateurs espagnols"
+    ],
+    "causes": [
+      "Expansion maritime et impériale de l’Espagne",
+      "Recherche de routes commerciales et de ressources"
+    ],
+    "development": "Les Espagnols établissent des colonies, imposent le travail forcé et introduisent des maladies contre lesquelles les populations locales n’ont pas les mêmes défenses. La violence, les déplacements et les maladies provoquent une chute dramatique de la population autochtone.",
+    "consequences": "La colonisation bouleverse les sociétés de l’île. Les traditions autochtones ne disparaissent pas: des personnes et des pratiques survivent et se transforment au fil des générations.",
+    "concepts": [
+      "colonisation",
+      "conquête",
+      "peuples autochtones",
+      "épidémie",
+      "résistance"
+    ],
+    "sources": [
+      {
+        "title": "Columbus and the Taíno",
+        "url": "https://wwws.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino.html",
+        "publisher": "Library of Congress",
+        "sourceType": "exposition historique institutionnelle"
+      },
+      {
+        "title": "Dominican Republic: Genealogy Resource Guide — Introduction",
+        "url": "https://guides.loc.gov/dominican-republic-local-history-genealogy",
+        "publisher": "Library of Congress",
+        "sourceType": "guide institutionnel"
+      }
+    ],
+    "uncertainty": "Les estimations du nombre d’habitants avant la conquête sont très discutées. Il faut distinguer l’arrivée de Colomb dans les Caraïbes, d’abord aux Bahamas, de son arrivée ultérieure à Hispaniola.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Columbus_landing_on_Hispaniola,_Dec._6,_1492;_greeted_by_Arawak_Indians_LCCN2003680406.jpg?width=1200",
+      "alt": "Gravure rétrospective de l’arrivée de Colomb à Hispaniola.",
+      "caption": "Theodor de Bry, vers 1594; interprétation tardive, non image prise en 1492.",
+      "credit": "Theodor de Bry, Library of Congress via Wikimedia Commons",
+      "license": "Aucune restriction connue (LOC)",
+      "licenseUrl": "https://www.loc.gov/pictures/item/2003680406/",
+      "source": {
+        "title": "Gravure de 1594",
+        "publisher": "Library of Congress",
+        "url": "https://www.loc.gov/pictures/item/2003680406/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hispaniolalocationmap.jpg?width=1200",
+        "alt": "Carte imprimée d’Hispaniola publiée en 1511, après les premiers voyages européens.",
+        "caption": "Carte ancienne postérieure à 1492; elle situe l’île mais ne constitue pas une représentation contemporaine de l’arrivée de Colomb.",
+        "credit": "Pedro Mártir de Anglería; numérisation Internet Archive via Wikimedia Commons",
+        "license": "Domaine public",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hispaniolalocationmap.jpg",
+        "source": {
+          "title": "Hispaniola map, 1511",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Hispaniolalocationmap.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cession-francaise-ouest",
+    "date": "1697",
+    "dateLabel": "1697",
+    "period": "Colonisation française",
+    "title": "La France obtient la partie occidentale de l’île",
+    "summary": "Par le traité de Ryswick, l’Espagne cède à la France la partie occidentale d’Hispaniola. Cette colonie française prendra le nom de Saint-Domingue.",
+    "context": "Des Français étaient déjà présents dans la région. Le traité reconnaît une nouvelle répartition coloniale; il ne crée pas les sociétés de l’île et ne correspond pas exactement aux frontières actuelles.",
+    "actors": [
+      "Royaumes d’Espagne et de France",
+      "Habitants autochtones et colons de l’île"
+    ],
+    "causes": [
+      "Rivalité impériale entre puissances européennes dans les Caraïbes",
+      "Négociations de paix entre la France et l’Espagne"
+    ],
+    "development": "Le traité de Ryswick reconnaît la souveraineté française sur l’ouest de l’île. Les autorités françaises développent ensuite une colonie de plantation appelée Saint-Domingue.",
+    "consequences": "La séparation coloniale de l’île s’inscrit dans une histoire longue qui aboutira à deux États distincts, Haïti et la République dominicaine.",
+    "concepts": [
+      "traité",
+      "empire colonial",
+      "Saint-Domingue",
+      "Hispaniola"
+    ],
+    "sources": [
+      {
+        "title": "Dominican Republic: Genealogy Resource Guide — Introduction",
+        "url": "https://guides.loc.gov/dominican-republic-local-history-genealogy",
+        "publisher": "Library of Congress",
+        "sourceType": "guide institutionnel"
+      },
+      {
+        "title": "Haiti: Country Profile",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "profil historique institutionnel"
+      }
+    ],
+    "uncertainty": "La présence française et les limites de contrôle ont évolué avant et après le traité; la cession de 1697 ne signifie pas que les frontières actuelles existaient déjà.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carte_d_l%27%C3%AEle_de_Saint_Domingue_LOC_73695996.jpg?width=1200",
+      "alt": "Carte coloriée de Saint-Domingue réalisée vers 1780.",
+      "caption": "Carte publiée après le traité de Ryswick (1697) ; elle ne montre pas la signature du traité.",
+      "credit": "Jacques-François Deslongchamps, Library of Congress via Wikimedia Commons",
+      "license": "Domaine public (carte ancienne)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Carte de Saint-Domingue",
+        "publisher": "Library of Congress",
+        "url": "https://www.loc.gov/item/73695996/"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Carte%20de%20l'isle%20de%20Saint-Domingue%20dress%C3%A9e%20au%20Depost%20des%20Cartes%20et%20Plans%20de%20la%20Marine...%20-%20par%20le%20Sr.%20Bellin...%201764%20-%20btv1b59726483.jpg?width=1200",
+        "alt": "Carte de l’île de Saint-Domingue dressée par Jacques-Nicolas Bellin au XVIIIe siècle.",
+        "caption": "Carte de la colonie avant la Révolution; elle aide à situer la partie française de l’île, sans être une carte du traité de Ryswick lui-même.",
+        "credit": "Jacques-Nicolas Bellin; Collections BnF, GESH18PF146DIV1P24/1",
+        "license": "Domaine public (BnF/Gallica; auteur mort en 1772)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Carte_de_l'isle_de_Saint-Domingue_dress%C3%A9e_au_Depost_des_Cartes_et_Plans_de_la_Marine..._-_par_le_Sr._Bellin..._1764_-_btv1b59726483.jpg",
+        "source": {
+          "title": "Carte de Saint-Domingue, Bellin, 1764",
+          "publisher": "Bibliothèque nationale de France via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Carte_de_l'isle_de_Saint-Domingue_dress%C3%A9e_au_Depost_des_Cartes_et_Plans_de_la_Marine..._-_par_le_Sr._Bellin..._1764_-_btv1b59726483.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "plantations-traite-saint-domingue",
+    "date": "1700-1789",
+    "dateLabel": "XVIIIe siècle",
+    "period": "Saint-Domingue esclavagiste",
+    "title": "La richesse coloniale repose sur l’esclavage",
+    "summary": "Saint-Domingue devient une colonie de plantations très productive. Des centaines de milliers d’Africains sont déportés et réduits en esclavage pour produire notamment du sucre et du café.",
+    "context": "La société coloniale est profondément inégalitaire. Les propriétaires et négociants tirent profit des exportations tandis que les personnes esclavisées subissent le travail forcé, les violences et des conditions meurtrières.",
+    "actors": [
+      "Personnes africaines déportées et réduites en esclavage",
+      "Personnes libres de couleur",
+      "Colons et propriétaires de plantations",
+      "Négociants et autorités françaises"
+    ],
+    "causes": [
+      "Demande européenne de sucre, de café et d’autres produits coloniaux",
+      "Enrichissement des empires et des négociants grâce au travail forcé"
+    ],
+    "development": "La production d’exportation augmente et la population esclavisée devient largement majoritaire. Des personnes s’évadent, créent des communautés marronnes et résistent de différentes façons.",
+    "consequences": "L’économie coloniale enrichit une minorité et repose sur la traite transatlantique et l’exploitation. Les inégalités et les résistances contribuent aux tensions qui précèdent la révolution.",
+    "concepts": [
+      "esclavage",
+      "traite transatlantique",
+      "plantation",
+      "marronnage",
+      "résistance"
+    ],
+    "sources": [
+      {
+        "title": "Haiti: Country Profile, Historical Background",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "profil historique institutionnel"
+      },
+      {
+        "title": "Haïti — Francophone Caribbean Collections",
+        "url": "https://guides.loc.gov/francophone-caribbean-collections-library-of-congress/haiti",
+        "publisher": "Library of Congress",
+        "sourceType": "guide institutionnel"
+      }
+    ],
+    "uncertainty": "Les chiffres démographiques et le nombre de personnes déportées dépendent des périodes et des méthodes de calcul. La fiche décrit le système sans présenter une estimation unique comme certaine.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Repr%C3%A9sentation_type_d%27une_habitation_sucri%C3%A8re_aux_Antilles_en_1762.jpg?width=1200",
+      "alt": "Gravure idéalisée d’une plantation sucrière antillaise au XVIIIe siècle.",
+      "caption": "Robert Bénard, 1762 : cette représentation idéalisée omet volontairement le travail forcé.",
+      "credit": "Robert Bénard, Wikimedia Commons",
+      "license": "Domaine public",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Habitation sucrière, 1762",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Repr%C3%A9sentation_type_d%27une_habitation_sucri%C3%A8re_aux_Antilles_en_1762.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tableau%20de%20vente%20des%20captifs%20%C3%A0%20Saint%20Domingue.jpg?width=1200",
+        "alt": "Registre de vente de 288 personnes captives arrivées à bord du navire Le Victor; vente ouverte au Cap-Français le 11 avril 1790.",
+        "caption": "Document comptable d’époque sur la traite et la vente de personnes réduites en esclavage; ce registre ne montre pas une scène photographiée.",
+        "credit": "Archives départementales de la Charente-Maritime",
+        "license": "Domaine public (document de 1790; scan d’archives)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Tableau_de_vente_des_captifs_%C3%A0_Saint_Domingue.jpg",
+        "source": {
+          "title": "Tableau de vente des captifs à Saint-Domingue, 1790",
+          "publisher": "Archives départementales de la Charente-Maritime via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Tableau_de_vente_des_captifs_%C3%A0_Saint_Domingue.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "revolution-francaise-droits-saint-domingue",
+    "date": "1789-1790",
+    "dateLabel": "1789–1790",
+    "period": "Révolution haïtienne",
+    "title": "Les débats sur les droits gagnent Saint-Domingue",
+    "summary": "La Révolution française fait naître des débats sur la citoyenneté et l’égalité. À Saint-Domingue, des personnes libres de couleur réclament des droits que les autorités coloniales refusent souvent d’appliquer.",
+    "context": "La société oppose des groupes aux statuts et aux intérêts différents. Les personnes esclavisées luttent contre leur asservissement; les revendications des libres de couleur ne représentent pas automatiquement celles de toute la population.",
+    "actors": [
+      "Personnes libres noires et de couleur",
+      "Assemblée coloniale",
+      "Assemblée nationale française",
+      "Personnes esclavisées"
+    ],
+    "causes": [
+      "Diffusion des débats révolutionnaires sur les droits",
+      "Inégalités fondées sur la liberté, la couleur et la propriété",
+      "Refus d’une partie des élites coloniales d’appliquer les décisions venues de France"
+    ],
+    "development": "En 1790, l’Assemblée nationale française accorde le droit de vote à certains hommes libres de couleur répondant à des conditions de fortune et d’impôt. L’assemblée coloniale résiste à cette décision, et les conflits s’aggravent.",
+    "consequences": "Les tensions politiques se mêlent aux résistances contre l’esclavage et à la rivalité entre puissances. La révolution à Saint-Domingue ne se réduit pas à une simple copie de la révolution en France.",
+    "concepts": [
+      "citoyenneté",
+      "égalité",
+      "libres de couleur",
+      "droits politiques",
+      "colonialisme"
+    ],
+    "sources": [
+      {
+        "title": "Haiti: Country Profile, Historical Background",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "profil historique institutionnel"
+      },
+      {
+        "title": "Women in the Haitian Revolution",
+        "url": "https://guides.loc.gov/women-in-the-french-revolution/women-haitian-revolution",
+        "publisher": "Library of Congress",
+        "sourceType": "guide historique institutionnel"
+      }
+    ],
+    "uncertainty": "Les différents groupes ne poursuivent pas les mêmes objectifs; leur rôle et leurs alliances évoluent au cours de la révolution.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9claration_des_droits_de_l%27homme_et_du_citoyen_de_1789._Page_1_-_Archives_Nationales_-_AE-II-1129.jpg?width=1200",
+      "alt": "Première page de la Déclaration des droits de l’homme et du citoyen de 1789.",
+      "caption": "Document français de 1789 pour situer les débats associés à Saint-Domingue; il n’a pas été produit dans la colonie.",
+      "credit": "Archives nationales (France), via Wikimedia Commons",
+      "license": "Domaine public",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Déclaration des droits, page 1",
+        "publisher": "Archives nationales (France)",
+        "url": "https://commons.wikimedia.org/wiki/File:D%C3%A9claration_des_droits_de_l%27homme_et_du_citoyen_de_1789._Page_1_-_Archives_Nationales_-_AE-II-1129.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Soci%C3%A9t%C3%A9%20des%20amis%20des%20noirs%20f%C3%A9vrier%201790.JPG?width=1200",
+        "alt": "Page de titre d’un ouvrage de la Société des Amis des Noirs, publié en février 1790.",
+        "caption": "Imprimé abolitionniste français contemporain des débats sur les droits et l’esclavage; il éclaire le contexte métropolitain, sans représenter à lui seul les positions des personnes libres de couleur de Saint-Domingue.",
+        "credit": "Société des Amis des Noirs; scan Wikimedia Commons",
+        "license": "Domaine public",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Soci%C3%A9t%C3%A9_des_amis_des_noirs_f%C3%A9vrier_1790.JPG",
+        "source": {
+          "title": "Société des Amis des Noirs, février 1790",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Soci%C3%A9t%C3%A9_des_amis_des_noirs_f%C3%A9vrier_1790.JPG"
+        }
+      }
+    ]
+  },
+  {
+    "id": "insurrection-aout-1791",
+    "date": "1791-08-22",
+    "dateLabel": "Nuit du 22 au 23 août 1791",
+    "period": "Révolution haïtienne",
+    "title": "Une insurrection de personnes esclavisées commence",
+    "summary": "Dans le nord de Saint-Domingue, des personnes réduites en esclavage se soulèvent contre le système colonial. L’insurrection devient le début d’une longue révolution.",
+    "context": "Les violences et le travail forcé sont contestés depuis longtemps. Les luttes politiques entre groupes libres et les nouvelles de la Révolution française forment aussi le contexte de 1791.",
+    "actors": [
+      "Personnes esclavisées insurgées",
+      "Georges Biassou",
+      "Jean-François",
+      "Autorités coloniales françaises"
+    ],
+    "causes": [
+      "Volonté de mettre fin à l’esclavage et aux violences",
+      "Résistances et révoltes antérieures",
+      "Crise politique de la colonie"
+    ],
+    "development": "L’insurrection s’étend et prend plusieurs formes. Des dirigeants, des combattants et des communautés s’organisent; les alliances changent ensuite au gré des décisions françaises, espagnoles et britanniques.",
+    "consequences": "La révolte ouvre une guerre révolutionnaire qui transforme les rapports de pouvoir et conduit, après des années de conflit, à l’indépendance d’Haïti.",
+    "concepts": [
+      "insurrection",
+      "révolution",
+      "esclavage",
+      "liberté",
+      "alliance"
+    ],
+    "sources": [
+      {
+        "title": "Message de l’UNESCO à l’occasion de la Journée internationale du souvenir de la traite négrière",
+        "url": "https://whc.unesco.org/fr/actualites/1874/",
+        "publisher": "UNESCO, Centre du patrimoine mondial",
+        "sourceType": "synthèse institutionnelle"
+      },
+      {
+        "title": "Haiti: Country Profile, Historical Background",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "profil historique institutionnel"
+      }
+    ],
+    "uncertainty": "La nuit du 22 au 23 août est une date importante de mémoire et de chronologie; les causes et les préparatifs de l’insurrection dépassent un seul lieu ou une seule réunion.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Slave_Revolt_of_Saint_Domingue_1791.jpg?width=1200",
+      "alt": "Gravure publiée en 1833 représentant l’insurrection de Saint-Domingue en 1791.",
+      "caption": "Gravure rétrospective de 1833, avec un cadrage colonial de l’insurrection; ce n’est pas un témoignage photographique ni une description neutre.",
+      "credit": "Aaron Martinet, dessin; Alphonse-Charles Masson, gravure, via Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Slave Revolt of Saint Domingue, 1791",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Slave_Revolt_of_Saint_Domingue_1791.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Incendie%20de%20la%20Plaine%20du%20Cap.%20-%20Massacre%20des%20Blancs%20par%20les%20Noirs.%20FRANCE%20MILITAIRE.%20-%20Martinet%20del.%20-%20Masson%20Sculp%20-%2033.jpg?width=1200",
+        "alt": "Gravure publiée en 1833 montrant l’incendie de la Plaine du Cap; image rétrospective au vocabulaire colonial.",
+        "caption": "Estampe rétrospective publiée dans France militaire en 1833, plus de quarante ans après l’insurrection. Son cadrage et son titre reflètent le regard colonial de l’éditeur; ce n’est pas une photographie d’époque.",
+        "credit": "Aaron Martinet (dessin/édition), Masson (gravure), France militaire",
+        "license": "Domaine public aux États-Unis; restrictions territoriales possibles selon Commons",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Incendie_de_la_Plaine_du_Cap._-_Massacre_des_Blancs_par_les_Noirs._FRANCE_MILITAIRE._-_Martinet_del._-_Masson_Sculp_-_33.jpg",
+        "source": {
+          "title": "Incendie de la Plaine du Cap, France militaire, 1833",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Incendie_de_la_Plaine_du_Cap._-_Massacre_des_Blancs_par_les_Noirs._FRANCE_MILITAIRE._-_Martinet_del._-_Masson_Sculp_-_33.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "abolition-esclavage-saint-domingue",
+    "date": "1793-1794",
+    "dateLabel": "1793–1794",
+    "period": "Révolution haïtienne",
+    "title": "L’esclavage est aboli dans les colonies françaises",
+    "summary": "Des commissaires français proclament l’abolition à Saint-Domingue en 1793. En février 1794, la Convention nationale étend l’abolition à l’ensemble des colonies françaises.",
+    "context": "La guerre oppose plusieurs puissances et armées dans l’île. Les autorités françaises cherchent du soutien face aux insurgés, aux forces espagnoles et aux Britanniques; les insurgés défendent leur liberté et leur autonomie.",
+    "actors": [
+      "Personnes esclavisées et insurgées",
+      "Léger-Félicité Sonthonax et autres commissaires français",
+      "Convention nationale française",
+      "Toussaint Louverture"
+    ],
+    "causes": [
+      "Insurrections et lutte pour l’émancipation",
+      "Guerre entre la France, l’Espagne et la Grande-Bretagne",
+      "Pressions politiques et militaires dans la colonie"
+    ],
+    "development": "Après l’abolition proclamée localement, la Convention nationale confirme l’abolition dans les colonies françaises le 4 février 1794. Cette même année, Toussaint Louverture quitte l’alliance espagnole et rejoint les forces de la République française.",
+    "consequences": "L’abolition transforme les alliances et le statut légal des personnes anciennement esclavisées, mais la liberté reste menacée par la guerre et les projets de retour à l’ordre colonial.",
+    "concepts": [
+      "abolition",
+      "émancipation",
+      "Convention nationale",
+      "guerre coloniale"
+    ],
+    "sources": [
+      {
+        "title": "National History Park – Citadel, Sans Souci, Ramiers",
+        "url": "https://whc.unesco.org/en/list/180",
+        "publisher": "UNESCO World Heritage Centre",
+        "sourceType": "notice patrimoniale institutionnelle"
+      },
+      {
+        "title": "Haiti: Country Profile, Historical Background",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "profil historique institutionnel"
+      }
+    ],
+    "uncertainty": "L’abolition de 1793 et sa confirmation nationale en 1794 sont deux étapes distinctes. Les effets réels de la liberté restent disputés et dépendants de la situation militaire.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Proclamation_du_commissaire_Sonthonax_en_langue_cr%C3%A9ole_-_Archives_nationales_-_AD-XX-C-69-A.jpg?width=1200",
+      "alt": "Proclamation de Sonthonax en créole, au Cap Français, le 29 août 1793.",
+      "caption": "Numérisation d’une proclamation originale de 1793 en créole, conservée aux Archives nationales; le décret de la Convention de 1794 est une étape distincte.",
+      "credit": "Léger-Félicité Sonthonax, Archives nationales (France), via Wikimedia Commons",
+      "license": "Domaine public",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Proclamation de Sonthonax en langue créole, 29 août 1793",
+        "publisher": "Archives nationales (France)",
+        "url": "https://commons.wikimedia.org/wiki/File:Proclamation_du_commissaire_Sonthonax_en_langue_cr%C3%A9ole_-_Archives_nationales_-_AD-XX-C-69-A.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Au%20nom%20de%20la%20R%C3%A9publique%20fran%C3%A7aise%2C%20proclamation%20des%20commissaires%2C%2011%20juillet%201793.djvu?width=1200",
+        "alt": "Brochure imprimée en 1793 au Cap-Français au nom des commissaires civils Polverel et Sonthonax.",
+        "caption": "Proclamation officielle de juillet 1793, antérieure à la proclamation créole d’août conservée dans l’image principale; elle documente le contexte politique de l’émancipation.",
+        "credit": "Étienne Polverel et Léger-Félicité Sonthonax; imprimé par P. Roux et Compagnie",
+        "license": "Domaine public (scan de document de 1793)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Au_nom_de_la_R%C3%A9publique_fran%C3%A7aise%2C_proclamation_des_commissaires%2C_11_juillet_1793.djvu",
+        "source": {
+          "title": "Proclamation au nom de la République française, 11 juillet 1793",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Au_nom_de_la_R%C3%A9publique_fran%C3%A7aise%2C_proclamation_des_commissaires%2C_11_juillet_1793.djvu"
+        }
+      }
+    ]
+  },
+  {
+    "id": "constitution-louverture-1801",
+    "date": "1801-07-07",
+    "dateLabel": "1801",
+    "period": "Révolution haïtienne",
+    "title": "Toussaint Louverture fait adopter une Constitution",
+    "summary": "La Constitution de 1801 organise le gouvernement de Saint-Domingue sous l’autorité de Toussaint Louverture. Elle interdit l’esclavage, mais maintient un lien constitutionnel avec la France.",
+    "context": "Après des années de guerre, Louverture contrôle une grande partie de l’île et cherche à consolider l’administration et la production. La colonie reste officiellement française.",
+    "actors": [
+      "Toussaint Louverture",
+      "Assemblée centrale de Saint-Domingue",
+      "Habitants de la colonie",
+      "Gouvernement français"
+    ],
+    "causes": [
+      "Besoin de règles et d’institutions après les conflits",
+      "Volonté de préserver la liberté obtenue",
+      "Recherche d’une plus grande autonomie locale"
+    ],
+    "development": "Le texte donne à Louverture le rôle de gouverneur à vie et prévoit que son successeur reste attaché au gouvernement français. Il constitue un projet d’autonomie, pas une déclaration d’indépendance d’Haïti.",
+    "consequences": "La Constitution organise le pouvoir local et inquiète le gouvernement de Napoléon Bonaparte, qui prépare une expédition pour reprendre le contrôle de la colonie.",
+    "concepts": [
+      "constitution",
+      "autonomie",
+      "gouvernement",
+      "abolition de l’esclavage"
+    ],
+    "sources": [
+      {
+        "title": "Constitution de Saint-Domingue de 1801",
+        "url": "https://mjp.univ-perp.fr/constit/ht1801.htm",
+        "publisher": "Digithèque MJP, Université de Perpignan",
+        "sourceType": "transcription de source primaire"
+      },
+      {
+        "title": "Laws of the French Colony of Saint-Domingue",
+        "url": "https://www.loc.gov/item/2021666967/",
+        "publisher": "Library of Congress",
+        "sourceType": "notice de document primaire numérisé"
+      }
+    ],
+    "uncertainty": "La Constitution de 1801 est parfois présentée comme une étape vers l’indépendance; son texte affirme pourtant que Saint-Domingue demeure liée au gouvernement français.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Constitution_de_la_colonie_fran%C3%A7aise_de_Saint-Domingue,_8_juillet_1801,_page_de_titre.png?width=1200",
+      "alt": "Page de titre de la Constitution de la colonie française de Saint-Domingue du 8 juillet 1801.",
+      "caption": "Page de titre de l’édition de la Constitution de 1801; cette reproduction précise son statut de document constitutionnel.",
+      "credit": "Ambre Troizat, Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": {
+        "title": "Constitution de 1801, page de titre",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Constitution_de_la_colonie_fran%C3%A7aise_de_Saint-Domingue,_8_juillet_1801,_page_de_titre.png"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le%201er.%20Juillet%201801%2C%20Toussaint-L'Ouverture%2C%20charg%C3%A9s%20des%20pouvoirs%20du%20peuple%20d'Ha%C3%AFty%20et%20auspices%20du%20Tout-puissante%2C%20proclame%20la%20Gouverneur%20g%C3%A9n%C3%A9ral%2C%20assist%C3%A9%20des%20mandataires%20l%C3%A9galement%20LCCN2004669332.jpg?width=1200",
+        "alt": "Estampe rétrospective représentant la proclamation de Toussaint Louverture comme gouverneur général le 1er juillet 1801.",
+        "caption": "Gravure historique publiée après l’événement; elle illustre la cérémonie selon une interprétation postérieure et ne constitue pas une image photographique de 1801.",
+        "credit": "Library of Congress, Prints and Photographs Division, LCCN 2004669332",
+        "license": "Domaine public / aucune restriction connue (Library of Congress)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Le_1er._Juillet_1801%2C_Toussaint-L'Ouverture%2C_charg%C3%A9s_des_pouvoirs_du_peuple_d'Ha%C3%AFty_et_auspices_du_Tout-puissante%2C_proclame_la_Gouverneur_g%C3%A9n%C3%A9ral%2C_assist%C3%A9_des_mandataires_l%C3%A9galement_LCCN2004669332.jpg",
+        "source": {
+          "title": "Toussaint Louverture proclaimed governor general, 1 July 1801",
+          "publisher": "Library of Congress via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Le_1er._Juillet_1801%2C_Toussaint-L'Ouverture%2C_charg%C3%A9s_des_pouvoirs_du_peuple_d'Ha%C3%AFty_et_auspices_du_Tout-puissante%2C_proclame_la_Gouverneur_g%C3%A9n%C3%A9ral%2C_assist%C3%A9_des_mandataires_l%C3%A9galement_LCCN2004669332.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "expedition-francaise-guerre-1802-1803",
+    "date": "1802-1803",
+    "dateLabel": "1802–1803",
+    "period": "Révolution haïtienne",
+    "title": "La guerre reprend contre l’expédition française",
+    "summary": "Napoléon envoie une expédition pour rétablir l’autorité française à Saint-Domingue. Après l’arrestation et la déportation de Louverture, la résistance reprend et les forces françaises quittent la colonie en novembre 1803.",
+    "context": "La Constitution de 1801 et le contrôle local de Louverture limitent le pouvoir effectif de la France. Les habitants craignent de perdre les libertés obtenues pendant la révolution.",
+    "actors": [
+      "Toussaint Louverture",
+      "Jean-Jacques Dessalines",
+      "Henri Christophe",
+      "Alexandre Pétion",
+      "Charles Leclerc et l’armée française"
+    ],
+    "causes": [
+      "Volonté de Napoléon de rétablir le contrôle français",
+      "Refus de la population de retourner sous la domination coloniale",
+      "Conflit sur l’avenir de l’émancipation"
+    ],
+    "development": "Les troupes françaises débarquent en 1802 et capturent Louverture, qui meurt en déportation en France en 1803. Dessalines, Christophe, Pétion et d’autres chefs rassemblent des forces contre l’armée française; celle-ci se retire à la fin de 1803.",
+    "consequences": "La défaite française rend possible la proclamation d’indépendance l’année suivante. La guerre laisse des destructions importantes et une société à reconstruire.",
+    "concepts": [
+      "expédition militaire",
+      "déportation",
+      "résistance",
+      "guerre d’indépendance"
+    ],
+    "sources": [
+      {
+        "title": "Haiti: Country Profile, Historical Background",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "profil historique institutionnel"
+      },
+      {
+        "title": "Historical Documents: Relations in Hispaniola, 1794–1803",
+        "url": "https://history.state.gov/historicaldocuments/frus1906p1/d501",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "sourceType": "étude historique institutionnelle fondée sur des archives diplomatiques"
+      }
+    ],
+    "uncertainty": "Les raisons de la retraite française comprennent les pertes militaires et les maladies ainsi que la reprise de la guerre en Europe; aucune cause unique n’explique à elle seule l’issue du conflit.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Combat_et_prise_de_la_Cr%C3%AAte-%C3%A0-Pierrot_-_Auguste_Raffet.jpg?width=1200",
+      "alt": "Gravure d’Auguste Raffet représentant la prise de la Crête-à-Pierrot en mars 1802.",
+      "caption": "Auguste Raffet, 1839 : gravure rétrospective d’un combat de 1802, non une image contemporaine de la bataille.",
+      "credit": "Auguste Raffet, gravée par Ernest Hébert, Wikimedia Commons",
+      "license": "Domaine public",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Combat et prise de la Crête-à-Pierrot",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Combat_et_prise_de_la_Cr%C3%AAte-%C3%A0-Pierrot_-_Auguste_Raffet.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/D%C3%A9barquement%20en%201802%20de%20la%20flotte%20fran%C3%A7aise%20%C3%A0%20Saint-Domingue%20lors%20de%20l'exp%C3%A9dition%20contre%20les%20noirs%20r%C3%A9volt%C3%A9s.jpg?width=1200",
+        "alt": "Gravure publiée en 1803 représentant le débarquement de la flotte française à Saint-Domingue en 1802.",
+        "caption": "Estampe d’époque proche de l’expédition; elle représente l’arrivée des troupes, et non un cliché photographique.",
+        "credit": "Tiger (éditeur); exemplaire numérisé par Gallica, BnF",
+        "license": "Domaine public (œuvre ancienne; fichier Commons marqué PDM)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:D%C3%A9barquement_en_1802_de_la_flotte_fran%C3%A7aise_%C3%A0_Saint-Domingue_lors_de_l'exp%C3%A9dition_contre_les_noirs_r%C3%A9volt%C3%A9s.jpg",
+        "source": {
+          "title": "Débarquement de la flotte française à Saint-Domingue, 1802",
+          "publisher": "BnF/Gallica via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:D%C3%A9barquement_en_1802_de_la_flotte_fran%C3%A7aise_%C3%A0_Saint-Domingue_lors_de_l'exp%C3%A9dition_contre_les_noirs_r%C3%A9volt%C3%A9s.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "independance-haiti-1804",
+    "date": "1804-01-01",
+    "dateLabel": "1er janvier 1804",
+    "period": "Indépendance et construction de l’État",
+    "title": "L’indépendance d’Haïti est proclamée",
+    "summary": "À Gonaïves, Jean-Jacques Dessalines proclame l’indépendance et le nom d’Haïti. La nouvelle nation naît d’une révolution menée par des personnes qui avaient été réduites en esclavage et par leurs alliés.",
+    "context": "Après plus d’une décennie de guerre, les forces françaises se sont retirées. Les dirigeants haïtiens veulent empêcher le retour de la domination française et de l’esclavage.",
+    "actors": [
+      "Jean-Jacques Dessalines",
+      "Chefs militaires haïtiens",
+      "Peuple d’Haïti",
+      "France"
+    ],
+    "causes": [
+      "Victoire contre l’armée française",
+      "Volonté de protéger la liberté et de mettre fin au pouvoir colonial",
+      "Refus d’un retour à l’esclavage"
+    ],
+    "development": "L’Acte de l’Indépendance est proclamé à Gonaïves. Le document rompt avec la France et demande aux habitants de défendre la nouvelle indépendance.",
+    "consequences": "Haïti devient un État souverain. La reconnaissance diplomatique est lente et les finances, la cohésion politique et la sécurité du nouvel État restent fragiles.",
+    "concepts": [
+      "indépendance",
+      "souveraineté",
+      "abolition",
+      "Acte de l’Indépendance"
+    ],
+    "sources": [
+      {
+        "title": "Acte de l’Indépendance d’Haïti, 1er janvier 1804",
+        "url": "https://www.loc.gov/resource/gdcmassbookdig.recueilgnral07hait/?sp=1&st=slideshow",
+        "publisher": "Library of Congress, collection des lois et actes du gouvernement d’Haïti",
+        "sourceType": "source primaire numérisée"
+      },
+      {
+        "title": "Parc national historique – Citadelle, Sans Souci, Ramiers",
+        "url": "https://whc.unesco.org/fr/list/180/",
+        "publisher": "UNESCO World Heritage Centre",
+        "sourceType": "notice patrimoniale institutionnelle"
+      }
+    ],
+    "uncertainty": "La révolution a impliqué des personnes et des groupes aux objectifs variés; l’indépendance ne signifie pas que toutes les inégalités sociales ont immédiatement disparu.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Deklarasyon_Endepandans_Ayiti%2C_1804.djvu?width=1200",
+      "alt": "Affiche de la Déclaration d’indépendance d’Haïti, document MFQ 1/184 des National Archives du Royaume-Uni.",
+      "caption": "Affiche de la Déclaration d’indépendance conservée aux Archives nationales britanniques; document original de 1804.",
+      "credit": "Auteur inconnu, The National Archives (Royaume-Uni) via Wikimedia Commons",
+      "license": "Domaine public (scan fidèle d’un document ancien)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Déclaration d’indépendance, MFQ 1/184",
+        "publisher": "The National Archives (Royaume-Uni)",
+        "url": "https://commons.wikimedia.org/wiki/File:Deklarasyon_Endepandans_Ayiti,_1804.djvu"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jean-Jaques%20Dessalines%20(Fondateur%20de%20l'Independance%20d'Haiti).jpg?width=1200",
+        "alt": "Portrait imprimé de Jean-Jacques Dessalines publié dans un ouvrage de référence du XIXe siècle.",
+        "caption": "Portrait postérieur à l’indépendance, utilisé ici pour identifier Dessalines; il ne s’agit pas d’une photographie ni d’un portrait attesté de 1804.",
+        "credit": "Dictionnaire géographique et administratif de la France et de ses colonies, 1892; scan Commons",
+        "license": "Domaine public",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Jean-Jaques_Dessalines_(Fondateur_de_l'Independance_d'Haiti).jpg",
+        "source": {
+          "title": "Jean-Jacques Dessalines, portrait imprimé",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Jean-Jaques_Dessalines_(Fondateur_de_l'Independance_d'Haiti).jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "constitution-empire-haiti-1805",
+    "date": "1805",
+    "dateLabel": "1805",
+    "period": "Indépendance et construction de l’État",
+    "title": "Une Constitution fonde l’Empire d’Haïti",
+    "summary": "La Constitution de 1805 organise le nouvel État comme un empire dirigé par Dessalines. Elle affirme la souveraineté d’Haïti et interdit aux étrangers blancs d’y posséder des terres.",
+    "context": "La jeune nation redoute une nouvelle invasion et cherche à bâtir ses institutions après la guerre d’indépendance.",
+    "actors": [
+      "Jean-Jacques Dessalines",
+      "Généraux et dirigeants haïtiens",
+      "Habitants du nouvel État"
+    ],
+    "causes": [
+      "Besoin d’organiser les pouvoirs après la proclamation de 1804",
+      "Volonté de protéger l’indépendance et le territoire"
+    ],
+    "development": "La Constitution établit une forme impériale de gouvernement, place Dessalines à sa tête et fixe des règles pour l’État et la société.",
+    "consequences": "Le texte donne un cadre constitutionnel à l’indépendance, mais le pouvoir est fortement concentré. Il témoigne aussi de la volonté de prévenir le retour de la domination foncière étrangère.",
+    "concepts": [
+      "constitution",
+      "empire",
+      "souveraineté",
+      "institutions"
+    ],
+    "sources": [
+      {
+        "title": "Recueil général des lois et actes du gouvernement d’Haïti, 1804–1805",
+        "url": "https://www.loc.gov/resource/gdcmassbookdig.recueilgnral07hait/?sp=1&st=slideshow",
+        "publisher": "Library of Congress",
+        "sourceType": "recueil de textes juridiques primaires"
+      },
+      {
+        "title": "Les constitutions d’Haïti (1801–1885)",
+        "url": "https://www.loc.gov/item/78396819/",
+        "publisher": "Library of Congress",
+        "sourceType": "collection de textes constitutionnels"
+      }
+    ],
+    "uncertainty": "Les sources historiques consultées ne donnent pas toutes le même jour de promulgation en mai 1805; la fiche retient l’année, qui est solidement établie.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Constitution_d%27Ha%C3%AFti_%2820_mai_1805%29_%28page_01%29.jpg?width=1200",
+      "alt": "Première page de la Constitution d’Haïti signée le 20 mai 1805.",
+      "caption": "Première page de la Constitution de 1805, reproduite par Gallica; l’auteur de la Constitution est Jean-Jacques Dessalines.",
+      "credit": "Jean-Jacques Dessalines, document numérisé par Gallica via Wikimedia Commons",
+      "license": "Domaine public",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source": {
+        "title": "Constitution d’Haïti, 20 mai 1805, page 1",
+        "publisher": "Gallica / Bibliothèque nationale de France",
+        "url": "https://commons.wikimedia.org/wiki/File:Constitution_d%27Ha%C3%AFti_(20_mai_1805)_(page_01).jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Document%20sign%C3%A9%20par%20Jean-Jacques%20Dessalines.jpg?width=1200",
+        "alt": "Document manuscrit portant une signature attribuée à Jean-Jacques Dessalines.",
+        "caption": "Pièce manuscrite associée à Dessalines; la page Commons indique une datation générale au XIXe siècle et ne l’identifie pas comme un article de la Constitution de 1805.",
+        "credit": "Document d’archives reproduit par AyiboPost; fichier sur Wikimedia Commons",
+        "license": "Domaine public revendiqué sur Commons; provenance secondaire à confirmer",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Document_sign%C3%A9_par_Jean-Jacques_Dessalines.jpg",
+        "source": {
+          "title": "Document signé par Jean-Jacques Dessalines",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Document_sign%C3%A9_par_Jean-Jacques_Dessalines.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "division-reunification-haiti",
+    "date": "1806-1820",
+    "dateLabel": "1806–1820",
+    "period": "Indépendance et construction de l’État",
+    "title": "Le pays se divise puis se réunifie",
+    "summary": "Après l’assassinat de Dessalines en 1806, les rivalités politiques conduisent à deux gouvernements dans le nord et le sud. Jean-Pierre Boyer réunit le pays en 1820.",
+    "context": "Les dirigeants de l’indépendance ne s’accordent pas sur la forme du pouvoir et sur la manière de gouverner le nouvel État.",
+    "actors": [
+      "Jean-Jacques Dessalines",
+      "Henri Christophe",
+      "Alexandre Pétion",
+      "Jean-Pierre Boyer"
+    ],
+    "causes": [
+      "Conflits de pouvoir après la mort de Dessalines",
+      "Désaccords sur les institutions et le gouvernement"
+    ],
+    "development": "Christophe gouverne le nord et Pétion le sud. Après la mort de Christophe et Pétion en 1820, Boyer prend la direction du pays réunifié.",
+    "consequences": "La réunification rétablit un gouvernement commun, mais les conflits sur l’autorité et la manière de gouverner persistent.",
+    "concepts": [
+      "partition",
+      "réunification",
+      "république",
+      "monarchie"
+    ],
+    "sources": [
+      {
+        "title": "Haiti: Country Profile, Partition and Reunification",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "profil historique institutionnel"
+      },
+      {
+        "title": "National History Park – Citadel, Sans Souci, Ramiers",
+        "url": "https://whc.unesco.org/en/list/180",
+        "publisher": "UNESCO World Heritage Centre",
+        "sourceType": "notice patrimoniale institutionnelle"
+      }
+    ],
+    "uncertainty": "Les dates exactes de la mise en place des deux gouvernements diffèrent selon que l’on date la séparation politique ou l’établissement des régimes; la partition est solidement attestée pour les années 1810.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Hispaniola_1808-1820.png?width=1200",
+      "alt": "Carte de l’évolution territoriale d’Hispaniola entre 1808 et 1820, montrant les territoires politiques de l’époque.",
+      "caption": "Carte rétrospective des changements territoriaux d’Hispaniola de 1808 à 1820; elle situe la division et la réunification sans représenter une frontière actuelle.",
+      "credit": "Maximilian Dörrbecker (Chumwa), Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": {
+        "title": "Hispaniola 1808–1820",
+        "publisher": "Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Hispaniola_1808-1820.png"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Henri%20Christophe.jpg?width=1200",
+        "alt": "Portrait peint d’Henri Christophe par Richard Evans, daté de 1816; œuvre conservée au Musée du Panthéon National Haïtien.",
+        "caption": "Portrait rétrospectif de l’époque de la division politique après 1806; peinture d’époque, pas photographie.",
+        "credit": "Richard Evans; Musée du Panthéon National Haïtien",
+        "license": "Domaine public (artiste mort en 1871; reproduction PD-Mark)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Henri_Christophe.jpg",
+        "source": {
+          "title": "Henri Christophe, portrait, 1816",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Henri_Christophe.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "reconnaissance-france-indemnite-1825",
+    "date": "1825-04-17",
+    "dateLabel": "1825",
+    "period": "Indépendance et construction de l’État",
+    "title": "La France reconnaît Haïti contre une lourde indemnité",
+    "summary": "La France reconnaît l’indépendance d’Haïti en 1825, mais exige une indemnité de 150 millions de francs au nom des anciens colons. Cette dette pèse lourdement sur les finances du pays.",
+    "context": "Pendant plus de vingt ans, la France refuse de reconnaître l’indépendance et Haïti subit un isolement diplomatique. La reconnaissance est négociée sous la pression d’une flotte française.",
+    "actors": [
+      "Roi Charles X et gouvernement français",
+      "Président Jean-Pierre Boyer",
+      "État haïtien",
+      "Anciens colons français"
+    ],
+    "causes": [
+      "Volonté française d’obtenir compensation pour les biens coloniaux perdus",
+      "Recherche haïtienne d’une reconnaissance diplomatique et d’un accès au commerce international",
+      "Pression militaire et diplomatique française"
+    ],
+    "development": "L’ordonnance française du 17 avril 1825 reconnaît l’indépendance sous condition d’un paiement de 150 millions de francs. Le montant est ensuite réduit à 60 millions, mais Haïti doit emprunter pour honorer les paiements.",
+    "consequences": "La reconnaissance consolide le statut international d’Haïti, tout en imposant une charge financière durable. Les historiens analysent cette indemnité comme une contrainte majeure sur les finances de l’État.",
+    "concepts": [
+      "reconnaissance diplomatique",
+      "indemnité",
+      "dette",
+      "souveraineté"
+    ],
+    "sources": [
+      {
+        "title": "Haiti: Country Profile, Reunification and Annexation of Santo Domingo",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "profil historique institutionnel"
+      },
+      {
+        "title": "Ordonnance française du 17 avril 1825 reproduite dans un recueil historique",
+        "url": "https://tile.loc.gov/storage-services/service/gdc/gdclccn/25/02/03/29/v2/25020329v2.pdf",
+        "publisher": "Library of Congress, document numérisé",
+        "sourceType": "document historique primaire reproduit"
+      }
+    ],
+    "uncertainty": "L’ordonnance de 1825 établit le montant initial; les évaluations de son coût total pour Haïti varient selon les remboursements, les intérêts et les emprunts retenus.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Ordonnance_Charles_X_17_avril_1825_page_1.jpg?width=1200",
+      "alt": "Page manuscrite de l’ordonnance de Charles X du 17 avril 1825 sur la dette d’indépendance de Saint-Domingue.",
+      "caption": "Ordonnance manuscrite de 1825, document officiel des Archives nationales de France.",
+      "credit": "Archives nationales (France), via Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": {
+        "title": "Ordonnance de Charles X, 17 avril 1825, page 1",
+        "publisher": "Archives nationales (France)",
+        "url": "https://commons.wikimedia.org/wiki/File:Ordonnance_Charles_X_17_avril_1825_page_1.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Le_baron_de_Mackau_apportant_au_pr%C3%A9sident_ha%C3%AFtien_J.-P._Boyer_l'ordonnance_de_Charles_X_exigeant_le_paiement_de_150_millions_de_francs_or_en_%C3%A9change_de_la_reconnaissance_de_l'ind%C3%A9pendance_d'Ha%C3%AFti%2C_le_11_juillet_1825.jpg?width=1200",
+        "alt": "Estampe montrant le baron de Mackau remettant à Jean-Pierre Boyer l’ordonnance de Charles X en 1825.",
+        "caption": "Représentation gravée de la remise de l’ordonnance; la date de juillet est conservée sans trancher les différences de datation entre notices. Il ne s’agit pas d’une photographie.",
+        "credit": "Develly (dessin), Bove (gravure); Bibliothèque nationale de France",
+        "license": "Domaine public (BnF/Gallica; œuvre du XIXe siècle)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Le_baron_de_Mackau_apportant_au_pr%C3%A9sident_ha%C3%AFtien_J.-P._Boyer_l'ordonnance_de_Charles_X_exigeant_le_paiement_de_150_millions_de_francs_or_en_%C3%A9change_de_la_reconnaissance_de_l'ind%C3%A9pendance_d'Ha%C3%AFti%2C_le_11_juillet_1825.jpg",
+        "source": {
+          "title": "Le baron de Mackau remet l’ordonnance à Boyer, 1825",
+          "publisher": "BnF/Gallica via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Le_baron_de_Mackau_apportant_au_pr%C3%A9sident_ha%C3%AFtien_J.-P._Boyer_l'ordonnance_de_Charles_X_exigeant_le_paiement_de_150_millions_de_francs_or_en_%C3%A9change_de_la_reconnaissance_de_l'ind%C3%A9pendance_d'Ha%C3%AFti%2C_le_11_juillet_1825.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "reconnaissance-etats-unis-1862",
+    "date": "1862-07-12",
+    "dateLabel": "1862",
+    "period": "Haïti au XIXe siècle",
+    "title": "Les États-Unis reconnaissent Haïti",
+    "summary": "Les États-Unis reconnaissent officiellement l’indépendance d’Haïti en 1862, près de six décennies après la proclamation de 1804.",
+    "context": "Plusieurs gouvernements étrangers hésitent à reconnaître un État issu d’une révolution contre l’esclavage. Aux États-Unis, l’esclavage et les divisions politiques influencent longtemps la politique envers Haïti.",
+    "actors": [
+      "Gouvernement des États-Unis",
+      "Président Abraham Lincoln",
+      "Gouvernement haïtien"
+    ],
+    "causes": [
+      "Évolution des relations diplomatiques",
+      "Changements politiques aux États-Unis pendant la guerre de Sécession",
+      "Pressions et négociations internationales"
+    ],
+    "development": "Le 12 juillet, Abraham Lincoln nomme un représentant diplomatique américain auprès d’Haïti. Les relations diplomatiques officielles suivent la même année.",
+    "consequences": "Cette reconnaissance élargit les relations officielles d’Haïti, mais arrive longtemps après l’indépendance et n’efface pas les inégalités dans les rapports entre États.",
+    "concepts": [
+      "diplomatie",
+      "reconnaissance",
+      "indépendance",
+      "relations internationales"
+    ],
+    "sources": [
+      {
+        "title": "Haiti — Guide to U.S. Recognition, Diplomatic, and Consular Relations",
+        "url": "https://history.state.gov/countries/haiti",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "sourceType": "chronologie diplomatique institutionnelle"
+      }
+    ],
+    "uncertainty": "La reconnaissance diplomatique américaine est un acte précis; elle ne marque ni le début de l’indépendance haïtienne ni la première reconnaissance par un autre État.",
+    "visual": {
+      "url": "https://archive.org/services/img/recognitionofhay00kell",
+      "alt": "Couverture d’un discours de 1862 à la Chambre des représentants américaine sur la reconnaissance d’Haïti et du Liberia.",
+      "caption": "Discours de William D. Kelley prononcé au Congrès le 3 juin 1862, dans le contexte du débat sur la reconnaissance diplomatique.",
+      "credit": "William D. Kelley, scan numérisé par Internet Archive / Library of Congress",
+      "license": "Domaine public (publication de 1862)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:The_recognition_of_Hayti_and_Liberia._Speech_of_Hon._William_D._Kelley,_of_Pennsylvania,_delivered_in_the_House_of_Representatives,_June_3,_1862_(IA_recognitionofhay00kell).pdf",
+      "source": {
+        "title": "The recognition of Hayti and Liberia (1862)",
+        "publisher": "Library of Congress via Internet Archive",
+        "url": "https://archive.org/details/recognitionofhay00kell"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/President%20Abraham%20Lincoln%20Portrait.jpg?width=1200",
+        "alt": "Photographie d’Abraham Lincoln, président des États-Unis pendant la reconnaissance d’Haïti en 1862.",
+        "caption": "Portrait de contexte du président en fonction; la photographie n’a pas été prise en Haïti et ne représente pas la cérémonie de reconnaissance.",
+        "credit": "Mathew Brady Photographs / U.S. National Archives, record 528287",
+        "license": "Domaine public (œuvre fédérale américaine)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:President_Abraham_Lincoln_Portrait.jpg",
+        "source": {
+          "title": "President Abraham Lincoln portrait, 1860s",
+          "publisher": "U.S. National Archives via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:President_Abraham_Lincoln_Portrait.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "occupation-americaine-1915-1934",
+    "date": "1915-1934",
+    "dateLabel": "1915–1934",
+    "period": "Haïti au XXe siècle",
+    "title": "Les États-Unis occupent Haïti",
+    "summary": "Après l’assassinat du président Vilbrun Guillaume Sam en 1915, les États-Unis envoient des Marines et occupent Haïti jusqu’en 1934.",
+    "context": "Les États-Unis invoquent l’instabilité et la protection de leurs intérêts, notamment financiers et stratégiques. L’occupation limite fortement l’autonomie politique et économique d’Haïti.",
+    "actors": [
+      "Population et dirigeants haïtiens",
+      "Jean Vilbrun Guillaume Sam",
+      "Gouvernement des États-Unis",
+      "Marines américains",
+      "Gendarmerie d’Haïti"
+    ],
+    "causes": [
+      "Crise politique et assassinat du président Sam",
+      "Intérêts financiers et stratégiques des États-Unis dans les Caraïbes",
+      "Rivalités internationales dans la région"
+    ],
+    "development": "Le traité haïtiano-américain de 1915 donne aux États-Unis une influence considérable sur les finances et la sécurité du pays. La présence militaire prend fin en 1934, après des résistances et des négociations.",
+    "consequences": "L’occupation transforme les institutions et les forces de sécurité. Elle suscite une opposition haïtienne et laisse un héritage durable dans les relations entre les deux pays.",
+    "concepts": [
+      "occupation militaire",
+      "souveraineté",
+      "intervention étrangère",
+      "résistance"
+    ],
+    "sources": [
+      {
+        "title": "U.S. Invasion and Occupation of Haiti, 1915–34",
+        "url": "https://history.state.gov/milestones/1914-1920/haiti",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "sourceType": "synthèse historique institutionnelle"
+      },
+      {
+        "title": "Haiti — Guide to U.S. Recognition, Diplomatic, and Consular Relations",
+        "url": "https://history.state.gov/countries/haiti",
+        "publisher": "U.S. Department of State, Office of the Historian",
+        "sourceType": "chronologie diplomatique institutionnelle"
+      }
+    ],
+    "uncertainty": "La synthèse du Département d’État présente aussi la justification américaine de l’intervention; les expériences et résistances haïtiennes doivent être étudiées à partir de sources haïtiennes complémentaires.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Occupation_of_Haiti.jpg?width=1200",
+      "alt": "Patrouille de Marines américains en Haïti pendant l’occupation de 1915.",
+      "caption": "Photographie de 1915 montrant des Marines américains en patrouille; image produite du point de vue de la force occupante.",
+      "credit": "A. R. Harrison / U.S. Marine Corps, domaine public, via Wikimedia Commons",
+      "license": "Domaine public (œuvre fédérale américaine)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Occupation_of_Haiti.jpg",
+      "source": {
+        "title": "Occupation of Haiti",
+        "publisher": "U.S. Marine Corps via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Occupation_of_Haiti.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Haitian_flag_raised_in_Cap_Ha%C3%AFtien.jpg",
+        "alt": "Le drapeau haïtien est hissé à Cap-Haïtien lors de la cérémonie du 6 août 1934.",
+        "caption": "La cérémonie marque la fin officielle de l’occupation militaire américaine. Cette photographie montre une cérémonie de retrait et non les résistances qui l’ont précédée.",
+        "credit": "Photographe non identifié, reproduction publiée dans Red and Black in Haiti, via Wikimedia Commons",
+        "license": "Domaine public selon la durée de protection haïtienne indiquée par Wikimedia Commons",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Haitian_flag_raised_in_Cap_Ha%C3%AFtien.jpg",
+        "source": {
+          "title": "Haitian flag raised in Cap Haïtien",
+          "publisher": "Wikimedia Commons; source éditoriale indiquée : Red and Black in Haiti",
+          "url": "https://commons.wikimedia.org/wiki/File:Haitian_flag_raised_in_Cap_Ha%C3%AFtien.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "soulevement-janvier-1946-estime",
+    "date": "1946-1950",
+    "dateLabel": "1946–1950",
+    "period": "Haïti au XXe siècle",
+    "title": "Le soulèvement de 1946 ouvre une nouvelle période politique",
+    "summary": "Des grèves et des mobilisations conduisent au départ du président Élie Lescot en janvier 1946. Après un gouvernement provisoire dirigé par une junte militaire, Dumarsais Estimé est élu par l’Assemblée nationale et gouverne de 1946 à 1950.",
+    "context": "La crise révèle des conflits autour de la représentation politique, des inégalités sociales et de la place de la majorité noire dans les institutions. Les sources disponibles ici décrivent surtout les événements depuis des journaux états-uniens et une synthèse de la Library of Congress; elles ne remplacent pas des sources haïtiennes.",
+    "actors": [
+      "Manifestants, étudiants et grévistes haïtiens",
+      "Élie Lescot",
+      "Franck Lavaud et le gouvernement militaire provisoire",
+      "Dumarsais Estimé",
+      "Assemblée nationale"
+    ],
+    "causes": [
+      "Opposition au gouvernement d’Élie Lescot",
+      "Tensions sociales et revendications de représentation politique",
+      "Mobilisation d’étudiants, de travailleurs et de groupes politiques"
+    ],
+    "development": "En janvier 1946, des protestations et des grèves s’étendent à Port-au-Prince. Lescot quitte le pouvoir le 11 janvier; une junte militaire prend provisoirement le contrôle. L’Assemblée nationale élit Dumarsais Estimé à la présidence en août. Son gouvernement lance des réformes et organise en 1949 l’Exposition internationale du bicentenaire de Port-au-Prince; il est renversé par un coup d’État militaire en 1950.",
+    "consequences": "L’épisode ouvre une période de participation politique accrue de groupes jusque-là moins représentés, sans mettre fin aux inégalités ni aux conflits entre élites civiles et militaires. Le coup d’État de 1950 rappelle la fragilité des institutions de l’époque.",
+    "concepts": [
+      "mobilisation populaire",
+      "grève",
+      "gouvernement provisoire",
+      "représentation politique",
+      "coup d’État"
+    ],
+    "sources": [
+      {
+        "title": "Haiti: Country Profile — Historical Background",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "synthèse historique institutionnelle"
+      },
+      {
+        "title": "U.S. Ready to Recognize Haiti Government",
+        "url": "https://www.newspapers.com/article/the-chicago-defender-us-ready-to-recog/178874603/",
+        "publisher": "The Chicago Defender, 26 janvier 1946, p. 5",
+        "sourceType": "article de presse contemporain, consulté via une reproduction numérique"
+      },
+      {
+        "title": "Mystic Haiti Economic Paradox, 'Afro' Writer Finds",
+        "url": "https://www.newspapers.com/article/baltimore-afro-american-mystic-haiti-eco/178884361/",
+        "publisher": "The Afro-American, 26 janvier 1946, p. 13",
+        "sourceType": "article de presse contemporain, consulté via une reproduction numérique"
+      }
+    ],
+    "uncertainty": "La sélection des photographies et les articles de presse disponibles ne représentent pas toute la diversité des participants ni des interprétations haïtiennes de janvier 1946. L’application devra compléter ce dossier par des sources haïtiennes et des travaux historiques spécialisés.",
+    "visual": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Haitians_protesting_in_front_of_the_National_Palace_1946.jpg",
+      "alt": "Des Haïtiens manifestent devant le Palais national à Port-au-Prince contre le président Élie Lescot, entre le 6 et le 11 janvier 1946.",
+      "caption": "Photographie publiée dans The Afro-American le 26 janvier 1946. Le cadrage montre une manifestation devant le Palais national; la légende historique identifie les manifestants comme opposants à Lescot.",
+      "credit": "Ralph Matthews, The Afro-American, 26 janvier 1946, domaine public aux États-Unis après expiration du copyright, via Wikimedia Commons",
+      "license": "Domaine public aux États-Unis (publication de 1946 sans renouvellement du copyright, selon la notice Commons)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Haitians_protesting_in_front_of_the_National_Palace_1946.jpg",
+      "source": {
+        "title": "Haitians protesting in front of the National Palace 1946",
+        "publisher": "The Afro-American via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Haitians_protesting_in_front_of_the_National_Palace_1946.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Haitians_celebrating_in_front_of_the_Garde_d%27Ha%C3%AFti_1946.jpg",
+        "alt": "Une foule célèbre devant un bâtiment de la Garde d’Haïti à Port-au-Prince après le renversement d’Élie Lescot en janvier 1946.",
+        "caption": "Photographie publiée dans The Chicago Defender le 26 janvier 1946. Elle montre une célébration après le départ de Lescot; elle ne documente pas à elle seule les suites politiques du changement de gouvernement.",
+        "credit": "Photographe non identifié, The Chicago Defender, 26 janvier 1946, domaine public aux États-Unis après expiration du copyright, via Wikimedia Commons",
+        "license": "Domaine public aux États-Unis (publication de 1946 sans renouvellement du copyright, selon la notice Commons)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Haitians_celebrating_in_front_of_the_Garde_d%27Ha%C3%AFti_1946.jpg",
+        "source": {
+          "title": "Haitians celebrating in front of the Garde d’Haïti 1946",
+          "publisher": "The Chicago Defender via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Haitians_celebrating_in_front_of_the_Garde_d%27Ha%C3%AFti_1946.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "regime-duvalier-1957-1986",
+    "date": "1957-1986",
+    "dateLabel": "1957–1986",
+    "period": "Haïti contemporain",
+    "title": "Les Duvalier installent une dictature dynastique",
+    "summary": "François Duvalier devient président en 1957. Après sa mort en 1971, son fils Jean-Claude lui succède et dirige le pays jusqu’à son départ en exil en février 1986.",
+    "context": "Le régime concentre les pouvoirs, restreint les libertés politiques et s’appuie sur les forces de sécurité, dont les Volontaires de la Sécurité nationale. Les photographies de propagande et les actualités filmées doivent être lues comme des documents produits dans un contexte de contrôle politique.",
+    "actors": [
+      "François Duvalier",
+      "Jean-Claude Duvalier",
+      "Volontaires de la Sécurité nationale",
+      "Opposants et citoyens haïtiens"
+    ],
+    "causes": [
+      "Crises politiques et militaires des années 1940 et 1950",
+      "Élection présidentielle de 1957",
+      "Concentration progressive des pouvoirs exécutifs"
+    ],
+    "development": "François Duvalier gouverne de 1957 à 1971 et se fait proclamer président à vie. À sa mort, Jean-Claude Duvalier prend le pouvoir et devient président à vie en 1971. La répression, la surveillance politique, l’exil et les restrictions des libertés marquent la période. Des mobilisations populaires et la crise du régime conduisent au départ de Jean-Claude Duvalier le 7 février 1986.",
+    "consequences": "La dictature laisse des conséquences durables sur les institutions, les libertés publiques, les familles touchées par la répression et la diaspora haïtienne. Sa chute ouvre une transition politique difficile, dont l’adoption de la Constitution de 1987 constitue un repère distinct.",
+    "concepts": [
+      "dictature",
+      "pouvoir à vie",
+      "répression",
+      "exil",
+      "mémoire et témoignage"
+    ],
+    "sources": [
+      {
+        "title": "Haiti: Country Profile — The Duvalier Era",
+        "url": "https://tile.loc.gov/storage-services/master/frd/copr/Haiti.pdf",
+        "publisher": "Library of Congress, Federal Research Division",
+        "sourceType": "synthèse historique institutionnelle"
+      },
+      {
+        "title": "Haiti’s François Duvalier Dictatorship (1971), ARC 1654747",
+        "url": "https://archive.org/details/gov.archives.arc.1654747",
+        "publisher": "National Archives and Records Administration / Central Intelligence Agency",
+        "sourceType": "film d’actualités institutionnel de 1971; document d’époque à analyser avec son point de vue éditorial"
+      }
+    ],
+    "uncertainty": "Les photographies du pouvoir documentent la mise en scène officielle et les relations diplomatiques, mais pas l’expérience quotidienne de la répression. Le dossier doit être complété par des témoignages de survivants, des sources haïtiennes et des travaux de recherche sur les deux régimes.",
+    "visual": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Fran%C3%A7ois_Duvalier_Presidential_Portrait_%281957%29.png",
+      "alt": "Portrait présidentiel officiel de François Duvalier au début de son premier mandat, daté du 22 octobre 1957.",
+      "caption": "Portrait de représentation publié au début du mandat. Il renseigne sur l’image officielle du président, pas sur les conditions politiques vécues par la population.",
+      "credit": "Auteur non identifié, publication haïtienne de 1957 citée par Wikimedia Commons, domaine public selon la notice Commons",
+      "license": "Domaine public selon les notices de durée haïtienne et états-unienne indiquées par Wikimedia Commons",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Duvalier_Presidential_Portrait_%281957%29.png",
+      "source": {
+        "title": "François Duvalier Presidential Portrait (1957)",
+        "publisher": "Source éditoriale signalée : Acento; image via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_Duvalier_Presidential_Portrait_%281957%29.png"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/PikiWiki_Israel_136_papa_doc_haiti_%D7%A9%D7%9C%D7%99%D7%98_%D7%94%D7%90%D7%99%D7%98%D7%99_%D7%A4%D7%90%D7%A4%D7%90_%D7%93%D7%95%D7%A7.jpg",
+        "alt": "François Duvalier rencontre l’ambassadeur israélien non résident Yoel Bar-Romi pendant la cérémonie de sa proclamation comme président à vie en 1963.",
+        "caption": "Photographie de 1963 issue de la collection familiale Bar-Romi. Elle documente une cérémonie officielle et les relations diplomatiques; elle ne constitue pas une image de l’ensemble du régime.",
+        "credit": "Photographe non identifié, collection Bar-Romi, domaine public mondial selon le détenteur ayant déposé le fichier, via Wikimedia Commons",
+        "license": "Domaine public, cession par le détenteur du droit selon la notice Wikimedia Commons",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_136_papa_doc_haiti_%D7%A9%D7%9C%D7%99%D7%98_%D7%94%D7%90%D7%99%D7%98%D7%99_%D7%A4%D7%90%D7%A4%D7%90_%D7%93%D7%95%D7%A7.jpg",
+        "source": {
+          "title": "François Duvalier rencontre l’ambassadeur Yoel Bar-Romi (1963)",
+          "publisher": "Collection familiale Bar-Romi, numérisée par le projet PikiWiki, via Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_136_papa_doc_haiti_%D7%A9%D7%9C%D7%99%D7%98_%D7%94%D7%90%D7%99%D7%98%D7%99_%D7%A4%D7%90%D7%A4%D7%90_%D7%93%D7%95%D7%A7.jpg"
+        }
+      }
+    ]
+  },
+  {
+    "id": "fin-duvaliersistes-constitution-1987",
+    "date": "1986-1987",
+    "dateLabel": "1986–1987",
+    "period": "Haïti contemporain",
+    "title": "La dictature des Duvalier prend fin et une Constitution est adoptée",
+    "summary": "Jean-Claude Duvalier quitte le pouvoir en février 1986 après des mobilisations populaires. Une nouvelle Constitution est approuvée par référendum en mars 1987.",
+    "context": "Le régime des Duvalier, au pouvoir depuis 1957, a restreint les libertés et concentré le pouvoir. Après son départ, un gouvernement provisoire organise une transition politique.",
+    "actors": [
+      "Jean-Claude Duvalier",
+      "Manifestants et citoyens haïtiens",
+      "Conseil national de gouvernement",
+      "Assemblée constituante"
+    ],
+    "causes": [
+      "Opposition populaire au régime et à la répression",
+      "Crise politique et demandes de libertés",
+      "Mobilisations de la société haïtienne"
+    ],
+    "development": "Duvalier part en exil le 7 février 1986. Après un processus constituant, les électeurs approuvent la Constitution le 29 mars 1987; elle établit des garanties de droits et une organisation républicaine des pouvoirs.",
+    "consequences": "La Constitution fournit un nouveau cadre institutionnel et devient un repère important de la vie politique haïtienne. La transition démocratique demeure toutefois difficile et contestée.",
+    "concepts": [
+      "dictature",
+      "transition politique",
+      "référendum",
+      "constitution",
+      "droits fondamentaux"
+    ],
+    "sources": [
+      {
+        "title": "Constitution de la République d’Haïti, 29 mars 1987",
+        "url": "https://www.loc.gov/item/89115975/",
+        "publisher": "République d’Haïti, numérisée par la Library of Congress",
+        "sourceType": "texte constitutionnel primaire"
+      },
+      {
+        "title": "Report on the situation of human rights in Haiti, 1988",
+        "url": "https://digitallibrary.un.org/record/57428/files/E_CN.4_1989_40-EN.pdf",
+        "publisher": "Nations Unies, Commission des droits de l’homme",
+        "sourceType": "rapport institutionnel"
+      }
+    ],
+    "film": {
+      "title": "Haiti’s François Duvalier Dictatorship (1971)",
+      "embedUrl": "https://archive.org/embed/gov.archives.arc.1654747",
+      "sourceUrl": "https://archive.org/details/gov.archives.arc.1654747",
+      "credit": "National Archives and Records Administration",
+      "license": "CC0 1.0, selon la notice de l’archive",
+      "warning": "Ce film traite du régime de François Duvalier et ne montre ni le départ de Jean-Claude Duvalier en 1986, ni le référendum constitutionnel de 1987.",
+      "context": "Actualités d’archives américaines de 1971 sur la dictature de François Duvalier; le regard éditorial est celui du document d’époque."
+    },
+    "uncertainty": "La fin d’une dictature et l’adoption d’une Constitution ne signifient pas que les institutions démocratiques se consolident immédiatement; la période de transition reste marquée par des violences et des conflits politiques."
+  },
+  {
+    "id": "seisme-haiti-2010",
+    "date": "2010-01-12",
+    "dateLabel": "12 janvier 2010",
+    "period": "Haïti contemporain",
+    "title": "Un puissant séisme frappe Haïti",
+    "summary": "Un séisme majeur frappe la région de Port-au-Prince et d’autres zones du pays. Il provoque de très nombreuses pertes humaines et détruit des habitations et des bâtiments publics.",
+    "context": "De nombreuses familles vivent dans des bâtiments vulnérables et les services publics disposent de moyens limités pour répondre à une catastrophe de cette ampleur.",
+    "actors": [
+      "Habitants des zones touchées",
+      "Services haïtiens de secours et de santé",
+      "Organisations et équipes de secours internationales"
+    ],
+    "causes": [
+      "Mouvement des plaques tectoniques le long d’une faille de la région"
+    ],
+    "development": "Le séisme du 12 janvier touche notamment Port-au-Prince et ses environs. Les secours haïtiens et internationaux interviennent dans des conditions difficiles pour retrouver des survivants, soigner les blessés et aider les personnes déplacées.",
+    "consequences": "La catastrophe détruit des logements et des infrastructures, bouleverse la vie de millions de personnes et entraîne une longue reconstruction.",
+    "concepts": [
+      "séisme",
+      "catastrophe naturelle",
+      "secours",
+      "reconstruction",
+      "vulnérabilité"
+    ],
+    "sources": [
+      {
+        "title": "Rebuilding Haiti: The post-earthquake path to recovery",
+        "url": "https://unsdg.un.org/latest/stories/rebuilding-haiti-post-earthquake-path-recovery",
+        "publisher": "United Nations Sustainable Development Group",
+        "sourceType": "récit institutionnel de reconstruction"
+      },
+      {
+        "title": "Haiti earthquake: 9 years after",
+        "url": "https://peacekeeping.un.org/fr/node/109112",
+        "publisher": "Nations Unies, Opérations de maintien de la paix",
+        "sourceType": "synthèse institutionnelle"
+      }
+    ],
+    "uncertainty": "Les estimations du nombre de morts varient selon les sources et les méthodes; cette fiche évite un total unique présenté comme définitif.",
+    "visual": {
+      "url": "https://commons.wikimedia.org/wiki/Special:FilePath/The_earthquake_damage_in_Port-au-Prince,_Haiti,_is_photographed_Jan._30,_2010,_during_Operation_Unified_Response_100201-N-HX866-003.jpg?width=1200",
+      "alt": "Dégâts causés par le séisme à Port-au-Prince, photographiés le 30 janvier 2010 pendant l’opération Unified Response.",
+      "caption": "Port-au-Prince après le séisme du 12 janvier 2010. Photographie prise lors d’une opération de secours américaine.",
+      "credit": "U.S. Navy / National Archives and Records Administration, domaine public",
+      "license": "Domaine public (œuvre fédérale américaine)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:The_earthquake_damage_in_Port-au-Prince,_Haiti,_is_photographed_Jan._30,_2010,_during_Operation_Unified_Response_100201-N-HX866-003.jpg",
+      "source": {
+        "title": "Dégâts du séisme à Port-au-Prince, 30 janvier 2010",
+        "publisher": "U.S. Navy / NARA via Wikimedia Commons",
+        "url": "https://commons.wikimedia.org/wiki/File:The_earthquake_damage_in_Port-au-Prince,_Haiti,_is_photographed_Jan._30,_2010,_during_Operation_Unified_Response_100201-N-HX866-003.jpg"
+      }
+    },
+    "gallery": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Haitian%20men%2C%20women%20and%20children%20operate%20heavy%20equipment%2C%20pick%20up%20trash%20and%20remove%20debris%20in%20Port-au-Prince%2C%20Haiti%2C%20March%2017%2C%202010%2C%20in%20the%20aftermath%20of%20a%207.0-magnitude%20earthquake%20that%20struck%20the%20Caribbean%20nation%20100317-N-HX866-002.jpg?width=1200",
+        "alt": "Des habitantes et habitants de Port-au-Prince enlèvent des débris le 17 mars 2010, après le séisme.",
+        "caption": "Photographie documentaire de la réponse locale et du déblaiement, prise deux mois après le séisme; elle montre des habitants au travail.",
+        "credit": "U.S. Navy / MCC Spike Call",
+        "license": "Domaine public (photographie d’un employé fédéral américain)",
+        "licenseUrl": "https://commons.wikimedia.org/wiki/File:Haitian_men%2C_women_and_children_operate_heavy_equipment%2C_pick_up_trash_and_remove_debris_in_Port-au-Prince%2C_Haiti%2C_March_17%2C_2010%2C_in_the_aftermath_of_a_7.0-magnitude_earthquake_that_struck_the_Caribbean_nation_100317-N-HX866-002.jpg",
+        "source": {
+          "title": "Residents remove debris in Port-au-Prince, 17 March 2010",
+          "publisher": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/File:Haitian_men%2C_women_and_children_operate_heavy_equipment%2C_pick_up_trash_and_remove_debris_in_Port-au-Prince%2C_Haiti%2C_March_17%2C_2010%2C_in_the_aftermath_of_a_7.0-magnitude_earthquake_that_struck_the_Caribbean_nation_100317-N-HX866-002.jpg"
+        }
+      }
+    ]
+  }
+]
